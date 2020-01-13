@@ -6,7 +6,7 @@ from bs4 import BeautifulSoup as bsoup
 import re
 
 
-def driver_init(headless = True):
+def driver_init_chrome(headless = True):
     if not headless:
         return webdriver.Chrome(executable_path = r'/Users/garrettwilliford/Downloads/chromedriver-2')
     fop = Options()
@@ -14,6 +14,8 @@ def driver_init(headless = True):
     fop.add_argument('--window_size1920x1080')
     return webdriver.Chrome(executable_path = r'/Users/garrettwilliford/Downloads/chromedriver-2', options = fop)
 
+def driver_init():
+    return webdriver.PhantomJS(executable_path = r'/Users/mattsantos/Downloads/phantomjs-2.1.1-macosx/bin/phantomjs')
 
 def hyperlink_append(final, link):
     data = pd.DataFrame()
@@ -48,12 +50,17 @@ def dataframe_webscraper(data, driver = False):
     final = {'Violations' : [], 'Address' : [], 'Inspector' : []}
     iteration = 1
     for d in data['LINK']:
-        violations, address, inspector = extract_info(driver, d)
-        final['Violations'].append(violations)
-        final['Address'].append(address)
-        final['Inspector'].append(inspector)
-        print(str(iteration) + '/' + str(len(data)))
-        iteration += 1
+        while True:
+            try:
+                violations, address, inspector = extract_info(driver, d)
+                final['Violations'].append(violations)
+                final['Address'].append(address)
+                final['Inspector'].append(inspector)
+                print(str(iteration) + '/' + str(len(data)))
+                iteration += 1
+                break
+            except:
+                print('DRIVER_FAILED')
     if not driver:
         driver.quit()      
     return pd.DataFrame(final)
