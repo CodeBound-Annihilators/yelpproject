@@ -6,6 +6,10 @@ from bs4 import BeautifulSoup as bsoup
 import re
 import json
 
+<<<<<<< HEAD
+
+=======
+>>>>>>> ce6f7647fd74f759de9049827d586479e58f203c
 def driver_init_chrome(headless = True):
     if not headless:
         return webdriver.Chrome(executable_path = r'/Users/garrettwilliford/Downloads/chromedriver-2')
@@ -15,8 +19,12 @@ def driver_init_chrome(headless = True):
     return webdriver.Chrome(executable_path = r'/Users/garrettwilliford/Downloads/chromedriver-2', options = fop)
 
 def driver_init():
+<<<<<<< HEAD
+    return webdriver.PhantomJS(executable_path = r'/Users/mattsantos/Downloads/phantomjs-2.1.1-macosx/bin/phantomjs')
+=======
     return webdriver.PhantomJS(executable_path = r'/Users/garrettwilliford/Downloads/phantomjs-2.1.1-macosx/bin/phantomjs')
 
+>>>>>>> ce6f7647fd74f759de9049827d586479e58f203c
 
 def hyperlink_append(final, link):
     data = pd.DataFrame()
@@ -59,6 +67,13 @@ def dataframe_webscraper(data, driver = False):
                 final['Violations'].append(violations)
                 final['Address'].append(address)
                 final['Inspector'].append(inspector)
+<<<<<<< HEAD
+                print(str(iteration) + '/' + str(len(data)))
+                iteration += 1
+                break
+            except:
+                print('DRIVER_FAILED')
+=======
                 print('<<<<<<<<<<(' + str(iteration) + '/' + str(len(data)) + ')>>>>>>>>>>')
                 print(inspector)
                 print(address)
@@ -68,6 +83,7 @@ def dataframe_webscraper(data, driver = False):
                 break
             except:
                 print('<<!|DRIVER_FAILED|!>>')
+>>>>>>> ce6f7647fd74f759de9049827d586479e58f203c
     if not driver:
         driver.quit()      
     return pd.DataFrame(final)
