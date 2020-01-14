@@ -12,5 +12,10 @@
 
         In order to use Selenium, the user needs to -pip install Selenium onto their computer. Additionally, the use of the PhantomJS Driver also requires a donwload from . 
 
-        The choice of Selenium over Beautiful Soup boiled down to personal preference and did not come at the cost of efficiency. The decision to use the Phantom JS driver was made because it provided better speed using the request method. 
-    - Using the available API from the Yelp website to get the information we needed to predict our target variable: Health inspector code.     Yelp would only allow use to acquire 1,000 per inquiry, but by doing seperate inquires by type of reastaurant. By pulling each type of    restaurant we are able to get the information needed (about 3,000 of the establishments in San Antonio)
+        The choice of Selenium over Beautiful Soup boiled down to personal preference and did not come at the cost of efficiency. The decision to use the Phantom JS driver was made because it provided better speed using the request method. **make sure to allow phantomjs in your secuirty preferences**
+    - Using the available API from the Yelp website to get the information we needed to predict our target variable: Health inspector code. Yelp would only allow use to acquire 1,000 per inquiry, but by doing seperate inquires by type of reastaurant. By pulling each type of restaurant we are able to get the information needed (about 3,000 of the establishments in San Antonio)
+
+      - ##### The amount of health establishments vs the aquisistion of yelp is uneven due to the fact that health inspections apply to any place that will sell foor including such estbaliushments that may just have a vending machine. We will be discarding these establiushments for this model.
+
+2. Clean and Prep
+    
