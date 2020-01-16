@@ -19,6 +19,11 @@
 
       - ##### The amount of health establishments vs the aquisistion of yelp is uneven due to the fact that health inspections apply to any place that will sell foor including such estbaliushments that may just have a vending machine. We will be discarding these establiushments for this model.
 
-2. Clean and Prep
-    - to prep for the joining of tables we had to split the address in to house number and street name. We will also use the restaurant name to join
-    - to join the health inspector data and the Yelp data, we will be joing the dataframes using the address as the join index Levenshtein distance (https://www.python-course.eu/levenshtein_distance.php)
+
+
+2. Prep
+    ### Joining the Data
+    Using the address as primary key to join between the dataframes
+    - 
+    -
+    Levenshtein distance (https://www.python-course.eu/levenshtein_distance.php)
