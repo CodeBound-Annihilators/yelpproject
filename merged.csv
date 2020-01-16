@@ -1,0 +1,1298 @@
+,establishment_x,establishment_y,address_x,address_y,trimmed_name_x,trimmed_name_y,clean_address_x,clean_address_y,address_distance,name_distance
+0,capparellis on main,Capparelli's On Main,2524 main av n ,2524 n main ave,capparellis  main,capparellis  main,main,n maine,3,0
+1,chama gaucha brazilion steakhouse i,Chama Gaucha Brazilian Steakhouse,18318 sonterra place ,18318 sonterra pl,cham gauch brazili steakhouse i,cham gauch brazili steakhouse,sonterra place,sonterra pl,3,2
+2,luther's cafe,Luther's Cafe,1503 main av n ,1503 n main ave,luther's cafe,luthers cafe,main,n maine,3,1
+3,the lost bar & grill,The Lost Bar & Grill,12730 nw military hy ,12730 nw military hwy, lost bar & grill, lost bar  grill,military hwy,nw military hwy,3,1
+4,whataburger #327,Whataburger,11003 nw military hy ,11003 nw military hwy,whataburger #327,whataburger,military hwy,nw military hwy,3,5
+5,thousand oaks cafe,Thousand Oaks Cafe,12930 jones maltsbrg ,12930 jones maltsberger,thousand oaks cafe,thousand oaks cafe,jones maltsbrg,jones maltsberger,3,0
+6,tre trattoria,Tre Trattoria,200 jones av w ,200 w jones ave,tre trattoria,tre trattoria,jones,w jonese,3,0
+7,salata,Salata,11075 ih 10 w ,11075 w ih-10 w,salata,salata,ih 10,w ih-10,3,0
+8,la botana mexican grill,La Botana Grill,1401 hildebrand w ,1401 w hildebrand ave,l botan mexic grill,l botan grill,hildebrand,w hildebrande,3,6
+9,gogi street,Gogi Street,12820 jones maltsbrg ,12820 jones maltsberger rd,gogi street,gogi street,jones maltsbrg,jones maltsberger,3,0
+10,hilton san antonio airport,Hilton San Antonio Airport,611 loop 410 nw ,611 nw lp 410,hilt s antonio airport,hilt s antonio airport,lp 410,nw lp 410,3,0
+11,marcos pizza,Marco's Pizza,14510 military hy nw ,14510 nw military hwy,marcos pizza,marcos pizza,military hwy,nw military hwy,3,0
+12,chela's tacos,Chela's Tacos,3420 st marys n ,3420 n st mary's st,chela's tacos,chelas tacos,st marys,n mary's,3,1
+13,kokee tea,Pokeworks,15900 la cantera parkway ,15900 la cantera pkwy,kokee tea,pokeworks,la cantera parkway,la cantera pkwy,3,6
+14,vn bistro,Pho VN Bistro,10003 nw military hy ,10003 nw military hwy,vn bistro,pho vn bistro,military hwy,nw military hwy,3,4
+15,marble slab creamery #937,Marble Slab Creamery,15900 la cantera parkway ,15900 la cantera pkwy,marble slab creamery #937,marble slab creamery,la cantera parkway,la cantera pkwy,3,5
+16,quarry hofbrau & beer garden,Quarry Hofbrau & Beer Garden,7310 jones maltsbrg ,7310 jones maltsberger rd,quarry hofbrau & beer garden,quarry hofbrau  beer garden,jones maltsbrg,jones maltsberger,3,1
+17,baskin robbins cpi,Baskin-Robbins,10003 nw military hy ,10003 nw military hwy,bask robbins cpi,baskinrobbins,military hwy,nw military hwy,3,6
+18,el capricho,El Capricho #2,6835 n fm 1604 w ,6835 n 1604 w, capricho, capricho 2,n fm 1604,n 1604,3,2
+19,bill miller bbq #51,Bill Miller Bar-B-Q,501 st marys n ,501 n st mary's,bill miller bbq #51,bill miller barbq,st marys,n mary's,3,6
+20,godiva chocolatier #,Godiva Chocolatier,15900 la cantera parkway ,15900 la cantera pkwy,godiv chocolatier #,godiv chocolatier,la cantera parkway,la cantera pkwy,3,2
+21,pizza classics,Pizza Classics,3440 st marys n ,3440 n st mary's,pizz classics,pizz classics,st marys,n mary's,3,0
+22,bar louie,Bar Louie,15900 la cantera parkway ,15900 la cantera pkwy,bar louie,bar louie,la cantera parkway,la cantera pkwy,3,0
+23,cypress cafe #,Cypress Cafe,1222 main av n ,1222 n main ave,cypress cafe #,cypress cafe,main,n maine,3,2
+24,williams-sonoma #836,Williams-Sonoma,15900 la cantera parkway ,15900 la cantera pkwy,williams-sonom #836,williamssonoma,la cantera parkway,la cantera pkwy,3,6
+25,bar louie,Yard House,15900 la cantera parkway ,15900 la cantera pkwy,bar louie,yard house,la cantera parkway,la cantera pkwy,3,4
+26,bar louie,Bazille,15900 la cantera parkway ,15900 la cantera pkwy,bar louie,bazille,la cantera parkway,la cantera pkwy,3,5
+27,bar louie,Mariposa,15900 la cantera parkway ,15900 la cantera pkwy,bar louie,mariposa,la cantera parkway,la cantera pkwy,3,6
+28,tortirica,Tortirica,805 hildebrand w ,805 w hildebrand ave,tortirica,tortirica,hildebrand,w hildebrande,3,0
+29,dunkin donuts,Dunkin',14510 military hy nw ,14510 nw military hwy,dunk donuts,dunkin,military hwy,nw military hwy,3,6
+30,el mirasol,El Mirasol,10003 nw military hy ,10003 nw military hwy, mirasol, mirasol,military hwy,nw military hwy,3,0
+31,little death,Little Death,2327 st marys n ,2327 n st mary's st,little death,little death,st marys,n mary's,3,0
+32,el rafas cafe,El Rafa's Cafe,1535 hildebrand w ,1535 w hildebrand ave, rafas cafe, rafas cafe,hildebrand,w hildebrande,3,0
+33,old fashioned donuts,Old Fashion Donuts,12914 jones maltsbrg ,12914 jones maltsberger,old fashioned donuts,old fashi donuts,jones maltsbrg,jones maltsberger,3,4
+34,scooped cookie dough bar,Scooped Cookie Dough Bar,15900 la cantera parkway ,15900 la cantera pkwy,scooped cookie dough bar,scooped cookie dough bar,la cantera parkway,la cantera pkwy,3,0
+35,thai hut bistro #3,Thai Hut Bistro,3111 tpc parkway ,3111 tpc pkwy,thai hut bistro #3,thai hut bistro,tpc parkway,tpc pkwy,3,3
+36,the east bar,The East Bar,829 n new brnfls ,829 n new braunfels, east bar, east bar,new brnfls,new braunfels,3,0
+37,finas kitchen,Fina's Kitchen,914 hildebrand w ,914 w hildebrand ave,finas kitchen,finas kitchen,hildebrand,w hildebrande,3,0
+38,rolandos super tacos,Rolando's Super Tacos No 1,919 hildebrand w ,919 w hildebrand ave,rolandos super tacos,rolandos super tacos no 1,hildebrand,w hildebrande,3,5
+39,bushwood bbq,Bushwood BBQ,13800 jones maltsbrg ,13800 jones maltsberger rd,bushwood bbq,bushwood bbq,jones maltsbrg,jones maltsberger,3,0
+40,the inn downtown/museum reach,The Inn Downtown/Museum Reach,1614 st marys n ,1614 n st mary's st, inn downtown/museum reach, inn downtown/museum reach,st marys,n mary's,3,0
+41,taco taco cafe,Taco Taco Cafe,145 hildebrand e ,145 e hildebrand ave,taco taco cafe,taco taco cafe,hildebrand,e hildebrande,3,0
+42,trinity baptist church,Trinity Baptist Church,319 mulberry av e ,319 e mulberry ave,trinity baptist church,trinity baptist church,mulberry,e mulberrye,3,0
+43,kokee tea,The Baked Bear,15900 la cantera parkway ,15900 la cantera pkwy,kokee tea, baked bear,la cantera parkway,la cantera pkwy,3,6
+44,tokyo mart,Tokyo Mart,825 hildebrand w ,825 w hildebrand ave,tokyo mart,tokyo mart,hildebrand,w hildebrande,3,0
+45,dim sum oriental cuisine,Dim Sum Oriental Cuisine,2313 nw military hy ,2313 nw military hwy,dim sum oriental cuisine,dim sum oriental cuisine,military hwy,nw military hwy,3,0
+46,bill miller bbq #28,Bill Miller Bar-B-Q,1720 new brnfls n ,1720 n new braunfels,bill miller bbq #28,bill miller barbq,new brnfls,new braunfels,3,6
+47,bushwood bbq,Bushwood CC,13800 jones maltsbrg ,13800 jones maltsberger rd,bushwood bbq,bushwood cc,jones maltsbrg,jones maltsberger,3,3
+48,sea island shrimp house #s3,Sea Island Shrimp House,5959 loop 410 nw ,5959 nw lp 410,se island shrimp house #s3,se island shrimp house,lp 410,nw lp 410,3,4
+49,el buho,Katii,2710 st marys n ,2710 n st mary's st, buho,katii,st marys,n mary's,3,5
+50,main street pizza and pasta,Main Street Pizza & Pasta,1906 main av n ,1906 n main ave,m street pizz and pasta,m street pizz  pasta,main,n maine,3,3
+51,abuelas mexican restaurant,Abuela's Mexican Restaurant,2313 nw military hy ,2313 nw military hwy,abue mexic restaurant,abuelas mexic restaurant,military hwy,nw military hwy,3,3
+52,sweet paris creperie & cafe,Sweet Paris Crêperie & Café,15900 la cantera parkway ,15900 la cantera pkwy,sweet paris creperie & cafe,sweet paris crêperie  café,la cantera parkway,la cantera pkwy,3,3
+53,baked bear,The Baked Bear,15900 la cantera parkway ,15900 la cantera pkwy,baked bear, baked bear,la cantera parkway,la cantera pkwy,3,1
+54,baked bear,kokeetea,15900 la cantera parkway ,15900 la cantera pkwy,baked bear,kokeetea,la cantera parkway,la cantera pkwy,3,6
+55,vanessa's mexican food,Vanessa's Mexican Food,1621 main av n ,1621 n main ave,vanessa's mexic food,vanessas mexic food,main,n maine,3,1
+56,el buho,El Buho satx,2710 st marys n ,2710 n st mary's st, buho, buho satx,st marys,n mary's,3,5
+57,bill miller bbq #29,Bill Miller Bar-B-Q,13151 nw military hy ,13151 nw military hwy,bill miller bbq #29,bill miller barbq,military hwy,nw military hwy,3,6
+58,buchwood cc,Bushwood BBQ,13800 jones maltsbrg ,13800 jones maltsberger rd,buchwood cc,bushwood bbq,jones maltsbrg,jones maltsberger,3,4
+59,buchwood cc,Bushwood CC,13800 jones maltsbrg ,13800 jones maltsberger rd,buchwood cc,bushwood cc,jones maltsbrg,jones maltsberger,3,1
+60,oasis cafe,Oasis Cafe,323 main av n ,323 n main ave,oasis cafe,oasis cafe,main,n maine,3,0
+61,kokee tea,kokeetea,15900 la cantera parkway ,15900 la cantera pkwy,kokee tea,kokeetea,la cantera parkway,la cantera pkwy,3,1
+62,chick fil a,Chick-fil-A,15900 la cantera parkway ,15900 la cantera pkwy,chick fil a,chickfila,la cantera parkway,la cantera pkwy,3,2
+63,green vegetarian cuisine,Green Vegetarian Cuisine,10003 nw military hy ,10003 nw military hwy,green vegetari cuisine,green vegetari cuisine,military hwy,nw military hwy,3,0
+64,the wing shack,The Wing Shack,1022 main av n ,1022 n main ave, wing shack, wing shack,main,n maine,3,0
+65,kuenstler brewing,Künstler Brewing,302 lachappelle e ,302 e lachapelle,kuenstler brewing,künstler brewing,lachappelle,e lachapelle,3,2
+66,the juice experiment,The Juice Experiment,3438 st marys n ,3438 n st mary's st, juice experiment, juice experiment,st marys,n mary's,3,0
+67,ruths chris steak house,Ruth's Chris Steak House,7720 jones maltsbrg ,7720 jones maltsberger rd,ruths chris steak house,ruths chris steak house,jones maltsbrg,jones maltsberger,3,0
+68,thirsty horse saloon,Thirsty Horse Saloon,2335 nw military hy ,2335 nw military hwy,thirsty horse saloon,thirsty horse saloon,military hwy,nw military hwy,3,0
+69,bedoys bakery,Bedoy's Bakery,803 hildebrand w ,803 w hildebrand ave,bedoys bakery,bedoys bakery,hildebrand,w hildebrande,3,0
+70,pho ha long,Pho Ha Long,6424 loop 410 nw ,6424 nw lp 410,pho h long,pho h long,lp 410,nw lp 410,3,0
+71,ice cream & choc by the river,Ice Cream & Chocolate by the River,123 losoya ,123 losoya 5a,ice cream & choc   river,ice cream  chocolate   river,losoya,losoya 5a,3,6
+72,myron's prime steakhouse,Myron's Prime Steakhouse,10003 nw military hy ,10003 nw military hwy,myron's prime steakhouse,myrons prime steakhouse,military hwy,nw military hwy,3,1
+73,ags cake supplies,AGS Cake Supplies,630 loop 410 nw ,630 nw lp 410,ags cake supplies,ags cake supplies,lp 410,nw lp 410,3,0
+74,mama's kitchen,Mama's Kitchen,504 hildebrand w ,504 w hildebrand ave,mama's kitchen,mamas kitchen,hildebrand,w hildebrande,3,1
+75,sumo japanese steakhouse,Sumo Japanese Steakhouse,8342 ih 10 w ,8342 w ih-10,sumo japanese steakhouse,sumo japanese steakhouse,ih 10,w ih-10,3,0
+76,mcdonalds #7091,McDonald's,703 houston st w ,703 w houston ave,mcdonalds #7091,mcdonalds,houston,w houstone,3,6
+77,carlo's bake shop,Carlo's Bakery,15900 la cantera parkway ,15900 la cantera pkwy,carlo's bake shop,carlos bakery,la cantera parkway,la cantera pkwy,3,6
+78,la cabana de jalisco,La Cabana de Jalisco,727 hildebrand w ,727 w hildebrand ave,l caban  jalisco,l caban  jalisco,hildebrand,w hildebrande,3,0
+79,temple beth-el,Temple Beth-El,211 belknap st ,211 belknap pl,temple beth-el,temple bethel,belknap,belknap pl,3,1
+80,northwest food mart,Northwest Food Mart,2395 nw military hy ,2395 nw military hwy,northwest food mart,northwest food mart,military hwy,nw military hwy,3,0
+81,chipotle mexican grill #480,Chipotle Mexican Grill,7322 jones maltsbrg ,7322 jones maltsberger rd,chipotle mexic grill #480,chipotle mexic grill,jones maltsbrg,jones maltsberger,3,5
+82,summermoon coffee bar,Summer Moon Coffee Bar,3233 st marys n ,3233 n st mary's st,summermo coffee bar,summer mo coffee bar,st marys,n mary's,3,1
+83,salata,Salata,700 east sonterra ,700 e sonterra blvd,salata,salata,eastonterra,eonterra,3,0
+84,grimaldis pizza #,Grimaldi's Pizzeria,15900 la cantera parkway ,15900 la cantera pkwy,grimaldis pizz #,grimaldis pizzeria,la cantera parkway,la cantera pkwy,3,4
+85,laugh out loud comedy club,Laugh Out Loud Comedy Club,618 loop 410 nw ,618 nw lp 410,laugh out loud comedy club,laugh out loud comedy club,lp 410,nw lp 410,3,0
+86,perfect score,Perfect Score,6420 loop 410 nw ,6420 nw lp 410,perfect score,perfect score,lp 410,nw lp 410,3,0
+87,taco cabana #373,Taco Cabana,4315 loop 410 nw ,4315 nw lp 410,taco caban #373,taco cabana,lp 410,nw lp 410,3,5
+88,three legged monkey,The Three Legged Monkey,2313 nw military hy ,2313 nw military hwy,three legged monkey, three legged monkey,military hwy,nw military hwy,3,1
+89,fredrick's bistro,Frederick's Bistro,14439 military hy nw ,14439 nw military hwy,fredrick's bistro,fredericks bistro,military hwy,nw military hwy,3,2
+90,the amp room,The Amp Room,2407 st marys n ,2407 n st mary's st, amp room, amp room,st marys,n mary's,3,0
+91,wrigleyville grill,Wrigleyville Grill,602 loop 410 nw ,602 nw lp 410,wrigleyville grill,wrigleyville grill,lp 410,nw lp 410,3,0
+92,kona grill,Kona Grill,15900 la cantera parkway ,15900 la cantera pkwy,kon grill,kon grill,la cantera parkway,la cantera pkwy,3,0
+93,home suites,Home Suites,4934 loop 410 nw ,4934 nw lp 410,home suites,home suites,lp 410,nw lp 410,3,0
+94,la fonda on main,La Fonda on Main,2415 main av n ,2415 n main ave,l fond  main,l fond  main,main,n maine,3,0
+95,janthonys seafood cafe,J Anthony's Seafood,7210 loop 410 nw ,7210 nw lp 410,janthonys seafood cafe,j anthonys seafood,lp 410,nw lp 410,3,6
+96,the cookhouse,Cookhouse,720 mistletoe av e ,720 e mistletoe ave, cookhouse,cookhouse,mistletoe,e mistletoee,3,1
+97,the cheesecake factory,The Cheesecake Factory,15900 la cantera parkway ,15900 la cantera pkwy, cheesecake factory, cheesecake factory,la cantera parkway,la cantera pkwy,3,0
+98,the candlelight coffee house,Candlelight Coffeehouse,3011 st marys n ,3011 n st mary's, candlelight coffee house,candlelight coffeehouse,st marys,n mary's,3,2
+99,chamoy city limits,Chamoy City Limits,447 hildebrand w ,447 w hildebrand ave,chamoy city limits,chamoy city limits,hildebrand,w hildebrande,3,0
+100,fajita taco place #3,Fajita Taco Place,1816 thompson place ,1816 thompson pl,fajit taco place #3,fajit taco place,thompson place,thompson pl,3,3
+101,walgreens #3571,Walgreens,14505 nw military hy ,14505 nw military hwy,walgreens #3571,walgreens,military hwy,nw military hwy,3,6
+102,churchs chicken # 372,Church's Chicken,1839 hildebrand w ,1839 w hildebrand ave,churchs chicken # 372,churchs chicken,hildebrand,w hildebrande,3,6
+103,blue bell creameries lp,Blue Bell Creameries,4631 timco west ,4631 timco w,blue bell creameries lp,blue bell creameries,timcoest,timco,3,3
+104,francis bogside,Francis Bogside,803 st marys s ,803 s saint marys st,francis bogside,francis bogside,st marys,saint marys,3,0
+105,peter piper pizza #,Peter Piper Pizza,4811 commerce st w ,4811 w commerce st,peter piper pizz #,peter piper pizza,commerce,w commerce,2,2
+106,rainforest cafe #,Rainforest Cafe,110 crockett st e ,110 e crockett,rainforest cafe #,rainforest cafe,crockett,e crockett,2,2
+107,mittman fine food,Mittman Fine Foods,1125 mittman st s ,1125 s mittman st,mittm fine food,mittm fine foods,mittman,s mittman,2,1
+108,mediterranean turkish grill,Mediterranean Turkish grill,8507 mc cullough av ,8507 mccullough ave,mediterrane turkish grill,mediterrane turkish grill,mc cullough,mcculloughe,2,0
+109,outlaw kitchens,Outlaw Kitchens,2919 flores st n ,2919 n flores st,outlaw kitchens,outlaw kitchens,flores,n flores,2,0
+110,the cobalt club #,Cobalt Club,2022 mc cullough av ,2022 mccullough ave, cobalt club #,cobalt club,mc cullough,mcculloughe,2,3
+111,the local bar,The Local Bar,600 presa st n ,600 n presa st, local bar, local bar,presa,n presa,2,0
+112,zocalo,Zócalo Mio,175 houston st e ,175 e houston st,zocalo,zócalo mio,houston,e houston,2,5
+113,maria's tacos and pupusas,Maria's Tacos and Pupusas,702 acme rd s ,702 s acme rd,maria's tacos and pupusas,marias tacos and pupusas,acme,s acme,2,1
+114,taqueria la joya dgo,Taqueria La Joya Durango,2819 zarzamora s ,2819 s zarzamora st,taqueri l joy dgo,taqueri l joy durango,zarzamora,s zarzamora,2,4
+115,down on grayson,Down on Grayson,303 grayson st e ,303 e grayson st,down  grayson,down  grayson,grayson,e grayson,2,0
+116,hotel contessa,Hotel Contessa,306 market st w ,306 w market st,hot contessa,hot contessa,market,w market,2,0
+117,marriott plaza san antonio,Marriott Plaza San Antonio,555 alamo st s ,555 s alamo st,marriott plaz s antonio,marriott plaz s antonio,alamo,s alamo,2,0
+118,grand hyatt san antonio,Grand Hyatt San Antonio,600 market st e ,600 e market st,grand hyatt s antonio,grand hyatt s antonio,market,e market,2,0
+119,little rhein steak house,Little Rhein Steak House,231 alamo st s ,231 s alamo st,little rhe steak house,little rhe steak house,alamo,s alamo,2,0
+120,great american cookie,Great American Cookies,849 commerce st e ,849 e commerce st,great americ cookie,great americ cookies,commerce,e commerce,2,1
+121,ihop #3544,IHOP,849 commerce st e ,849 e commerce st,ihop #3544,ihop,commerce,e commerce,2,6
+122,louisiana famous fried chicken,Louisiana famous fried chicken,849 commerce st e ,849 e commerce st,louisian famous fried chicken,louisian famous fried chicken,commerce,e commerce,2,0
+123,the drop zone cafe & bar,Drop Zone Cafe & Bar,1804 carson st e ,1804 e carson, drop zone cafe & bar,drop zone cafe  bar,carson,e carson,2,2
+124,la placita mexican cafe,La Placita Mexican Cafe,5403 commerce st w ,5403 w commerce,l placit mexic cafe,l placit mexic cafe,commerce,w commerce,2,0
+125,the brown coffee co.,Brown Coffee Co.,812 alamo st s ,812 s alamo st, brown coffee co.,brown coffee co.,alamo,s alamo,2,1
+126,taqueria datapoint,Taqueria Datapoint 5,1702 gramercy pl w ,1702 w gramercy pl,taqueri datapoint,taqueri datapoint 5,gramercy pl,w gramercy pl,2,2
+127,my little taco house # 2,My Little Taco House,2125 flores st s ,2125 s flores st,my little taco house # 2,my little taco house,flores,s flores,2,4
+128,cafe alameda,Cafe Alameda,342 houston st w ,342 w houston st,cafe alameda,cafe alameda,houston,w houston,2,0
+129,toro kitchen and bar,Toro Kitchen + Bar,1142 commerce st e ,1142 e commerce st,toro kitchen and bar,toro kitchen + bar,commerce,e commerce,2,3
+130,st marks episcopal church,St Mark's Episcopal Church,315 pecan st e ,315 e pecan st,st marks episcopal church,st marks episcopal church,pecan,e pecan,2,0
+131,j & i cafe,J & I Cafe,1431 houston st e ,1431 e houston st,j & i cafe,j  i cafe,houston,e houston,2,1
+132,smoke the restaurant,Smoke BBQ Restaurant,1170 commerce st e ,1170 e commerce,smoke  restaurant,smoke bbq restaurant,commerce,e commerce,2,3
+133,travis park united methodist church,Travis Park United Methodist Church,230 travis st e ,230 e travis st,travis park united methodist church,travis park united methodist church,travis,e travis,2,0
+134,the maverick texas brasserie,Maverick Texas Brasserie,710 st marys s ,710 s st mary's st, maverick texas brasserie,maverick texas brasserie,st marys,s mary's,2,1
+135,el marinero,El Marinero,1819 mc cullough av ,1819 mccullough ave, marinero, marinero,mc cullough,mcculloughe,2,0
+136,eddies taco house,Eddie's Taco House,402 cevallos st w ,402 w cevallos,eddies taco house,eddies taco house,cevallos,w cevallos,2,0
+137,el pollo loco,El Pollo Loco,151 bitters rd w ,151 w bitters rd, pollo loco, pollo loco,bitters,w bitters,2,0
+138,house of pizza,House of pizza,2620 presa st s ,2620 s presa st,house  pizza,house  pizza,presa,s presa,2,0
+139,lick honest ice cream,Lick Honest Ice Creams,312 pearl py ,312 pearl pkwy,lick honest ice cream,lick honest ice creams,pearl py,pearl pkwy,2,1
+140,jokesters 22 pub n grub,Jokesters 22 Pub N Grub,713 alamo st s ,713 s alamo st,jokesters 22 pub n grub,jokesters 22 pub n grub,alamo,s alamo,2,0
+141,ming's thing,Ming's Thing,5249 mc cullough av ,5249 mccullough ave,ming's thing,mings thing,mc cullough,mcculloughe,2,1
+142,hard rock cafe #,Hard Rock Cafe,111 crockett st w ,111 w crockett st,hard rock cafe #,hard rock cafe,crockett,w crockett,2,2
+143,bartons boozery inc #,Barton's Boozery,7050 military dr w ,7050 w military dr,bartons boozery inc #,bartons boozery,military,w military,2,6
+144,county line,The County Line,111 crockett st w ,111 w crockett st,county line, county line,crockett,w crockett,2,1
+145,arbys #112,Arby's,6818 military dr w ,6818 w military dr,arbys #112,arbys,military,w military,2,5
+146,fat tummy empanadas,Fat Tummy Empanadas,2922 commerce st w ,2922 w commerce st,fat tummy empanadas,fat tummy empanadas,commerce,w commerce,2,0
+147,the davenport lounge,Davenport Lounge,203 presa st n ,203 n presa st, davenport lounge,davenport lounge,presa,n presa,2,1
+148,pizza hut #,Pizza Hut,4001 commerce st w ,4001 w commerce st,pizz hut #,pizz hut,commerce,w commerce,2,2
+149,coffeecionado,Coffeecionado,502 mitchell st w ,502 w mitchell st,coffeecionado,coffeecionado,mitchell,w mitchell,2,0
+150,revolucion coffee + juice,Revolucion Coffee + Juice,300 houston st e ,300 e houston st,revoluci coffee + juice,revoluci coffee + juice,houston,e houston,2,0
+151,potbelly sandwich shop,Potbelly Sandwich Shop,290 basse e ,290 e basse rd,potbelly sandwich shop,potbelly sandwich shop,basse,e basse,2,0
+152,fizz bar,Fizz Bar,1218 bitters rd w ,1218 w bitters rd,fizz bar,fizz bar,bitters,w bitters,2,0
+153,el taco riendo,El Taco Riendo,7553 mc cullough av ,7553 mccullough ave, taco riendo, taco riendo,mc cullough,mcculloughe,2,0
+154,acenar restaurant,Acenar Mexican Restaurant,146 houston st e ,146 e houston st,acenar restaurant,acenar mexic restaurant,houston,e houston,2,6
+155,taqueria el gallo de jalisco,Taqueria El Gallo De Jalisco,3615 west av ,3615 w ave,taqueri  gallo  jalisco,taqueri  gallo  jalisco,west,we,2,0
+156,box 903,Box 903,903 bitters rd e ,903 e bitters rd,box 903,box 903,bitters,e bitters,2,0
+157,zoe's kitchen,Zoes Kitchen,999 basse e ,999 e basse rd,zoe's kitchen,zoes kitchen,basse,e basse,2,1
+158,the dakota,THE DAKOTA,433 hackberry st s ,433 s hackberry, dakota, dakota,hackberry,s hackberry,2,0
+159,miss ellies pizza,Miss Ellie's Pizza,903 bitters rd e ,903 e bitters rd,miss ellies pizza,miss ellies pizza,bitters,e bitters,2,0
+160,bill miller bbq #40,Bill Miller Bar-B-Q,8403 mc cullough av ,8403 mccullough ave,bill miller bbq #40,bill miller barbq,mc cullough,mcculloughe,2,6
+161,tiffs treats,Tiff's Treats,11745 ih 10 w ,11745 n ih 10 w,tiffs treats,tiffs treats,ih 10,n ih 10,2,0
+162,stella public house,Stella Public House,1414 alamo st s ,1414 s alamo st,stell public house,stell public house,alamo,s alamo,2,0
+163,gas go market #6,Gasgo Markets,8102 military dr w ,8102 w military dr,gas go market #6,gasgo markets,military,w military,2,4
+164,el manantial mexican rest,El Manantial Mexican Restaurant,1136 hildebrand w ,1136 w hildebrand, manantial mexic rest, manantial mexic restaurant,hildebrand,w hildebrand,2,6
+165,alamo bbq co,Alamo BBQ Co,511 grayson st e ,511 e grayson st,alamo bbq co,alamo bbq co,grayson,e grayson,2,0
+166,pizza patron #100,Pizza Patron,827 zarzamora st s ,827 s zarzamora st,pizz patr #100,pizz patron,zarzamora,s zarzamora,2,5
+167,pizza patron #022,Pizza Patron,2913 west av ,2913 w ave,pizz patr #022,pizz patron,west,we,2,5
+168,bamboo,Bamboo,1010 flores st s ,1010 s flores st,bamboo,bamboo,flores,s flores,2,0
+169,fajita taco place,Fajita Taco Place,8315 mc cullough av ,8315 mccullough ave,fajit taco place,fajit taco place,mc cullough,mcculloughe,2,0
+170,the lowdown,The Good Kind,312 pearl py ,312 pearl pkwy, lowdown, good kind,pearl py,pearl pkwy,2,6
+171,jack in the box #940,Jack in the Box,718 zarzamora st s ,718 s zarzamora st,jack   box #940,jack   box,zarzamora,s zarzamora,2,5
+172,chipotle mexican grill,Chipotle Mexican Grill,849 commerce st e ,849 e commerce st,chipotle mexic grill,chipotle mexic grill,commerce,e commerce,2,0
+173,river city produce,River City Produce,1616 laredo st s ,1616 s laredo st,river city produce,river city produce,laredo,s laredo,2,0
+174,southerleigh fine food & brewery,Southerleigh Fine Food and Brewery,136 grayson st e ,136 e grayson st,southerleigh fine food & brewery,southerleigh fine food and brewery,grayson,e grayson,2,3
+175,hotel valencia s.a. riverwalk,Hotel Valencia Riverwalk,150 houston st e ,150 e houston st,hot valenci s.a. riverwalk,hot valenci riverwalk,houston,e houston,2,5
+176,garibaldi mexican restaurant,Garibaldi Mexican Restaurant,6938 military dr w ,6938 w military dr,garibaldi mexic restaurant,garibaldi mexic restaurant,military,w military,2,0
+177,grayze,Grayze,521 grayson st e ,521 e grayson st,grayze,grayze,grayson,e grayson,2,0
+178,barbaro,Barbaro,2720 mc cullough av ,2720 mccullough ave,barbaro,barbaro,mc cullough,mcculloughe,2,0
+179,blimpies,Chili's,849 commerce st e ,849 e commerce st,blimpies,chilis,commerce,e commerce,2,5
+180,blimpies,Blimpie,849 commerce st e ,849 e commerce st,blimpies,blimpie,commerce,e commerce,2,1
+181,crystals cafe,Crystal's Cafe,2420 zarzamora st n ,2420 n zarzamora st,crystals cafe,crystals cafe,zarzamora,n zarzamora,2,0
+182,el coco rayado,El Coco Rayado,2303 zarzamora st n ,2303 n zarzamora st, coco rayado, coco rayado,zarzamora,n zarzamora,2,0
+183,piatti,Chili's,255 basse e ,255 e basse rd,piatti,chilis,basse,e basse,2,6
+184,pieology pizza,Pieology Pizzeria,849 commerce st e ,849 e commerce st,pieology pizza,pieology pizzeria,commerce,e commerce,2,3
+185,liberty bar,Liberty Bar,1111 alamo st s ,1111 s alamo st,liberty bar,liberty bar,alamo,s alamo,2,0
+186,moses rose's hide out,Moses Rose's Hideout,516 houston st e ,516 e houston st,moses rose's hi out,moses roses hideout,houston,e houston,2,3
+187,zoes kitchen,Zoes Kitchen,13610 us hwy 281 n ,13610 n us hwy 281,zoes kitchen,zoes kitchen,us hwy 281,n us hwy 281,2,0
+188,chesters hamburgers,Chester's Hamburgers,9980 ih 10 w ,9980 i h -10 w,chesters hamburgers,chesters hamburgers,ih 10,i h -10,2,0
+189,las delicias,Las Delicias Tacos,1603 commerce st w ,1603 w commerce st, delicias, delicias tacos,commerce,w commerce,2,6
+190,takikos taco stop,Takikos Taco Stop,7444 military dr w ,7444 w military dr,takikos taco stop,takikos taco stop,military,w military,2,0
+191,canyon cafe,Canyon Cafe,255 basse e ,255 e basse rd,cany cafe,cany cafe,basse,e basse,2,0
+192,camaron pelado seafood grill,Camaron Pelado Seafood Grill,2918 commerce st w ,2918 w commerce st,camar pelado seafood grill,camar pelado seafood grill,commerce,w commerce,2,0
+193,shotgun house coffee roasters,Shotgun House Coffee Roasters,1010 flores st s ,1010 s flores st,shotgun house coffee roasters,shotgun house coffee roasters,flores,s flores,2,0
+194,los angeles tortilleria & restauran,Los Angeles Tortilleria & Restaurant,300 zarzamora st n ,300 n zarzamora st, angeles tortilleri & restauran, angeles tortilleri  restaurant,zarzamora,n zarzamora,2,2
+195,la bandera molino #,La Bandera Molino,2619 zarzamora n ,2619 n zarzamora,l bander molino #,l bander molino,zarzamora,n zarzamora,2,2
+196,taco cabana #372,Taco Cabana,838 bitters rd ,838 e bitters,taco caban #372,taco cabana,bitters,e bitters,2,5
+197,joeys,Joey's,2417 st marys n ,2417 n st marys st,joeys,joeys,st marys,n marys,2,0
+198,b & d ice house,B&D Ice House,1004 alamo st s ,1004 s alamo st,b & d ice house,bd ice house,alamo,s alamo,2,3
+199,the fruteria y botanero by chef johnny hernandez,The Fruteria Botanero By Chef Johnny Hernandez,1401 flores st s ,1401 s flores st, fruteri y botanero  chef johnny hernandez, fruteri botanero  chef johnny hernandez,flores,s flores,2,2
+200,piedras negras cafe,Piedras Negras Cafe,1701 laredo st s ,1701 s laredo st,piedras negras cafe,piedras negras cafe,laredo,s laredo,2,0
+201,benjies munch,Benjies Munch,1218 bitters rd w ,1218 w bitters rd,benjies munch,benjies munch,bitters,w bitters,2,0
+202,the original blanco cafe,The Original Blanco Cafe,419 st marys n ,419 n st marys st, original blanco cafe, original blanco cafe,st marys,n marys,2,0
+203,senor veggie,Señor Veggie,620 presa st s ,620 s presa st,senor veggie,señor veggie,presa,s presa,2,1
+204,westin riverwalk san antonio,"The Westin Riverwalk, San Antonio",420 market st w ,420 w market st,west riverwalk s antonio," west riverwalk, s antonio",market,w market,2,2
+205,taqueria los dos laredos,Taqueria Los Dos Laredos,1303 hackberry st s ,1303 s hackberry,taqueri  dos laredos,taqueri  dos laredos,hackberry,s hackberry,2,0
+206,rosella at the rand,Rosella at the Rand,114 houston st e ,114 e houston st,rosell at  rand,rosell at  rand,houston,e houston,2,0
+207,whole foods market inc,Whole Foods Market,255 basse e ,255 e basse rd,whole foods market inc,whole foods market,basse,e basse,2,4
+208,honey baked ham company #,Honey Baked Ham Company,999 basse e ,999 e basse,honey baked ham company #,honey baked ham company,basse,e basse,2,2
+209,sams club #6262,Sam's Club,5565 de zavala rd ,5565 dezavala rd.,sams club #6262,sams club,de zavala,dezavala.,2,6
+210,shipley donuts,Shipley Do-Nuts,1218 bitters rd w ,1218 w bitters rd,shipley donuts,shipley donuts,bitters,w bitters,2,0
+211,the blue whale,Blue Whale,136 main plaza ,136 main plz, blue whale,blue whale,main plaza,main plz,2,1
+212,jubilee café & bakery,Jubilee Cafe & Bakery,555 basse rd e ,555 e basse rd,jubilee café & bakery,jubilee cafe  bakery,basse,e basse,2,2
+213,sheraton gunter hotel,Sheraton Gunter Bakery,205 houston st e ,205 e houston st,sherat gunter hotel,sherat gunter bakery,houston,e houston,2,5
+214,mediterranean turkish grill,Mediterranean Turkish Grill,8507 mc cullough av ,8507 mccullough ave,mediterrane turkish grill,mediterrane turkish grill,mc cullough,mcculloughe,2,0
+215,piatti,Piatti,255 basse e ,255 e basse rd,piatti,piatti,basse,e basse,2,0
+216,mr ice cream,Mr Ice Cream,423 commerce st e ,423 e commerce st,mr ice cream,mr ice cream,commerce,e commerce,2,0
+217,angels mexican haven #,Angel's Mexican Haven,2302 commerce st e ,2302 e commerce st,angels mexic haven #,angels mexic haven,commerce,e commerce,2,2
+218,papis mexican restaurant,Papi’s Mexican Restaurant,2802 houston st e ,2802 e houston st,papis mexic restaurant,papi’s mexic restaurant,houston,e houston,2,1
+219,the guenther house,Guenther House,205 guenther st e ,205 e guenther, guenther house,guenther house,guenther,e guenther,2,1
+220,hotel emma,Hotel Emma,136 grayson st e ,136 e grayson,hot emma,hot emma,grayson,e grayson,2,0
+221,grimaldi's pizzeria,Grimaldi's Pizzeria,330 basse e ,330 e basse rd,grimaldi's pizzeria,grimaldis pizzeria,basse,e basse,2,1
+222,la parrilla azteca,La Parrilla Azteca,1521 flores st s ,1521 s flores st,l parrill azteca,l parrill azteca,flores,s flores,2,0
+223,yatzil mexican restaurant,Yatzil Mexican Restaurant ,502 zarzamora st s ,502 s zarzamora,yatzil mexic restaurant,yatzil mexic restaurant,zarzamora,s zarzamora,2,0
+224,el 7 mares,El Siete Mares,3831 commerce st w ,3831 w commerce st, 7 mares, siete mares,commerce,w commerce,2,5
+225,rita's on the river,Rita's on the River,245 commerce st e ,245 e commerce st,rita's   river,ritas   river,commerce,e commerce,2,1
+226,herb & pickle,Herb & Pickle,7550 ih 10 w ,7550 ih-10w,herb & pickle,herb  pickle,ih 10,ih-10w,2,1
+227,molinas,Molina's,700 alamo st n ,700 n alamo,molinas,molinas,alamo,n alamo,2,0
+228,china rose #,China Rose,7046 military dr w ,7046 w military dr,chin rose #,chin rose,military,w military,2,2
+229,papa john's,Papa Johns,"100 santa rosa n, ",100 n santa rosa st,pap john's,pap johns,"santa rosa,",nanta rosa,2,1
+230,nairobi bar & grill,Nairobi Bar & Grill,514 hackberry st n ,514 n hackberry,nairobi bar & grill,nairobi bar  grill,hackberry,n hackberry,2,1
+231,hackberry food mart,Hackberry Food Mart,1242 hackberry st s ,1242 s hackberry,hackberry food mart,hackberry food mart,hackberry,s hackberry,2,0
+232,royal blue grocery,Royal Blue Grocery,122 houston st e ,122 e houston st,royal blue grocery,royal blue grocery,houston,e houston,2,0
+233,firehouse subs,Firehouse Subs,226 bitters rd w ,226 w bitters rd,firehouse subs,firehouse subs,bitters,w bitters,2,0
+234,baitong,Baitong,6934 military dr w ,6934 w military dr,baitong,baitong,military,w military,2,0
+235,torres taco haven #1,Torres Taco Haven,1032 presa st s ,1032 s presa,torres taco haven #1,torres taco haven,presa,s presa,2,3
+236,golden star cafe,Golden Star Cafe,821 commerce st w ,821 w commerce st,golden star cafe,golden star cafe,commerce,w commerce,2,0
+237,walgreens #4552,Walgreens,4703 commerce st w ,4703 w commerce st,walgreens #4552,walgreens,commerce,w commerce,2,6
+238,kimura,Kimura,152 pecan st e ,152 e pecan st,kimura,kimura,pecan,e pecan,2,0
+239,side wok cafe #,Side Wok Cafe,849 commerce st e ,849 e commerce st,si wok cafe #,si wok cafe,commerce,e commerce,2,2
+240,hot joy,Hot Joy,1014 alamo st s ,1014 s alamo st,hot joy,hot joy,alamo,s alamo,2,0
+241,buckhorn saloon & museum,Buckhorn Saloon & Museum,318 houston st e ,318 e houston st,buckhorn salo & museum,buckhorn salo  museum,houston,e houston,2,1
+242,embers wood grill & bar,Embers Wood Fire Grill & Bar,9818 ih 10 w ,9818 i-10 w,embers wood grill & bar,embers wood fire grill  bar,ih 10,i-10,2,6
+243,landrys seafood house,Landry's Seafood House,517 presa st n ,517 n presa,landrys seafood house,landrys seafood house,presa,n presa,2,0
+244,sa pops,SA Pops,3420 st marys n ,3420 n st marys st,s pops,s pops,st marys,n marys,2,0
+245,pho thein an,Pho Thien An,126 rector dr w ,126 w rector st,pho the an,pho thien an,rector,w rector,2,2
+246,sushic,Subway,501 cesar e chavez st w ,501 w cesar chavez blvd,sushic,subway,cesar chavez,w cesar chavez,2,4
+247,burnwood '68,Burnwood ‘68,1012 flores st n ,1012 n flores st,burnwood '68,burnwood ‘68,flores,n flores,2,1
+248,amys ice cream,Amy's Ice Creams,255 basse e ,255 e basse rd,amys ice cream,amys ice creams,basse,e basse,2,1
+249,ranchero grill & tap,Ranchero Grill & Tap,612 commerce st w ,612 w commerce st,ranchero grill & tap,ranchero grill  tap,commerce,w commerce,2,1
+250,la michoacana meat market #5,La Michoacana Meat Market,1224 flores st n ,1224 n flores st,l michoacan meat market #5,l michoacan meat market,flores,n flores,2,3
+251,bourbon street cajun grill,Bourbon Street Cajun & Grill,849 commerce st e ,849 e commerce st,bourb street cajun grill,bourb street cajun  grill,commerce,e commerce,2,1
+252,mo's irish pub,Mo's Irish Pub,255 basse e ,255 e basse rd,mo's irish pub,mos irish pub,basse,e basse,2,1
+253,la gloria,La Gloria,100 grayson st e ,100 e grayson st,l gloria,l gloria,grayson,e grayson,2,0
+254,carrabbas italian grill,Carrabba's Italian Grill,12507 ih 10 w ,12507 i-10 w,carrabbas itali grill,carrabbas itali grill,ih 10,i-10,2,0
+255,diana's burgers,Diana's Burgers,2202 zarzamora st n ,2202 n zarzamora st,diana's burgers,dianas burgers,zarzamora,n zarzamora,2,1
+256,ruth's chris steak house,Ruth's Chris Steak House,600 market st e ,600 e market st,ruth's chris steak house,ruths chris steak house,market,e market,2,1
+257,matamoros restaurant y cantina,Matamoros Restaurante Y Cantina,12844 ih 10 w ,12844 w ih 10,matamoros restaurant y cantina,matamoros restaurante y cantina,ih 10,w ih 10,2,1
+258,paesanos riverwalk,Paesanos Riverwalk,111 crockett st w ,111 w crockett st,paesanos riverwalk,paesanos riverwalk,crockett,w crockett,2,0
+259,howl at the moon saloon #,Howl at the Moon San Antonio,111 crockett st w ,111 w crockett st,howl at  mo salo #,howl at  mo s antonio,crockett,w crockett,2,6
+260,tacos martinez,Tacos Martinez,5034 commerce st w ,5034 w commerce st,tacos martinez,tacos martinez,commerce,w commerce,2,0
+261,leapin lizard pub,Leapin' Lizard Pub,302 commerce st e ,302 e commerce st,leap lizard pub,leapin lizard pub,commerce,e commerce,2,2
+262,merkaba bar,Merkaba,111 crockett st w ,111 w crockett st,merkab bar,merkaba,crockett,w crockett,2,3
+263,magy's tamales and barbacoa,Magy's Tamales & Barbacoa,5721 commerce st w ,5721 w commerce st,magy's tamales and barbacoa,magys tamales  barbacoa,commerce,w commerce,2,4
+264,yaya's thai restaurant,YaYa's Thai Restaurant,5305 mc cullough av ,5305 mccullough ave,yaya's thai restaurant,yayas thai restaurant,mc cullough,mcculloughe,2,1
+265,maria mia mexican bistro,Maria Mia Mexican Bistro,849 commerce st e ,849 e commerce st,mari mi mexic bistro,mari mi mexic bistro,commerce,e commerce,2,0
+266,the broken egg cafe,The Broken Egg Cafe,2405 hackberry st s ,2405 s hackberry, broken egg cafe, broken egg cafe,hackberry,s hackberry,2,0
+267,botika,Botika,303 pearl py ,303 pearl pkwy,botika,botika,pearl py,pearl pkwy,2,0
+268,tenko ramen,Tenko Ramen,312 pearl py ,312 pearl pkwy,tenko ramen,tenko ramen,pearl py,pearl pkwy,2,0
+269,bill miller bbq #53,Bill Miller Bar-B-Q,910 probandt st ,910 e probandt,bill miller bbq #53,bill miller barbq,probandt,e probandt,2,6
+270,saeb thai & noodles,Saeb Thai & Noodles,226 bitters rd w ,226 w bitters rd,saeb thai & noodles,saeb thai  noodles,bitters,w bitters,2,1
+271,la playa mexican restaurant,La Playa Restaurant,3201 poplar st w ,3201 w poplar st,l play mexic restaurant,l play restaurant,poplar,w poplar,2,6
+272,ihop #,IHOP,12780 ih 10 w ,12780 w ih 10,ihop #,ihop,ih 10,w ih 10,2,2
+273,jamba juice,Jamba Juice,290 basse e ,290 e basse rd,jamb juice,jamb juice,basse,e basse,2,0
+274,menchie's frozen yogurt,Menchie's Frozen Yogurt,999 basse e ,999 e basse rd,menchie's frozen yogurt,menchies frozen yogurt,basse,e basse,2,1
+275,luckys food mart,Lucky's Food Mart,119 commerce st e ,119 e commerce st,luckys food mart,luckys food mart,commerce,e commerce,2,0
+276,southtown pizzeria,Southtown Pizzeria,728 presa st s ,728 s presa st,southtown pizzeria,southtown pizzeria,presa,s presa,2,0
+277,pattys taco house,Patty's Taco House,2422 hackberry st s ,2422 s hackberry,pattys taco house,pattys taco house,hackberry,s hackberry,2,0
+278,la cocinita,La Cocinita No 2,701 rhapsody st w ,701 w rhapsody dr,l cocinita,l cocinit no 2,rhapsody,w rhapsody,2,5
+279,the last slice pizza,The Last Slice,3021 macarthur view ,3021 macarthur vw, last slice pizza, last slice,macarthur view,macarthur vw,2,6
+280,schilos delicatessen,Schilo's Delicatessen,424 commerce st e ,424 e commerce st,schi delicatessen,schilos delicatessen,commerce,e commerce,2,3
+281,big daddy's eats & treats,Big Daddy's Eats & Treats,228 cevallos st e ,228 e cevallos st,big daddy's eats & treats,big daddys eats  treats,cevallos,e cevallos,2,2
+282,hooters,Chili's,849 commerce st e ,849 e commerce st,hooters,chilis,commerce,e commerce,2,6
+283,hooters,Hooters,849 commerce st e ,849 e commerce st,hooters,hooters,commerce,e commerce,2,0
+284,la panaderia,La Panadería,301 houston st e ,301 e houston st,l panaderia,l panadería,houston,e houston,2,1
+285,lila's cafe,Lila's Cafe,503 mitchell st w ,503 w mitchell st,lila's cafe,lilas cafe,mitchell,w mitchell,2,1
+286,hooters,IHOP,849 commerce st e ,849 e commerce st,hooters,ihop,commerce,e commerce,2,6
+287,little tokyo,Little Tokyo,849 commerce st e ,849 e commerce st,little tokyo,little tokyo,commerce,e commerce,2,0
+288,dorcol distilling co,Dorćol Distilling Company,1902 flores st s ,1902 s flores st,dorcol distilling co,dorćol distilling company,flores,s flores,2,6
+289,la familia bakery,La Familia Bakery,2314 flores st s ,2314 s flores st,l famili bakery,l famili bakery,flores,s flores,2,0
+290,flemings prime steakhouse and wine bar,Fleming's Prime Steakhouse & Wine Bar,255 basse e ,255 e basse rd,flemings prime steakhouse and wine bar,flemings prime steakhouse  wine bar,basse,e basse,2,3
+291,1919,1919,1420 alamo st s ,1420 s alamo,1919,1919,alamo,s alamo,2,0
+292,regio cafe inc,Regio Cafe,1706 mc cullough av ,1706 mccullough ave,regio cafe inc,regio cafe,mc cullough,mcculloughe,2,4
+293,tony g's soul food,Tony G's Soul Food,915 hackberry st s ,915 s hackberry,tony g's soul food,tony gs soul food,hackberry,s hackberry,2,1
+294,guillermo's,Guillermo's,618 mc cullough av ,618 mccullough ave,guillermo's,guillermos,mc cullough,mcculloughe,2,1
+295,schlotzskys deli,Schlotzsky's,12834 ih 10 w ,12834 i-10 w,schlotzskys deli,schlotzskys,ih 10,i-10,2,5
+296,freds fish fry #17 #,Fred's Fish Fry,425 zarzamora s ,425 s zarzamora st,freds fish fry #17 #,freds fish fry,zarzamora,s zarzamora,2,6
+297,whataburger #1055,Whataburger,516 cypress st w ,516 w cypress,whataburger #1055,whataburger,cypress,w cypress,2,6
+298,saltgrass steakhouse,Saltgrass Steak House,11745 ih 10 w ,11745 i-10 w,saltgrass steakhouse,saltgrass steak house,ih 10,i-10,2,1
+299,whataburger #1025,Whataburger,412 commerce st e ,412 e commerce st,whataburger #1025,whataburger,commerce,e commerce,2,6
+300,philocoffee,PhiloÇoffee,606 french pl w ,606 w french pl,philocoffee,philoçoffee,french pl,w french pl,2,1
+301,los balitos taco shop,Los Balito's Taco Shop,226 bitters rd w ,226 w bitters rd, balitos taco shop, balitos taco shop,bitters,w bitters,2,0
+302,la poblanita bakery,La Poblanita Bakery,2411 zarzamora st n ,2411 n zarzamora st,l poblanit bakery,l poblanit bakery,zarzamora,n zarzamora,2,0
+303,san antonios gourmet olive oils,San Antonio's Gourmet Olive Oils,1913 hackberry st s ,1913 s hackberry st,s antonios gourmet olive oils,s antonios gourmet olive oils,hackberry,s hackberry,2,0
+304,a & a drive inn,AA Drive In,4103 commerce st w ,4103 w commerce st, &  drive inn,a drive in,commerce,w commerce,2,4
+305,cafe don juan,Cafe Don Juan,1422 commerce st w ,1422 w commerce st,cafe d juan,cafe d juan,commerce,w commerce,2,0
+306,caracheos mexican restaurant,Caracheo's Mexican Restaurant,3033 macarthur view ,3033 e macarthur view rd,caracheos mexic restaurant,caracheos mexic restaurant,macarthur view,e macarthur view,2,0
+307,heb #,H-E-B,300 olmos dr w ,300 w olmos dr,heb #,heb,olmos,w olmos,2,2
+308,pluckers wing bar,Pluckers Wing Bar,15651 ih 10 w ,15651 i-10 w,pluckers wing bar,pluckers wing bar,ih 10,i-10,2,0
+309,little caesars pizza #44 #,Little Caesar's Pizza,7470 military dr w ,7470 w military dr,little caesars pizz #44 #,little caesars pizza,military,w military,2,6
+310,5 points local,5 Points Local,1017 flores st n ,1017 n flores st,5 points local,5 points local,flores,n flores,2,0
+311,shuck shack,Santa Shack,520 grayson st e ,520 e grayson st,shuck shack,sant shack,grayson,e grayson,2,4
+312,esquire tavern,The Esquire Tavern,155 commerce st e ,155 e commerce st,esquire tavern, esquire tavern,commerce,e commerce,2,1
+313,kong's express,Kong's Express,903 zarzamora s ,903 s zarzamora st,kong's express,kongs express,zarzamora,s zarzamora,2,1
+314,las delicias tacos #2,Las Delicias Tacos #2,1901 commerce st w ,1901 w commerce st, delicias tacos #2, delicias tacos 2,commerce,w commerce,2,1
+315,pappadeaux seafood kitchen,Pappadeaux Seafood Kitchen,15715 ih 10 w ,15715 i-10 w,pappadeaux seafood kitchen,pappadeaux seafood kitchen,ih 10,i-10,2,0
+316,freds fish fry #2,Freds Fish Fry,603 zarzamora st n ,603 n zarzamora st,freds fish fry #2,freds fish fry,zarzamora,n zarzamora,2,3
+317,spaghetti warehouse,Spaghetti Warehouse,1226 houston st e ,1226 e houston st,spaghetti warehouse,spaghetti warehouse,houston,e houston,2,0
+318,snooze am eatery,"Snooze, An A.M. Eatery",255 basse e ,255 e basse rd,snooze am eatery,"snooze,  a.m. eatery",basse,e basse,2,4
+319,knights inn,Days Inn,4039 houston st e ,4039 e houston st,knights inn,days inn,houston,e houston,2,6
+320,sushi zushi of lincoln heights,Sushi Zushi Lincoln Heights,999 basse e ,999 e basse rd,sushi zushi  lincoln heights,sushi zushi lincoln heights,basse,e basse,2,1
+321,sweet yams,Sweet Yams,218 cherry st n ,218 n cherry st,sweet yams,sweet yams,cherry,n cherry,2,0
+322,ruthies mexican restaurant,Ruthie's Mexican Restaurant,11423 west av ,11423 w ave,ruthies mexic restaurant,ruthies mexic restaurant,west,we,2,0
+323,churchs chicken # 565,Church's Chicken,11623 west av ,11623 w ave,churchs chicken # 565,churchs chicken,west,we,2,6
+324,restaurant gwendolyn,Restaurant Gwendolyn,152 pecan st e ,152 e pecan st,restaurant gwendolyn,restaurant gwendolyn,pecan,e pecan,2,0
+325,onlive hall of fame cafe,Onlive Hall Of Fame Cafe,2404 houston st e ,2404 e houston st,onlive hall  fame cafe,onlive hall  fame cafe,houston,e houston,2,0
+326,volare pizza,Volare Pizza,3902 mc cullough av ,3902 mccullough ave,volare pizza,volare pizza,mc cullough,mcculloughe,2,0
+327,mixtli,Mixtli,5251 mc cullough av ,5251 mccullough ave,mixtli,mixtli,mc cullough,mcculloughe,2,0
+328,scratch kitchen,Scratch Kitchen,607 russell pl w ,607 w russell pl,scratch kitchen,scratch kitchen,russell pl,w russell pl,2,0
+329,jet-setter sa,Jet-Setter,229 houston st e ,229 e houston st,jet-setter sa,jetsetter,houston,e houston,2,4
+330,frontier burger,Frontier Burger,838 loop 410 ne ,838 ne lp 410,frontier burger,frontier burger,ne loop 410,ne lp 410,2,0
+331,marios bakery #2,Mario's Bakery,7302 military dr w ,7302 w military dr,marios bakery #2,marios bakery,military,w military,2,3
+332,danny boy's hamburgers,Danny Boy's Hamburgers,1537 summit av w ,1537 w summit ave,danny boy's hamburgers,danny boys hamburgers,summit,wummite,2,1
+333,casa azul de andrea,Casa Azul de Andrea,1036 alamo st s ,1036 s alamo,cas azul  andrea,cas azul  andrea,alamo,s alamo,2,0
+334,mk davis restaurant & bar ltd,M K Davis Restaurant & Bar,1302 flores st n ,1302 n flores st,mk davis restaurant & bar ltd,m k davis restaurant  bar,flores,n flores,2,6
+335,martinez cafe,Martinez Cafe,1225 zarzamora st s ,1225 s zarzamora st,martinez cafe,martinez cafe,zarzamora,s zarzamora,2,0
+336,bill miller bbq #45,Bill Miller Bar-B-Q,101 commerce st w ,101 w commerce,bill miller bbq #45,bill miller barbq,commerce,w commerce,2,6
+337,big bob's burgers,Big Bob's Burgers,447 hildebrand w ,447 w hildebrand,big bob's burgers,big bobs burgers,hildebrand,w hildebrand,2,1
+338,yard house,Yard House,849 commerce st e ,849 e commerce st,yard house,yard house,commerce,e commerce,2,0
+339,the modernist,The Modernist,516 grayson st e ,516 e grayson st, modernist, modernist,grayson,e grayson,2,0
+340,fuddruckers #7003,Fuddruckers,8602 botts lane ,8602 botts ln,fuddruckers #7003,fuddruckers,botts lane,botts ln,2,6
+341,taqueria arandas #,Taqueria Arandas,7055 military dr w ,7055 w military dr,taqueri arandas #,taqueri arandas,military,w military,2,2
+342,wingstop #474,Wingstop,4622 commerce st w ,4622 w commerce st,wingstop #474,wingstop,commerce,w commerce,2,5
+343,la focaccia italian grill,La Focaccia Italian Grill,800 alamo st s ,800 s alamo st,l focacci itali grill,l focacci itali grill,alamo,s alamo,2,0
+344,potbelly sandwich,Potbelly Sandwich Shop,849 commerce st e ,849 e commerce st,potbelly sandwich,potbelly sandwich shop,commerce,e commerce,2,5
+345,fletcher's hamburgers,Fletcher's Hamburgers,312 pearl py ,312 pearl pkwy,fletcher's hamburgers,fletchers hamburgers,pearl py,pearl pkwy,2,1
+346,lulas mexican cafe,Lula's Mexican Cafe,115 travis st e ,115 e travis st,lu mexic cafe,lulas mexic cafe,travis,e travis,2,3
+347,bud's southern rotisserie,Buds Southern Rotisserie,312 pearl py ,312 pearl pkwy,bud's southern rotisserie,buds southern rotisserie,pearl py,pearl pkwy,2,1
+348,mokara hotel & spa,Mokara Hotel and Spa,212 crockett st w ,212 w crockett st,mokar hot & spa,mokar hot and spa,crockett,w crockett,2,3
+349,guadalajara grill #,Guadalajara Grill,301 alamo st s ,301 s alamo st,guadalajar grill #,guadalajar grill,alamo,s alamo,2,2
+350,leticias mexican rest,Leticia's Mexican Restaurant,1922 zarzamora st n ,1922 n zarzamora st,leticias mexic rest,leticias mexic restaurant,zarzamora,n zarzamora,2,6
+351,squeezers,Squeezers,732 alamo st s ,732 s alamo st,squeezers,squeezers,alamo,s alamo,2,0
+352,range,Range,125 houston st e ,125 e houston st,range,range,houston,e houston,2,0
+353,dominos pizza #6708,Domino's Pizza,7551 mc cullough av ,7551 mccullough ave,dominos pizz #6708,dominos pizza,mc cullough,mcculloughe,2,6
+354,corner bakery cafe,Corner Bakery Cafe,255 basse e ,255 e basse rd,corner bakery cafe,corner bakery cafe,basse,e basse,2,0
+355,texas de brazil,Texas De Brazil,313 houston st e ,313 e houston st,texas  brazil,texas  brazil,houston,e houston,2,0
+356,charley's philly steaks,Charleys Philly Steaks,849 commerce st e ,849 e commerce st,charley's philly steaks,charleys philly steaks,commerce,e commerce,2,1
+357,jack in the box #817,Jack in the Box,6811 military dr w ,6811 w military dr,jack   box #817,jack   box,military,w military,2,5
+358,salata,Salata,250 basse rd e ,250 e basse rd,salata,salata,basse,e basse,2,0
+359,martini club,The Martini Club,8507 mc cullough av ,8507 mccullough ave,martini club, martini club,mc cullough,mcculloughe,2,1
+360,oasis tropical fruteria,Oasis Tropical Frutería,2316 laredo st s ,2316 s laredo st,oasis tropical fruteria,oasis tropical frutería,laredo,s laredo,2,1
+361,tucker's kozy korner,Tucker's Kozy Korner,1338 houston st e ,1338 e houston st,tucker's kozy korner,tuckers kozy korner,houston,e houston,2,1
+362,trader joe's,Trader Joe's,350 basse rd ,350 e basse rd,trader joe's,trader joes,basse,e basse,2,1
+363,wing daddys sauce house,Wing Daddy's Sauce House,903 bitters rd e ,903 e bitters rd,wing daddys sauce house,wing daddys sauce house,bitters,e bitters,2,0
+364,gold coffee company,Gold Coffee Company,1913 flores st s ,1913 s flores,gold coffee company,gold coffee company,flores,s flores,2,0
+365,taqueria atotonilco,Taqueria Atotonilco,3431 commerce st w ,3431 w commerce st,taqueri atotonilco,taqueri atotonilco,commerce,w commerce,2,0
+366,taqueria chapala jalisco,Taqueria Chapala Jalisco,1902 mc cullough av ,1902 mccullough ave,taqueri chapal jalisco,taqueri chapal jalisco,mc cullough,mcculloughe,2,0
+367,lucy cafe,Lucy's Cafe,2517 west av ,2517 w ave,lucy cafe,lucys cafe,west,we,2,1
+368,order up,Orderup,999 basse e ,999 e basse rd,order up,orderup,basse,e basse,2,1
+369,queso pan y vino,QPV Queso Pan Y Vino,727 alamo st s ,727 s alamo st,queso p y vino,qpv queso p y vino,alamo,s alamo,2,4
+370,losoyas taqueria,Losoya's Taqueria,13444 west av ,13444 w ave,losoyas taqueria,losoyas taqueria,west,we,2,0
+371,jimmy's family pizza,Jimmy's Family Pizza,226 fest st e ,226 e fest st,jimmy's family pizza,jimmys family pizza,fest,e fest,2,1
+372,twelve stone,Twelve Stone,1700 st marys s ,1700 s st mary's st,twelve stone,twelve stone,st marys,s mary's,2,0
+373,don martin's coffee co.,Don Martin's Coffee,540 presa st s ,540 s presa st,d martin's coffee co.,d martins coffee,presa,s presa,2,5
+374,pure juice,Pure Juice,812 presa st s ,812 s presa st,pure juice,pure juice,presa,s presa,2,0
+375,torchys tacos,Torchy's Tacos,999 basse e ,999 e basse rd,torchys tacos,torchys tacos,basse,e basse,2,0
+376,martini ranch,Martini Ranch,4904 west av ,4904 w ave,martini ranch,martini ranch,west,we,2,0
+377,el taco tote #,El Taco Tote,9502 ih 10 w ,9502 w ih 10, taco tote #, taco tote,ih 10,w ih 10,2,2
+378,carmens de la calle cafe,Carmens De La Calle,320 flores st n ,320 n flores st,carmens  l calle cafe,carmens  l calle,flores,n flores,2,5
+379,hilton palacio del rio,Hilton Palacio del Rio,200 alamo st s ,200 s alamo st,hilt palacio d rio,hilt palacio d rio,alamo,s alamo,2,0
+380,los cocos bakery,Los Cocos Bakery,3309 west av ,3309 w ave, cocos bakery, cocos bakery,west,we,2,0
+381,the good kind,The Good Kind,312 pearl py ,312 pearl pkwy, good kind, good kind,pearl py,pearl pkwy,2,0
+382,bella on houston,Bella on Houston,204 houston st e ,204 e houston st,bell  houston,bell  houston,houston,e houston,2,0
+383,ten-0-five market,Ten-0-Five Market,1005 bitters rd w ,1005 w bitters rd,ten-0-five market,ten0five market,bitters,w bitters,2,2
+384,heb #,H-E-B,108 rosillo st n ,108 n rosillo st,heb #,heb,rosillo,n rosillo,2,2
+385,poetic republic coffee,Poetic Republic Coffee,2330 presa st s ,2330 s presa st,poetic republic coffee,poetic republic coffee,presa,s presa,2,0
+386,texas burger co,Texas Burger Company,3038 commerce st e ,3038 e commerce,texas burger co,texas burger company,commerce,e commerce,2,5
+387,pizzaritas,Pizzarita's,245 commerce st e ,245 e commerce st,pizzaritas,pizzaritas,commerce,e commerce,2,0
+388,playland,Playland,400 houston st e ,400 e houston st,playland,playland,houston,e houston,2,0
+389,whataburger #149,Whataburger,4646 commerce st w ,4646 w commerce st,whataburger #149,whataburger,commerce,w commerce,2,5
+390,cappalletti's,Cappalletti's,226 bitters rd w ,226 w bitters rd,cappalletti's,cappallettis,bitters,w bitters,2,1
+391,dignowity meats on houston st.,Dignowity Meats On Houston Street,1701 houston st e ,1701 e houston st,dignowity meats  houst st.,dignowity meats  houst street,houston,e houston,2,4
+392,restaurante don pablo,Restaurante Don Pablo,2162 laredo st s ,2162 s laredo st,restaurante d pablo,restaurante d pablo,laredo,s laredo,2,0
+393,papouli's creek grill,Papouli's Greek Grill,255 basse e ,255 e basse rd,papouli's creek grill,papoulis greek grill,basse,e basse,2,2
+394,rivercenter drug store ii,RiverCenter Drug Store,849 commerce st e ,849 e commerce st,rivercenter drug store ii,rivercenter drug store,commerce,e commerce,2,3
+395,sparkys pub,Sparky's Pub,1416 main av n ,1416 n main,sparkys pub,sparkys pub,main,n main,2,0
+396,walgreens #4160,Walgreens,2200 houston st e ,2200 e houston st,walgreens #4160,walgreens,houston,e houston,2,6
+397,alibis' sports and spirits,Alibis' Sports & Spirits,1141 commerce st e ,1141 e commerce st,alibis' sports and spirits,alibis sports  spirits,commerce,e commerce,2,4
+398,baskin robbins,Baskin Robbins,6914 military dr w ,6914 w military dr,bask robbins,bask robbins,military,w military,2,0
+399,fuddruckers,Fuddruckers,8602 botts lane ,8602 botts ln,fuddruckers,fuddruckers,botts lane,botts ln,2,0
+400,fiesta produce # 2,Fiesta Produce,1615 west av ,1615 w ave,fiest produce # 2,fiest produce,west,we,2,4
+401,oh yeah cakes,Oh Yeah Cakes,5257 mc cullough av ,5257 mccullough ave,oh yeah cakes,oh yeah cakes,mc cullough,mcculloughe,2,0
+402,big tony's pizzeria,Big Tony's Pizzeria,2710 presa st s ,2710 s presa st,big tony's pizzeria,big tonys pizzeria,presa,s presa,2,1
+403,angies,Angie's,612 commerce st w ,612 w commerce st,angies,angies,commerce,w commerce,2,0
+404,shop in go,Shop In Go,1503 presa st s ,1503 s presa st,shop  go,shop  go,presa,s presa,2,0
+405,thirsty turtle,Thursty Turtle,1626 loop 410 ne ,1626 ne lp 410,thirsty turtle,thursty turtle,ne loop 410,ne lp 410,2,1
+406,paleteria san antonio,Paleteria San Antonio,510 alamo st s ,510 s alamo st,paleteri s antonio,paleteri s antonio,alamo,s alamo,2,0
+407,lilys cookies,Lily's Cookies,2716 mc cullough av ,2716 mccullough ave,lilys cookies,lilys cookies,mc cullough,mcculloughe,2,0
+408,magy's tamales & barbacoa,Magy's Tamales & Barbacoa,5721 commerce st w ,5721 w commerce st,magy's tamales & barbacoa,magys tamales  barbacoa,commerce,w commerce,2,2
+409,whats brewing,What's Brewing?,138 rhapsody st w ,138 w rhapsody dr,whats brewing,whats brewing?,rhapsody,w rhapsody,2,1
+410,shipley donuts,Shipley Donuts,315 commerce st e ,315 e commerce st,shipley donuts,shipley donuts,commerce,e commerce,2,0
+411,roadmap brewing,Roadmap Brewing,723 alamo st n ,723 n alamo st,roadmap brewing,roadmap brewing,alamo,n alamo,2,0
+412,whataburger #717,Whataburger,12808 ih 10 w ,12808 ih-10 w,whataburger #717,whataburger,ih 10,ih-10,1,5
+413,garcias mexican food,Garcia's Mexican Food,842 fredsbg rd ,842 fredericksburg rd,garcias mexic food,garcias mexic food,fredricksburg,fredericksburg,1,0
+414,ivory lounge,Ivory Lounge,5152 fredsbg rd ,5152 fredericksburg rd,ivory lounge,ivory lounge,fredricksburg,fredericksburg,1,0
+415,la playa seafood house,La Playa Seafood,3343 west av ,3343 west ave,l play seafood house,l play seafood,west,weste,1,6
+416,deco pizzeria,Deco Pizzeria,1815 fredsbg rd ,1815 fredericksburg rd,deco pizzeria,deco pizzeria,fredricksburg,fredericksburg,1,0
+417,tienda centro america # 2,Tienda Centro America,3915 san pedro av ,3915 san pedro ave,tiend centro americ # 2,tiend centro america,san pedro,san pedroe,1,4
+418,einstein bros bagels #3568,Einstein Bros Bagels,7959 fredsbg rd ,7959 fredericksburg rd,einste bros bagels #3568,einste bros bagels,fredricksburg,fredericksburg,1,6
+419,bill miller bbq #54,Bill Miller Bar-B-Q,5250 de zavala rd ,5250 dezavala,bill miller bbq #54,bill miller barbq,de zavala,dezavala,1,6
+420,chinese gourmet express inc #,Chinese Gourmet Express,7400 san pedro av ,7400 san pedro ave,chinese gourmet express inc #,chinese gourmet express,san pedro,san pedroe,1,6
+421,joe's ice house,Joe's Ice House,3711 west av ,3711 west ave,joe's ice house,joes ice house,west,weste,1,1
+422,churchs chicken # 73,Church's Chicken,1318 w w white rd s ,1318 s ww white rd,churchs chicken # 73,churchs chicken,white,swhite,1,5
+423,los cocos bakery,Los Cocos Bakery,3309 west av ,3309 west ave, cocos bakery, cocos bakery,west,weste,1,0
+424,whataburger,Whataburger,8002 fredsbg rd ,8002 fredericksburg rd,whataburger,whataburger,fredricksburg,fredericksburg,1,0
+425,charley's philly steaks,Charley's Philly Steaks,7400 san pedro av ,7400 san pedro ave,charley's philly steaks,charleys philly steaks,san pedro,san pedroe,1,1
+426,big lou's burgers & bbq,Big Lou's Burgers & BBQ,2014 w w white rd s ,2014 s w w white,big lou's burgers & bbq,big lous burgers  bbq,white,shite,1,2
+427,groove house,Groove House,12333 west av ,12333 west ave,groove house,groove house,west,weste,1,0
+428,taqueria jalisco #13,Taqueria Jalisco No 13,3822 fredsbg rd ,3822 fredericksburg rd,taqueri jalisco #13,taqueri jalisco no 13,fredricksburg,fredericksburg,1,3
+429,india palace,India Palace,8474 fredsbg rd ,8474 fredericksburg rd,indi palace,indi palace,fredricksburg,fredericksburg,1,0
+430,guerrero's mexican restaurant,Guerrero's Mexican Restaurant,1859 rigsby av ,1859 rigsby ave,guerrero's mexic restaurant,guerreros mexic restaurant,rigsby,rigsbye,1,1
+431,magic beans,Magic Beans Cafe,2021 san pedro av ,2021 san pedro ave,magic beans,magic beans cafe,san pedro,san pedroe,1,5
+432,the hidden tavern,Hidden Tavern,11407 west av ,11407 west ave, hidden tavern,hidden tavern,west,weste,1,1
+433,chatman's chicken,Chatman's Chicken,1747 w w white rd s ,1747 s ww white rd,chatman's chicken,chatmans chicken,white,swhite,1,1
+434,stop n joy,Stop-N-Joy,1902 rigsby av ,1902 rigsby ave,stop n joy,stopnjoy,rigsby,rigsbye,1,2
+435,the koffee kup company,The Koffee Kup Company,1025 donaldson av ,1025 donaldson ave, koffee kup company, koffee kup company,donaldson,donaldsone,1,0
+436,san antonio burger co,San Antonio Burger,8440 fredsbg rd ,8440 fredericksburg rd,s antonio burger co,s antonio burger,fredricksburg,fredericksburg,1,3
+437,formosa garden,Formosa Garden,1011 loop 410 ne ,1011 n e loop 410,formos garden,formos garden,ne loop 410,n loop 410,1,0
+438,saritas mexican restaurant # 2,Sarita's Mexican Restaurant,8224 fredsbg rd ,8224 fredericksburg rd,saritas mexic restaurant # 2,saritas mexic restaurant,fredricksburg,fredericksburg,1,4
+439,erick's,Erick's Tacos,12715 nacogdoches rd ,12715 nacodoches rd,erick's,ericks tacos,nacogdoches,nacodoches,1,6
+440,el paraiso ice cream,El Paraiso Ice Cream,1934 fredsbg rd ,1934 fredericksburg rd, paraiso ice cream, paraiso ice cream,fredricksburg,fredericksburg,1,0
+441,schlotzsky's,Schlotzsky's,8534 perrin beitel ,8534 perrin-beitel rd,schlotzsky's,schlotzskys,perrin beitel,perrin-beitel,1,1
+442,big lou's pizza,Big Lou's Pizza,2048 w w white rd s ,2048 s ww white rd,big lou's pizza,big lous pizza,white,swhite,1,1
+443,la flor de michoacan,La Flor de Michoacan,4707 rigsby av ,4707 rigsby ave,l flor  michoacan,l flor  michoacan,rigsby,rigsbye,1,0
+444,panda express,Panda Express,2323 babcock rd ,2323 babcok rd,pand express,pand express,babcock,babcok,1,0
+445,hacienda patron taqueria restaurant,Hacienda Patron Taqueria Y Restaurant,459 mc carty rd ,459 mccarty rd,haciend patr taqueri restaurant,haciend patr taqueri y restaurant,mc carty,mccarty,1,2
+446,burger king #9061,Burger King,5218 de zavala rd ,5218 dezavala rd,burger king #9061,burger king,de zavala,dezavala,1,6
+447,wingstop #842,Wingstop,1107 san pedro av ,1107 san pedro ave,wingstop #842,wingstop,san pedro,san pedroe,1,5
+448,iron cactus #,Iron Cactus,200 riverwalk ,200 river walk,ir cactus #,ir cactus,riverwalk,riveralk,1,2
+449,u.s.a donuts,u.s.a. donuts,4535 rigsby ,4535 rigsby ave,u.s. donuts,u.s.a. donuts,rigsby,rigsbye,1,2
+450,two brosbbq market,Two Bros. BBQ Market,12656 west av ,12656 west ave,two brosbbq market,two bros. bbq market,west,weste,1,2
+451,wingstop #1294,Wingstop,3031 woodlawn w ,3031 w woodlawn ave,wingstop #1294,wingstop,woodlawn,woodlawne,1,6
+452,sr. ceviche,Senor Ceviche,3534 fredsbg rd ,3534 fredericksburg rd,sr. ceviche,senor ceviche,fredricksburg,fredericksburg,1,4
+453,bill miller bbq #4,Bill Miller Bar-B-Q,2110 jackson-keller ,2110 jackson keller,bill miller bbq #4,bill miller barbq,jackson-keller,jackson keller,1,5
+454,teka molino,Teka Molino,7231 san pedro av ,7231 san pedro ave,tek molino,tek molino,san pedro,san pedroe,1,0
+455,tokyo inn,Niki's Tokyo Inn,819 hildebrand w ,819 hildebrand ave w,tokyo inn,nikis tokyo inn,hildebrand,hildebrande,1,6
+456,pancake joe's,Pancake Joe's,1011 donaldson av ,1011 donaldson ave,pancake joe's,pancake joes,donaldson,donaldsone,1,1
+457,pollos asados los nortenos,Pollos Asados Los Norteños,4642 rigsby av ,4642 rigsby ave,pol asados  nortenos,pol asados  norteños,rigsby,rigsbye,1,1
+458,south garden chinese restaurant,South Garden Chinese Restaurant,3909 fredsbg rd ,3909 fredericksburg rd,south garden chinese restaurant,south garden chinese restaurant,fredricksburg,fredericksburg,1,0
+459,jack in the box #807,Jack in the Box,3315 san pedro av ,3315 san pedro ave,jack   box #807,jack   box,san pedro,san pedroe,1,5
+460,rubens homemade tamales,Ruben's Homemade Tamales,1807 rigsby av ,1807 rigsby ave,rubens homema tamales,rubens homema tamales,rigsby,rigsbye,1,0
+461,hometown burger,Hometown Burger,2719 fredsbg rd ,2719 fredericksburg rd,hometown burger,hometown burger,fredricksburg,fredericksburg,1,0
+462,la tapatia mexican restaurant,La Tapatia Mexican Restaurant,4731 rigsby ,4731 rigsby ave,l tapati mexic restaurant,l tapati mexic restaurant,rigsby,rigsbye,1,0
+463,lil jonnys taco house,Lil Jonnys Taco House,3601 ih 35 n ,3601 ih35 n,lil jonnys taco house,lil jonnys taco house,ih 35,ih35,1,0
+464,julians italian pizzeria & kitchen,Julian's Italian Pizzeria & Kitchen,13444 west av ,13444 west ave,julians itali pizzeri & kitchen,julians itali pizzeri  kitchen,west,weste,1,1
+465,dry dock oyster bar,Dry Dock Oyster Bar,8522 fredsbg rd ,8522 fredericksburg rd,dry dock oyster bar,dry dock oyster bar,fredricksburg,fredericksburg,1,0
+466,bill miller bbq #2,Bill Miller Bar-B-Q,135 w w white rd s ,135 s ww white rd,bill miller bbq #2,bill miller barbq,white,swhite,1,5
+467,faust tavern,Faust Tavern,517 woodlawn av e ,517 e woodlawn,faust tavern,faust tavern,woodlawn,eoodlawn,1,0
+468,las pinchanchas cafe,Las Pinchanchas,450 fredsbg rd ,450 fredericksburg rd, pinchanchas cafe, pinchanchas,fredricksburg,fredericksburg,1,5
+469,petes tako house,Pete's Tako House,502 brooklyn av ,502 brooklyn ave,petes tako house,petes tako house,brooklyn,brooklyne,1,0
+470,edwards ridge distillery,Edwards Ridge Distillery,16104 university oak ,16104 university oaks,edwards ridge distillery,edwards ridge distillery,university oak,university oaks,1,0
+471,wok on wheels,Wok on Wheels,4503 de zavala rd ,4503 dezavala rd,wok  wheels,wok  wheels,de zavala,dezavala,1,0
+472,dahlia thai cuisine,Dahlia Thai Cuisine,8498 fredsbg rd ,8498 fredericksburg rd,dahli thai cuisine,dahli thai cuisine,fredricksburg,fredericksburg,1,0
+473,lucky lounge,Lucky Lounge,447 mc carty rd ,447 mccarty rd,lucky lounge,lucky lounge,mc carty,mccarty,1,0
+474,the lighthouse seafood,The Lighthouse Seafood,1212 fredsbg rd ,1212 fredericksburg rd, lighthouse seafood, lighthouse seafood,fredricksburg,fredericksburg,1,0
+475,las rancheritas,Las Rancheritas Cafe,902 san agustine s ,902 s san augustine, rancheritas, rancheritas cafe,san agustine,san augustine,1,5
+476,peter el norteno,Peter El Norteno,542 fredsbg rd ,542 fredericksburg rd,peter  norteno,peter  norteno,fredricksburg,fredericksburg,1,0
+477,rock san,Rock San,5238 de zavala rd ,5238 dezavala rd,rock san,rock san,de zavala,dezavala,1,0
+478,amigos snacks and more,Amigos Snacks & More,107 rigsby av ,107 rigsby ave,amigos snacks and more,amigos snacks  more,rigsby,rigsbye,1,3
+479,jack in the box #854,Jack in the Box,4626 fredsbg rd ,4626 fredericksburg rd,jack   box #854,jack   box,fredricksburg,fredericksburg,1,5
+480,whataburger #382,Whataburger,303 roland ave ,303 roland rd,whataburger #382,whataburger,rolande,roland,1,5
+481,murf's better burger #1,Murf's Better Burger,2922 west av ,2922 west ave,murf's better burger #1,murfs better burger,west,weste,1,4
+482,tao's thai hot,Tao's Thai Hot,8110 fredsbg rd ,8110 fredericksburg rd,tao's thai hot,taos thai hot,fredricksburg,fredericksburg,1,1
+483,pretzel maker,Pretzel Maker,7400 san pedro av ,7400 san pedro ave,pretz maker,pretz maker,san pedro,san pedroe,1,0
+484,taqueria los dos laredos,Taqueria Los Dos Laredos,4703 rigsby av ,4703 rigsby ave,taqueri  dos laredos,taqueri  dos laredos,rigsby,rigsbye,1,0
+485,old smoke house,Old Smokehouse,5145 fredsbg rd ,5145 fredericksburg rd,old smoke house,old smokehouse,fredricksburg,fredericksburg,1,1
+486,dominos pizza #6704,Domino's Pizza,8442 fredsbg rd ,8442 fredericksburg rd,dominos pizz #6704,dominos pizza,fredricksburg,fredericksburg,1,6
+487,el pollo loco #3777,El Pollo Loco,7327 san pedro av ,7327 san pedro ave, pollo loco #3777, pollo loco,san pedro,san pedroe,1,6
+488,china king buffet,China King Buffet,6900 san pedro av ,6900 san pedro ave,chin king buffet,chin king buffet,san pedro,san pedroe,1,0
+489,wingstop #38,Wingstop,7959 fredsbg rd ,7959 fredericksburg rd,wingstop #38,wingstop,fredricksburg,fredericksburg,1,4
+490,oak hills tavern,Oak Hills Tavern,7920 fredsbg rd ,7920 fredericksburg rd,oak hills tavern,oak hills tavern,fredricksburg,fredericksburg,1,0
+491,dominos pizza #6897,Domino's Pizza,4547 rigsby ,4547 rigsby ave,dominos pizz #6897,dominos pizza,rigsby,rigsbye,1,6
+492,french sandwich shop,French Sandwiches,8448 fredsbg rd ,8448 fredericksburg rd,french sandwich shop,french sandwiches,fredricksburg,fredericksburg,1,4
+493,silo terrace oyster bar,Silo Terrace Oyster Bar,22211 ih 10 w ,22211 ih-10,silo terrace oyster bar,silo terrace oyster bar,ih 10,ih-10,1,0
+494,the dogfather,The Dogfather,6211 san pedro av ,6211 san pedro ave, dogfather, dogfather,san pedro,san pedroe,1,0
+495,gorditas dona tota,Gorditas Doña Tota,7053 san pedro av ,7053 san pedro ave,gorditas don tota,gorditas doñ tota,san pedro,san pedroe,1,1
+496,bbq life # 1,BBQLIFE,902 w w white rd s ,902 s ww white rd,bbq life # 1,bbqlife,white,swhite,1,5
+497,las sabrosas de guanajuato,Las Sabrosas de Guanajuato,6825 san pedro ave ,6825 san pedro, sabrosas  guanajuato, sabrosas  guanajuato,san pedroe,san pedro,1,0
+498,lai wah's place,Lai Wah's Place,5242 fredsbg rd ,5242 fredericksburg rd,lai wah's place,lai wahs place,fredricksburg,fredericksburg,1,1
+499,andrea's cafe,Andrea's Cafe,843 waverly av ,843 waverly ave,andrea's cafe,andreas cafe,waverly,waverlye,1,1
+500,the little fish factory,Little Fish Factory,1555 w w white rd s ,1555 s ww white rd, little fish factory,little fish factory,white,swhite,1,1
+501,happy hut,Happy Hut,1902 west av ,1902 west ave,happy hut,happy hut,west,weste,1,0
+502,mcdonalds #1843,McDonald's,3971 fredsbg rd ,3971 fredericksburg rd,mcdonalds #1843,mcdonalds,fredricksburg,fredericksburg,1,6
+503,curry bowl,Curry Bowl,10227 ironside dr ,10227 iron side dr,curry bowl,curry bowl,ironside,ironide,1,0
+504,el potosino mexican restaurant #2,El Potosino Mexican Restaurant,7243 san pedro av ,7243 san pedro ave, potosino mexic restaurant #2, potosino mexic restaurant,san pedro,san pedroe,1,3
+505,los laureles cafe,LOS Laureles,1918 west av ,1918 west ave, laureles cafe, laureles,west,weste,1,5
+506,daylight donuts,Daylight Donuts,9517 fredsbg rd ,9517 fredericksburg rd,daylight donuts,daylight donuts,fredricksburg,fredericksburg,1,0
+507,freds fish fry #13 #,Fred's Fish Fry,515 west av ,515 west ave,freds fish fry #13 #,freds fish fry,west,weste,1,6
+508,el rodeo mexican restaurant,El Rodeo Mexican Restaurant,319 w w white rd s ,319 s ww white rd, rodeo mexic restaurant, rodeo mexic restaurant,white,swhite,1,0
+509,tommys restaurant,Tommy's Restaurant,1205 nogalitos st ,1205 nogalits,tommys restaurant,tommys restaurant,nogalitos,nogalits,1,0
+510,amigo's chicago pizza,Amigo's Chicago Pizza,8120 fredsbg rd ,8120 fredericksburg rd,amigo's chicago pizza,amigos chicago pizza,fredricksburg,fredericksburg,1,1
+511,himalayan bazar,Himalayan Bazar,8466 fredsbg rd ,8466 fredericksburg rd,himalay bazar,himalay bazar,fredricksburg,fredericksburg,1,0
+512,letty's cakes and more,Letty's Cakes & More,1717 fredsbg rd ,1717 fredericksburg rd,letty's cakes and more,lettys cakes  more,fredricksburg,fredericksburg,1,4
+513,tonys,Tony's Bar,206 brooklyn av ,206 brooklyn ave,tonys,tonys bar,brooklyn,brooklyne,1,4
+514,sabor latino restaurant,Sabor Latino Restaurant,5506 san pedro av ,5506 san pedro ave,sabor latino restaurant,sabor latino restaurant,san pedro,san pedroe,1,0
+515,get fried,Kona Grill,7400 san pedro av ,7400 san pedro ave,get fried,kon grill,san pedro,san pedroe,1,6
+516,little caesars pizza #39 #,Little Caesars Pizza,2002 fredsbg rd ,2002 fredericksburg rd,little caesars pizz #39 #,little caesars pizza,fredricksburg,fredericksburg,1,6
+517,lindo jalisco grill,Lindo Jalisco Grill,8434 fredsbg rd ,8434 fredericksburg rd,lindo jalisco grill,lindo jalisco grill,fredricksburg,fredericksburg,1,0
+518,2015 place,2015 Place,2015 san pedro av ,2015 san pedro ave,2015 place,2015 place,san pedro,san pedroe,1,0
+519,menger hotel,Menger Bar,204 alamo pz ,204 alamo plz,menger hotel,menger bar,alamo pz,alamo plz,1,5
+520,taqueria vallarta # 2,Taqueria Vallarta,1430 e cesar e chavez blvd ,1430 e caesar chavez blvd,taqueri vallart # 2,taqueri vallarta,e cesar chavez,e caesar chavez,1,4
+521,haagen dazs,Häagen-Dazs,7400 san pedro av ,7400 san pedro ave,haagen dazs,häagendazs,san pedro,san pedroe,1,2
+522,tokyo steak house,Tokyo Steakhouse,9405 san pedro av ,9405 san pedro ave,tokyo steak house,tokyo steakhouse,san pedro,san pedroe,1,1
+523,menger hotel,Menger Hotel,204 alamo pz ,204 alamo plz,menger hotel,menger hotel,alamo pz,alamo plz,1,0
+524,taqueria jalisco #9,Taqueria Jalisco,11791 west av ,11791 west ave,taqueri jalisco #9,taqueri jalisco,west,weste,1,3
+525,yolandas uptown cafe,Yolanda's Uptown Cafe,615 fredsbg rd ,615 fredericksburg rd,yolandas uptown cafe,yolandas uptown cafe,fredricksburg,fredericksburg,1,0
+526,sukies taco house,Sukie's Taco House,1808 west av ,1808 west ave,sukies taco house,sukies taco house,west,weste,1,0
+527,mariscos don charly,Mariscos Don Charly,515 w w white rd s ,515 s ww white rd,mariscos d charly,mariscos d charly,white,swhite,1,0
+528,tip top cafe,Tip Top Cafe,2814 fredsbg rd ,2814 fredericksburg rd,tip top cafe,tip top cafe,fredricksburg,fredericksburg,1,0
+529,mcalister's deli,McAlister's Deli,5880 de zavala rd ,5880 dezavala rd,mcalister's deli,mcalisters deli,de zavala,dezavala,1,1
+530,beer n all,Beer N All,823 san pedro av ,823 san pedro ave,beer n all,beer n all,san pedro,san pedroe,1,0
+531,panaderia jimenez,Panaderia Jimenez,1846 fredsbg rd ,1846 fredericksburg rd,panaderi jimenez,panaderi jimenez,fredricksburg,fredericksburg,1,0
+532,the chaat house,The Chaat House,9903 fredsbg rd ,9903 fredericksburg rd, chaat house, chaat house,fredricksburg,fredericksburg,1,0
+533,jack in the box #805,Jack in the Box,303 san pedro av ,303 san pedro ave,jack   box #805,jack   box,san pedro,san pedroe,1,5
+534,papa john's pizza,Papa John's Pizza,4525 rigsby av ,4525 rigsby ave,pap john's pizza,pap johns pizza,rigsby,rigsbye,1,1
+535,little caesars pizza #3,Little Caesars Pizza,11541 west av ,11541 west ave,little caesars pizz #3,little caesars pizza,west,weste,1,3
+536,rivera dairy queen,Dairy Queen,2819 west av ,2819 west ave,river dairy queen,dairy queen,west,weste,1,6
+537,north star cafe,North Star Cafe,7400 san pedro av ,7400 san pedro ave,north star cafe,north star cafe,san pedro,san pedroe,1,0
+538,jack in the box #935,Jack in the Box,7150 san pedro av ,7150 san pedro ave,jack   box #935,jack   box,san pedro,san pedroe,1,5
+539,beer n all,Beer n All,5132 west av ,5132 west ave,beer n all,beer n all,west,weste,1,0
+540,taco rey,Taco Rey,11825 west av ,11825 west ave,taco rey,taco rey,west,weste,1,0
+541,kona grill#143,Kona Grill,7400 san pedro av ,7400 san pedro ave,kon grill#143,kon grill,san pedro,san pedroe,1,4
+542,rocky mountain chocolate factory,Rocky Mountain Chocolate Factory,522 riverwalk ,522 river walk st,rocky mount chocolate factory,rocky mount chocolate factory,riverwalk,riveralk,1,0
+543,pigpen's,The Pigpen,106 pershing av ,106 pershing ave,pigpen's, pigpen,pershing,pershinge,1,3
+544,martinez barbacoa & tamales,Martinez Barbacoa Y Tamales,728 fredsbg rd ,728 fredericksburg rd,martinez barbaco & tamales,martinez barbaco y tamales,fredricksburg,fredericksburg,1,1
+545,fuddruckers,Fuddruckers,115 alamo pz ,115 alamo plz,fuddruckers,fuddruckers,alamo pz,alamo plz,1,0
+546,la popular bakery & cake shop,La Popular Bakery & Cake Shop,2505 west av ,2505 west ave,l popular bakery & cake shop,l popular bakery  cake shop,west,weste,1,1
+547,coquetas bar & grill,Coquetas bar & grill,3333 west av ,3333 west ave,coquetas bar & grill,coquetas bar  grill,west,weste,1,1
+548,las quesabrosaz,Las Quesabrosaz,909 ww white rd s ,909 s ww white rd, quesabrosaz, quesabrosaz,wwhite,swhite,1,0
+549,zarazua's cafe,Zarazua's Cafe,400 sunset rd w ,400 w sunset rd,zarazua's cafe,zarazuas cafe,sunset,wunset,1,1
+550,einstein bros bagels #3567,Einstein Bros Bagels,12730 ih 10 w ,12730 ih-10 w,einste bros bagels #3567,einste bros bagels,ih 10,ih-10,1,6
+551,marble slab creamery,Marble Slab Creamery,11745 ih 10 w ,11745 i-h 10 w,marble slab creamery,marble slab creamery,ih 10,i-h 10,1,0
+552,jack in the box #934,Jack in the Box,2311 fredsbg rd ,2311 fredericksburg rd,jack   box #934,jack   box,fredricksburg,fredericksburg,1,5
+553,ab cafe,USAA AB Café,9800 fredsbg rd ,9800 fredericksburg rd,ab cafe,usa ab café,fredricksburg,fredericksburg,1,5
+554,bsb cafe,USAA AB Café,9800 fredsbg rd ,9800 fredericksburg rd,bsb cafe,usa ab café,fredricksburg,fredericksburg,1,5
+555,sangria on the burg,Sangria On the Burg,5115 fredsbg rd ,5115 fredericksburg rd,sangri   burg,sangri   burg,fredricksburg,fredericksburg,1,0
+556,dominos pizza #6712,Domino's Pizza,13402 west av ,13402 west ave,dominos pizz #6712,dominos pizza,west,weste,1,6
+557,whataburger #367,Whataburger,2727 west av ,2727 west ave,whataburger #367,whataburger,west,weste,1,5
+558,fuddruckers,Fuddruckers,9845 ih 10 w ,9845 ih-10 w,fuddruckers,fuddruckers,ih 10,ih-10,1,0
+559,culebra meat market #27,Culebra Meat Market,5500 babcock rd ,5500 babcock rd.,culebr meat market #27,culebr meat market,babcock,babcock.,1,4
+560,little caesars pizza #19 #,Little Caesars Pizza,917 w w white rd s ,917 s ww white rd,little caesars pizz #19 #,little caesars pizza,white,swhite,1,6
+561,haagen dazs #,Häagen-Dazs,214 alamo pz ,214 alamo plz,haagen dazs #,häagendazs,alamo pz,alamo plz,1,4
+562,cafe san luis #3,Cafe San Luis,4502 west av ,4502 west ave,cafe s luis #3,cafe s luis,west,weste,1,3
+563,pizza hut #,Pizza Hut,611 san pedro av ,611 san pedro ave,pizz hut #,pizz hut,san pedro,san pedroe,1,2
+564,heb #,H-E-B,2118 fredsbg rd ,2118 fredericksburg rd,heb #,heb,fredricksburg,fredericksburg,1,2
+565,el pollo loco #3776,El Pollo Loco,3938 fredsbg rd ,3938 fredericksburg rd, pollo loco #3776, pollo loco,fredricksburg,fredericksburg,1,6
+566,wingstop #197,Wingstop,2911 west av ,2911 west ave,wingstop #197,wingstop,west,weste,1,5
+567,madurai mes,Madurai Mes,5152 fredsbg rd ,5152 fredericksburg rd,madurai mes,madurai mes,fredricksburg,fredericksburg,1,0
+568,pizza patron #022,Pizza Patrón,2913 west av ,2913 west ave,pizz patr #022,pizz patrón,west,weste,1,5
+569,whataburger #399,Whataburger,1118 roosevelt av ,1118 roosevelt ave,whataburger #399,whataburger,roosevelt,roosevelte,1,5
+570,golden food mart,Golden Food Mart,571 eleanor av ,571 eleanor ave,golden food mart,golden food mart,eleanor,eleanore,1,0
+571,taco house,Taco House,6307 san pedro av ,6307 san pedro ave,taco house,taco house,san pedro,san pedroe,1,0
+572,thirsty aztec,Thirsty Aztec,200 riverwalk ,200 river walk,thirsty aztec,thirsty aztec,riverwalk,riveralk,1,0
+573,tlahco mexican kitchen,Tlahco Mexican kitchen,6702 san pedro av ,6702 san pedro ave,tlahco mexic kitchen,tlahco mexic kitchen,san pedro,san pedroe,1,0
+574,churchs chicken # 342,Church's Chicken,5903 san pedro av ,5903 san pedro ave,churchs chicken # 342,churchs chicken,san pedro,san pedroe,1,6
+575,acu bistro bar,Acu Bistro Bar,21715 ih 10 w ,21715 ih-10 w,acu bistro bar,acu bistro bar,ih 10,ih-10,1,0
+576,my chef meals,My Chef Meals,455 mc carty rd ,455 mccarty rd,my chef meals,my chef meals,mc carty,mccarty,1,0
+577,santas place,Santa's Place,417 spriggsdale av ,417 spriggsdale ave,santas place,santas place,spriggsdale,spriggsdalee,1,0
+578,walgreens #4374,Walgreens,10411 west av ,10411 west ave,walgreens #4374,walgreens,west,weste,1,6
+579,banana's billards,Bananas Billiards,2003 san pedro av ,2003 san pedro ave,banana's billards,bananas billiards,san pedro,san pedroe,1,2
+580,the little penguins snacks llc,Little Penguins Snacks,820 fredsbg rd ,820 fredericksburg rd, little penguins snacks llc,little penguins snacks,fredricksburg,fredericksburg,1,5
+581,bonnie jeans cocktails,Bonnie Jean's Cocktails,5118 fredsbg rd ,5118 fredericksburg rd,bonnie jeans cocktails,bonnie jeans cocktails,fredricksburg,fredericksburg,1,0
+582,al amir cafe & grill,Al-Amir Cafe & Grill,8620 fredsbg rd ,8620 fredericksburg rd,al amir cafe & grill,alamir cafe  grill,fredricksburg,fredericksburg,1,2
+583,taquitos west ave,Taquitos West Ave,2818 west av ,2818 west ave,taquitos west ave,taquitos west ave,west,weste,1,0
+584,c cafe,Chick-fil-A,9800 fredsbg rd ,9800 fredericksburg rd,c cafe,chickfila,fredricksburg,fredericksburg,1,6
+585,yaya's thai restaurant,Yaya's Thai Restaurant,8085 callaghan rd ,8085 callaghan ave,yaya's thai restaurant,yayas thai restaurant,callaghan,callaghane,1,1
+586,pizza hut,Pizza Hut,6630 san pedro av ,6630 san pedro ave,pizz hut,pizz hut,san pedro,san pedroe,1,0
+587,medina river coffee,Medina River Coffee,11825 west av ,11825 west ave,medin river coffee,medin river coffee,west,weste,1,0
+588,hero's ramen x sushi,Hero’s Ramen X Sushi,13444 west av ,13444 west ave,hero's ramen x sushi,hero’s ramen x sushi,west,weste,1,1
+589,la michoacana meat market #,La Michoacana Meat Market,1814 w w white rd s ,1814 s ww white rd,l michoacan meat market #,l michoacan meat market,white,swhite,1,2
+590,loncheria el popo,Loncheria El Popo,6557 san pedro av ,6557 san pedro ave,loncheri  popo,loncheri  popo,san pedro,san pedroe,1,0
+591,luna,Luna,6740 san pedro av ,6740 san pedro ave,luna,luna,san pedro,san pedroe,1,0
+592,wingstop #707,Wingstop,7049 san pedro av ,7049 san pedro ave,wingstop #707,wingstop,san pedro,san pedroe,1,5
+593,the crazy ape,The Crazy Ape,9930 san pedro av ,9930 san pedro ave, crazy ape, crazy ape,san pedro,san pedroe,1,0
+594,fruteria tres hermanos,Fruteria 3 Hermanos,3206 west av ,3206 west ave,fruteri tres hermanos,fruteri 3 hermanos,west,weste,1,4
+595,whataburger #15,Whataburger,5900 san pedro av ,5900 san pedro ave,whataburger #15,whataburger,san pedro,san pedroe,1,4
+596,highlander bar & grill,Highlander Bar and Grill,5562 fredsbg rd ,5562 fredericksburg rd,highlander bar & grill,highlander bar and grill,fredricksburg,fredericksburg,1,3
+597,long john silvers,Long John Silver's,11611 west av ,11611 west ave,long john silvers,long john silvers,west,weste,1,0
+598,el gallo de arandas,Tacos El Gallo De Arandas,3905 san pedro av ,3905 san pedro ave, gallo  arandas,tacos  gallo  arandas,san pedro,san pedroe,1,6
+599,h cafe,Chick-fil-A,9800 fredsbg rd ,9800 fredericksburg rd,h cafe,chickfila,fredricksburg,fredericksburg,1,6
+600,d' island cafe,D'Island Cafe,11319 west av ,11319 west ave,d' island cafe,disland cafe,west,weste,1,2
+601,sprouts farmers market,Sprouts Farmers Market,8101 callaghan rd ,8101 callaghan rd,sprouts farmers market,sprouts farmers market,callaghan,callaghan,0,0
+602,thyme for lunch,Thyme For Lunch,9390 huebner rd ,9390 huebner rd,thyme for lunch,thyme for lunch,huebner,huebner,0,0
+603,brickyard bbq,Brickyard BBQ,8222 wurzbach rd ,8222 wurzbach rd,brickyard bbq,brickyard bbq,wurzbach,wurzbach,0,0
+604,shipley do-nuts,Shipley Do-Nuts,9702 huebner rd ,9702 huebner rd,shipley do-nuts,shipley donuts,huebner,huebner,0,1
+605,taqueria el trompo,Taqueria El Trompo,3253 harry wurzbach ,3253 harry wurzbach,taqueri  trompo,taqueri  trompo,harryurzbach,harryurzbach,0,0
+606,taqueria los potrillos,Taqueria Los Potrillos,715 nogalitos st ,715 nogalitos,taqueri  potrillos,taqueri  potrillos,nogalitos,nogalitos,0,0
+607,la crawfish,LA Crawfish,25 loop 410 ne ,25 ne loop 410,l crawfish,l crawfish,ne loop 410,ne loop 410,0,0
+608,ice ice baby,Ice Ice Baby,2113 bandera rd ,2113 bandera rd,ice ice baby,ice ice baby,bandera,bandera,0,0
+609,the web house cafe & bar,Web House Cafe & Bar,320 blanco rd ,320 blanco rd, web house cafe & bar,web house cafe  bar,blanco,blanco,0,2
+610,blanco cafe #1,Blanco Cafe,1720 blanco rd ,1720 blanco rd,blanco cafe #1,blanco cafe,blanco,blanco,0,3
+611,panda express #,Panda Express,1803 vance jackson ,1803 vance jackson rd,pand express #,pand express,vance jackson,vance jackson,0,2
+612,little caesars pizza #6,Little Caesars Pizza,4431 blanco rd ,4431 blanco rd,little caesars pizz #6,little caesars pizza,blanco,blanco,0,3
+613,stacys sportsbar,Stacy's Sports Bar,3805 blanco rd ,3805 blanco rd,stacys sportsbar,stacys sports bar,blanco,blanco,0,1
+614,little italy rest\bar,Little Italy Restaurant,824 afterglow st ,824 afterglow st,little italy rest\bar,little italy restaurant,afterglow,afterglow,0,5
+615,hacienda camila,Hacienda Camila,14814 jones maltsberger ,14814 jones maltsberger rd,haciend camila,haciend camila,jones maltsberger,jones maltsberger,0,0
+616,las palapas,Las Palapas,8005 callaghan rd ,8005 callaghan rd, palapas, palapas,callaghan,callaghan,0,0
+617,manola's thai & vietnamese cuisine,Manola's Thai & Vietnamese Cuisine,7212 blanco rd ,7212 blanco rd,manola's thai & vietnamese cuisine,manolas thai  vietnamese cuisine,blanco,blanco,0,2
+618,tomatillos #,Tomatillos,3210 broadway ,3210 broadway st,tomatil #,tomatillos,broadway,broadway,0,3
+619,jesses deli llc,Jesse's Deli,603 isom rd ,603 isom rd,jesses deli llc,jesses deli,isom,isom,0,4
+620,tony's tacos to go,Tony's Tacos To Go,1503 nogalitos st ,1503 nogalitos,tony's tacos to go,tonys tacos to go,nogalitos,nogalitos,0,1
+621,dunkin donuts,Dunkin',2026 babcock rd ,2026 babcock rd,dunk donuts,dunkin,babcock,babcock,0,6
+622,steak n shake,Steak ’n Shake,9800 airport bv ,9800 airport blvd,steak n shake,steak ’n shake,airport,airport,0,1
+623,jack in the box #900,Jack in the Box,5850 culebra rd ,5850 culebra rd,jack   box #900,jack   box,culebra,culebra,0,5
+624,berry to bean coffee house,Berry To Bean Coffee House,3900 broadway ,3900 broadway,berry to be coffee house,berry to be coffee house,broadway,broadway,0,0
+625,camila's mexican resturant,Camila's Mexican Restaurant,16075 henderson pass ,16075 henderson pass,camila's mexic resturant,camilas mexic restaurant,henderson pass,henderson pass,0,2
+626,chili's too,Chili's,1 utsa cir ,1 utsa cir,chili's too,chilis,utsa cir,utsa cir,0,5
+627,09 midtown bistro,09 Midtown Bistro,3615 broadway ,3615 broadway st,09 midtown bistro,09 midtown bistro,broadway,broadway,0,0
+628,which wich,Which Wich,2026 babcock rd ,2026 babcock rd,which wich,which wich,babcock,babcock,0,0
+629,casa de rosa cafe,Casa De Rosa Cafe,1120 basse rd ,1120 basse rd,cas  ros cafe,cas  ros cafe,basse,basse,0,0
+630,cafe rosa # 3,Cafe Rosa 3,2817 hillcrest dr ,2817 hillcrest dr,cafe ros # 3,cafe ros 3,hillcrest,hillcrest,0,2
+631,taqueria vallarta,Taqueria Vallarta,8234 broadway ,8234 broadway,taqueri vallarta,taqueri vallarta,broadway,broadway,0,0
+632,cheesey janes,Cheesy Jane's,4200 broadway ,4200 broadway st,cheesey janes,cheesy janes,broadway,broadway,0,1
+633,enma's taco house,Enma’s Taco House,5282 medical dr ,5282 medical dr,enma's taco house,enma’s taco house,medical,medical,0,1
+634,lindas mexican restaurant,Linda's Mexican Restaurant,1424 guadalupe st ,1424 guadalupe st,lindas mexic restaurant,lindas mexic restaurant,guadalupe,guadalupe,0,0
+635,betty jane's bakeshop,Betty Jane's Bakeshoppe,14377 blanco rd ,14377 blanco rd,betty jane's bakeshop,betty janes bakeshoppe,blanco,blanco,0,3
+636,la gloria,Volaris,9800 airport bv ,9800 airport blvd,l gloria,volaris,airport,airport,0,5
+637,bill miller bbq #52,Bill Miller Bar-B-Q,10723 huebner rd ,10723 huebner rd,bill miller bbq #52,bill miller barbq,huebner,huebner,0,6
+638,brevity coffee company,Brevity Coffee Co.,8802 huebner rd ,8802 huebner rd,brevity coffee company,brevity coffee co.,huebner,huebner,0,5
+639,bush's chicken,Bush's Chicken,10603 huebner rd ,10603 huebner rd,bush's chicken,bushs chicken,huebner,huebner,0,1
+640,little caesar's pizza #9 #,Little Caesars Pizza,1603 bandera rd ,1603 bandera rd,little caesar's pizz #9 #,little caesars pizza,bandera,bandera,0,6
+641,freds fish fry #10 #,Fred's Fish Fry,1126 cupples rd ,1126 cupples rd,freds fish fry #10 #,freds fish fry,cupples,cupples,0,6
+642,jalisco grill,El Jalisco Grill,6560 babcock rd ,6560 babcock rd,jalisco grill, jalisco grill,babcock,babcock,0,1
+643,lupitas mexican restaurant,Lupita's Mexican Restaurant,5923 culebra rd ,5923 culebra rd,lupitas mexic restaurant,lupitas mexic restaurant,culebra,culebra,0,0
+644,panasian cafe,Panasian Cafe,9503 bandera rd ,9503 bandera rd,panasi cafe,panasi cafe,bandera,bandera,0,0
+645,rios barbacoa #10,Rios Barbacoa,8601 huebner rd ,8601 huebner rd,rios barbaco #10,rios barbacoa,huebner,huebner,0,4
+646,54th street restaurant & drafthouse,54th Street Restaurant & Drafthouse,9907 ih 10 w ,9907 ih 10 w,54th street restaurant & drafthouse,54th street restaurant  drafthouse,ih 10,ih 10,0,1
+647,lulu's classic ice cream shop,LuLu's Classic Icecream Shop,1727 blanco rd ,1727 blanco rd,lulu's classic ice cream shop,lulus classic icecream shop,blanco,blanco,0,2
+648,el jarrito cafe,El Jarrito Cafe,2014 blanco rd ,2014 blanco rd, jarrito cafe, jarrito cafe,blanco,blanco,0,0
+649,mariscos el kora,Mariscos el kora,2367 austin hwy ,2367 austin hwy,mariscos  kora,mariscos  kora,austin hwy,austin hwy,0,0
+650,tgi fridays # 560,TGI Fridays,29 loop 410 ne ,29 ne loop 410,tgi fridays # 560,tgi fridays,ne loop 410,ne loop 410,0,6
+651,einstein bros bagels,Einstein Bros Bagels,1 utsa cir ,1 utsa cir,einste bros bagels,einste bros bagels,utsa cir,utsa cir,0,0
+652,texas roadhouse #,Texas Roadhouse,2893 cinema ridge ,2893 cinema ridge,texas roadhouse #,texas roadhouse,cinema ridge,cinema ridge,0,2
+653,wurzbach ice house,Wurzbach Ice House,10141 wurzbach rd ,10141 wurzbach rd,wurzbach ice house,wurzbach ice house,wurzbach,wurzbach,0,0
+654,el original asadero #1,El Original Asadero,1327 culebra rd ,1327 culebra rd, original asadero #1, original asadero,culebra,culebra,0,3
+655,big johns pizza,Big John's Pizza,7806 callaghan rd ,7806 callaghan rd,big johns pizza,big johns pizza,callaghan,callaghan,0,0
+656,charleys grilled subs,Charley's Grilled Subs,9710 airport bv ,9710 airport blvd,charleys grilled subs,charleys grilled subs,airport,airport,0,0
+657,carnitas lonja,Carnitas Lonja,1107 roosevelt ave ,1107 roosevelt ave,carnitas lonja,carnitas lonja,roosevelte,roosevelte,0,0
+658,thai lao 2,Thai Lao Orchid,5440 babcock rd ,5440 babcock rd,thai lao 2,thai lao orchid,babcock,babcock,0,6
+659,quiktrip #4003,QuikTrip,10010 huebner rd ,10010 huebner rd,quiktrip #4003,quiktrip,huebner,huebner,0,6
+660,church under the bridge,Church Under the Bridge,724 chestnut st ,724 chestnut st,church under  bridge,church under  bridge,chestnut,chestnut,0,0
+661,cosa nostria pizzeria,Cosa Nostra Pizzeria,16607 huebner rd ,16607 huebner rd,cos nostri pizzeria,cos nostr pizzeria,huebner,huebner,0,1
+662,walmart #4162,Walmart,12639 blanco rd ,12639 blanco rd,walmart #4162,walmart,blanco,blanco,0,6
+663,splach,Splach Bar,905 nogalitos st ,905 nogalitos,splach,splach bar,nogalitos,nogalitos,0,4
+664,pizza hut #,Pizza Hut,2615 nacogdoches rd ,2615 nacogdoches rd,pizz hut #,pizz hut,nacogdoches,nacogdoches,0,2
+665,viva vegeria,Viva Vegeria,1422 nogalitos st ,1422 nogalitos,viv vegeria,viv vegeria,nogalitos,nogalitos,0,0
+666,antojitos hondurenos,Antojitos Hondureños,2502 blanco rd ,2502 blanco rd,antojitos hondurenos,antojitos hondureños,blanco,blanco,0,1
+667,kolache stop,Kolache Stop,11703 huebner rd ,11703 huebner rd,kolache stop,kolache stop,huebner,huebner,0,0
+668,wing daddys sauce house #10,Wing Daddy's Sauce House,2120 jackson keller ,2120 jackson keller rd,wing daddys sauce house #10,wing daddys sauce house,jackson keller,jackson keller,0,4
+669,baklovah bakery and cafe,Baklovah Bakery & Cafe,403 blue star ,403 blue star,baklovah bakery and cafe,baklovah bakery  cafe,bluear,bluear,0,3
+670,la che empanadas,La Che Empanadas,6828 san pedro ave ,6828 san pedro ave,l che empanadas,l che empanadas,san pedroe,san pedroe,0,0
+671,saffron persian cuisine,Saffron Persian Cuisine,8846 huebner rd ,8846 huebner rd,saffr persi cuisine,saffr persi cuisine,huebner,huebner,0,0
+672,earl abel's,Earl Abel's,1639 broadway ,1639 broadway st,earl abel's,earl abels,broadway,broadway,0,1
+673,chris madrid,Chris Madrids,1900 blanco rd ,1900 blanco rd,chris madrid,chris madrids,blanco,blanco,0,1
+674,las nieves,Las Nieves,4310 blanco rd ,4310 blanco rd, nieves, nieves,blanco,blanco,0,0
+675,vino volo,Vino Volo,9800 airport bv ,9800 airport blvd,vino volo,vino volo,airport,airport,0,0
+676,smoothie king #1643,Smoothie King,1251 austin hwy ,1251 austin hwy,smoothie king #1643,smoothie king,austin hwy,austin hwy,0,6
+677,churchs fried chicken,Church's Chicken,2431 basse rd ,2431 basse rd,churchs fried chicken,churchs chicken,basse,basse,0,6
+678,kuma,Kuma,6565 babcock rd ,6565 babcock rd,kuma,kuma,babcock,babcock,0,0
+679,magnolia pancake haus,The Magnolia Pancake Haus,10333 huebner rd ,10333 huebner rd,magnoli pancake haus, magnoli pancake haus,huebner,huebner,0,1
+680,freds fish fry #,Fred's Fish Fry,3418 culebra rd ,3418 culebra rd,freds fish fry #,freds fish fry,culebra,culebra,0,2
+681,nikis cafe mexican restaurant,Niki's Mexican Restaurant,6125 callaghan rd ,6125 callaghan rd,nikis cafe mexic restaurant,nikis mexic restaurant,callaghan,callaghan,0,5
+682,local health market,Local Health Market,16535 huebner rd ,16535 huebner rd,local health market,local health market,huebner,huebner,0,0
+683,las nieves,Los Magueyes,4310 blanco rd ,4310 blanco rd, nieves, magueyes,blanco,blanco,0,5
+684,dairy queen,Dairy Queen,1914 jackson keller ,1914 jackson keller,dairy queen,dairy queen,jackson keller,jackson keller,0,0
+685,las islas marias,Las Islas Marias,10930 perrin beitel ,10930 perrin beitel, is marias, is marias,perrin beitel,perrin beitel,0,0
+686,deco pizzeria,Deco Pizzeria,2026 babcock rd ,2026 babcock rd,deco pizzeria,deco pizzeria,babcock,babcock,0,0
+687,baan thai restaurant,Baan Thai Restaurant,9386 huebner rd ,9386 huebner rd,b thai restaurant,b thai restaurant,huebner,huebner,0,0
+688,baklava bakery,Baklovah Bakery,9329 wurzbach rd ,9329 wurzbach rd,baklav bakery,baklovah bakery,wurzbach,wurzbach,0,3
+689,dulce victoria desserts,Dulce Victoria Desserts,150 babcock rd ,150 babcock rd,dulce victori desserts,dulce victori desserts,babcock,babcock,0,0
+690,boricua market,Boricua Food Market,1015 rittiman rd ,1015 rittiman rd,boricu market,boricu food market,rittiman,rittiman,0,5
+691,culebra meat market #7,Culebra Meat Market 7,3017 blanco rd ,3017 blanco rd,culebr meat market #7,culebr meat market 7,blanco,blanco,0,1
+692,copal comida mexicana,Copal Comida Mexicana & Bar,5720 bandera rd ,5720 bandera rd,copal comid mexicana,copal comid mexican  bar,bandera,bandera,0,4
+693,la tuna (rest),La Tuna Grill,100 probandt st ,100 probandt st,l tun (rest),l tun grill,probandt,probandt,0,5
+694,subway,Walmart,12639 blanco rd ,12639 blanco rd,subway,walmart,blanco,blanco,0,6
+695,churchs chicken # 564,Church's Chicken,11910 perrin beitel ,11910 perrin beitel rd,churchs chicken # 564,churchs chicken,perrin beitel,perrin beitel,0,6
+696,kosta's greek food,Kosta's Greek Food,12606 nacogdoches rd ,12606 nacogdoches rd,kosta's greek food,kostas greek food,nacogdoches,nacogdoches,0,1
+697,starbucks,Starbucks,1 utsa cir ,1 utsa cir,starbucks,starbucks,utsa cir,utsa cir,0,0
+698,mireles party kegs,Mireles Party Kegs,3630 culebra rd ,3630 culebra rd,mireles party kegs,mireles party kegs,culebra,culebra,0,0
+699,el bucanero,El Bucanero,16505 blanco rd ,16505 blanco rd, bucanero, bucanero,blanco,blanco,0,0
+700,la media luna cafe,la media luna cafe,12317 wetmore rd ,12317 wetmore rd,l medi lun cafe,l medi lun cafe,wetmore,wetmore,0,0
+701,whataburger #794,Whataburger,14646 blanco rd ,14646 blanco rd,whataburger #794,whataburger,blanco,blanco,0,5
+702,estela's cafe #,Estela's Cafe,114 fredericksburg rd ,114 fredericksburg rd,estela's cafe #,estelas cafe,fredericksburg,fredericksburg,0,3
+703,kuma,El Rodeo,6565 babcock rd ,6565 babcock rd,kuma, rodeo,babcock,babcock,0,6
+704,delligatti's sandwich shop,DelliGatti's Sandwich Shop,13465 wetmore rd ,13465 wetmore rd,delligatti's sandwich shop,delligattis sandwich shop,wetmore,wetmore,0,1
+705,pho32,Pho 32,2413 thousand oaks ,2413 thousand oaks,pho32,pho 32,thousand oaks,thousand oaks,0,1
+706,slice,Chili's,1 utsa cir ,1 utsa cir,slice,chilis,utsa cir,utsa cir,0,5
+707,mc donalds,McDonald's,926 bandera rd ,926 bandera rd,mc donalds,mcdonalds,bandera,bandera,0,1
+708,mustafa asian & middle eastern grocery,Mustafa Asian & Middle Eastern Grocery,4081 medical dr ,4081 medical dr,mustaf asi & middle eastern grocery,mustaf asi  middle eastern grocery,medical,medical,0,1
+709,the fruteria,The Frutería,9800 airport bv ,9800 airport blvd, fruteria, frutería,airport,airport,0,1
+710,powerhouse bakery,Powerhouse Bakery,4902 golden quail ,4902 golden quail,powerhouse bakery,powerhouse bakery,golden quail,golden quail,0,0
+711,susie's lumpia house,Susie's Lumpia House,7914 culebra rd ,7914 culebra rd,susie's lumpi house,susies lumpi house,culebra,culebra,0,1
+712,stone street pub,Stone Street Pub,16535 huebner rd ,16535 huebner rd,stone street pub,stone street pub,huebner,huebner,0,0
+713,river city donuts,River City Donuts,1723 babcock rd ,1723 babcock rd,river city donuts,river city donuts,babcock,babcock,0,0
+714,marco's pizza,Marco's Pizza,5440 babcock rd ,5440 babcock rd,marco's pizza,marcos pizza,babcock,babcock,0,1
+715,bill miller bbq #6,Bill Miller Bar-B-Q,4502 rittiman rd ,4502 rittiman rd,bill miller bbq #6,bill miller barbq,rittiman,rittiman,0,5
+716,fratello's italian market & deli,Fratello's Italian Market & Deli,2503 broadway ,2503 broadway st,fratello's itali market & deli,fratellos itali market  deli,broadway,broadway,0,2
+717,la capital del sabor,La Capital Del Sabor,502 bandera rd ,502 bandera rd,l capital d sabor,l capital d sabor,bandera,bandera,0,0
+718,pho sure,Pho Sure,8822 huebner rd ,8822 huebner rd,pho sure,pho sure,huebner,huebner,0,0
+719,i 10 icehouse,I-10 Icehouse,9518 console dr ,9518 console dr,i 10 icehouse,i10 icehouse,console,console,0,1
+720,taco bell 31399,Taco Bell,2501 babcock rd ,2501 babcock rd,taco bell 31399,taco bell,babcock,babcock,0,6
+721,taco bell 31400,Taco Bell,9300 wurzbach rd ,9300 wurzbach rd,taco bell 31400,taco bell,wurzbach,wurzbach,0,6
+722,wd deli,W D Deli,3123 broadway ,3123 broadway st,wd deli,w d deli,broadway,broadway,0,1
+723,rite stop food mart,Right Stop Food Mart,7103 wurzbach rd ,7103 wurzbach rd,rite stop food mart,right stop food mart,wurzbach,wurzbach,0,3
+724,taurinos mexican restaurant inc,Taurino's Mexican Restaurant,4416 callaghan rd ,4416 callaghan rd,taurinos mexic restaurant inc,taurinos mexic restaurant,callaghan,callaghan,0,4
+725,chapala taco house,Chapala Taco House,1363 austin hwy ,1363 austin hwy,chapal taco house,chapal taco house,austin hwy,austin hwy,0,0
+726,bill miller bbq #38,Bill Miller Bar-B-Q,8811 huebner rd ,8811 huebner,bill miller bbq #38,bill miller barbq,huebner,huebner,0,6
+727,dominos pizza #6707,Domino's Pizza,15502 huebner rd ,15502 huebner rd,dominos pizz #6707,dominos pizza,huebner,huebner,0,6
+728,chicago bagel,Chicago Bagel & Deli,10918 wurzbach rd ,10918 wurzbach rd,chicago bagel,chicago bag  deli,wurzbach,wurzbach,0,4
+729,beijing express,Beijing Express,4407 blanco rd ,4407 blanco rd,beijing express,beijing express,blanco,blanco,0,0
+730,the fruteria,Frontier,9800 airport bv ,9800 airport blvd, fruteria,frontier,airport,airport,0,6
+731,torreon mexican restaurant,El Torreon Mexican Restaurant,1505 culebra rd ,1505 culebra rd,torre mexic restaurant, torre mexic restaurant,culebra,culebra,0,1
+732,sea island shrimp house #s2,Sea Island Shrimp House,10303 ih 10 w ,10303 ih 10 w,se island shrimp house #s2,se island shrimp house,ih 10,ih 10,0,4
+733,fatt boy burgers and dogs,Fattboy Burgers & Dogs,2345 vance jackson ,2345 vance jackson rd,fatt boy burgers and dogs,fattboy burgers  dogs,vance jackson,vance jackson,0,4
+734,file's burgers,Filé's Burgers,543 ceralvo st ,543 ceralvo,file's burgers,filés burgers,ceralvo,ceralvo,0,2
+735,tia's taco hut #$3,Tia's Taco Hut,5730 babcock rd ,5730 babcock rd,tia's taco hut #$3,tias taco hut,babcock,babcock,0,5
+736,el pollo loco #3774,El Pollo Loco,2403 babcock rd ,2403 babcock rd, pollo loco #3774, pollo loco,babcock,babcock,0,6
+737,darinas restaurant,Darina's Restaurant,5625 evers rd ,5625 evers rd,darinas restaurant,darinas restaurant,evers,evers,0,0
+738,blum coffee and tea,Blum Coffee and Tea,8522 broadway ,8522 broadway,blum coffee and tea,blum coffee and tea,broadway,broadway,0,0
+739,low country,Lowcountry,318 martinez st ,318 martinez st,low country,lowcountry,martinez,martinez,0,1
+740,shipley donuts,Shipley DO-Nuts,1240 austin hwy ,1240 austin hwy,shipley donuts,shipley donuts,austin hwy,austin hwy,0,0
+741,mr. a ok's kitchen,Mr A Ok's Kitchen,4403 rittiman rd ,4403 rittiman rd,mr.  ok's kitchen,mr  oks kitchen,rittiman,rittiman,0,2
+742,jack in the box #809,Jack in the Box,4319 vance jackson ,4319 vance jackson rd,jack   box #809,jack   box,vance jackson,vance jackson,0,5
+743,jack in the box #819,Jack in the Box,7206 blanco rd ,7206 blanco rd,jack   box #819,jack   box,blanco,blanco,0,5
+744,tommy's restaurant,Tommy's Restaurant,8823 wurzbach rd ,8823 wurzbach rd,tommy's restaurant,tommys restaurant,wurzbach,wurzbach,0,1
+745,little caesars,Little Caesar's Pizza,1534 austin hwy ,1534 austin hwy,little caesars,little caesars pizza,austin hwy,austin hwy,0,6
+746,lucky noodle house,Lucky Noodle,8525 blanco rd ,8525 blanco rd,lucky noodle house,lucky noodle,blanco,blanco,0,6
+747,teka molino,Teka Molino 2,1007 rittiman rd ,1007 rittiman rd,tek molino,tek molino 2,rittiman,rittiman,0,2
+748,valentina's mexican restaurant,Valentina's Mexican Restaurant,1049 rivas st ,1049 rivas st,valentina's mexic restaurant,valentinas mexic restaurant,rivas,rivas,0,1
+749,my breaktime cafe,My Breaktime Cafe,6800 park ten dr ,6800 park ten blvd,my breaktime cafe,my breaktime cafe,park ten,park ten,0,0
+750,la luz tortilla factory,La Luz Tortilla Factory,4120 blanco rd ,4120 blanco rd,l luz tortill factory,l luz tortill factory,blanco,blanco,0,0
+751,our lady of guadalupe sen ctr,Our Lady of Guadalupe Church,1321 el paso st ,1321 el paso st,our lady  guadalupe sen ctr,our lady  guadalupe church,el paso,el paso,0,6
+752,smoke shack meat market,Smoke Shack Meat Market,3710 broadway ,3710 broadway st,smoke shack meat market,smoke shack meat market,broadway,broadway,0,0
+753,on the rocks pub,On The Rocks Pub,270 losoya st ,270 losoya,  rocks pub,  rocks pub,losoya,losoya,0,0
+754,joe's crab shack,Joe's Crab Shack,212 college st ,212 college st,joe's crab shack,joes crab shack,college,college,0,1
+755,whats it to ya? lounge,What's It To Ya Lounge,5725 evers rd ,5725 evers rd,whats it to ya? lounge,whats it to y lounge,evers,evers,0,2
+756,crockett hotel,The Crockett Hotel,320 bonham st ,320 bonham,crockett hotel, crockett hotel,bonham,bonham,0,1
+757,bill miller bbq #44,Bill Miller Bar-B-Q,4500 broadway ,4500 broadway st,bill miller bbq #44,bill miller barbq,broadway,broadway,0,6
+758,burger king #2714,Burger King,4618 rittiman rd ,4618 rittiman rd,burger king #2714,burger king,rittiman,rittiman,0,6
+759,crepeccino,Crepeccino,5500 babcock rd ,5500 babcock rd,crepeccino,crepeccino,babcock,babcock,0,0
+760,the breakfasteria,The Breakfasteria,16615 huebner rd ,16615 huebner rd, breakfasteria, breakfasteria,huebner,huebner,0,0
+761,thai hut llc,Thai Hut,9902 potranco rd ,9902 potranco rd,thai hut llc,thai hut,potranco,potranco,0,4
+762,mimis barbacoa & tamales y mas,Mimi's Barbacoa and Tamales Y Mas,10918 wurzbach rd ,10918 wurzbach rd,mimis barbaco & tamales y mas,mimis barbaco and tamales y mas,wurzbach,wurzbach,0,3
+763,papouli's greek grill #,Papouli's Greek Grill,11224 huebner rd ,11224 huebner rd,papouli's greek grill #,papoulis greek grill,huebner,huebner,0,3
+764,jack in the box #933,Jack in the Box,4606 rittiman rd ,4606 rittiman rd,jack   box #933,jack   box,rittiman,rittiman,0,5
+765,snowflake donuts,Snowflake Donuts,5802 babcock rd ,5802 babcock rd,snowflake donuts,snowflake donuts,babcock,babcock,0,0
+766,potbelly sandwich shop,Potbelly Sandwich Shop,3006 broadway ,3006 broadway,potbelly sandwich shop,potbelly sandwich shop,broadway,broadway,0,0
+767,little caesars pizza #10 #,Little Caesar's Pizza,10918 wurzbach rd ,10918 wurzbach rd,little caesars pizz #10 #,little caesars pizza,wurzbach,wurzbach,0,6
+768,little caesars,Little Caesars Pizza,5238 de zavala rd ,5238 de zavala rd,little caesars,little caesars pizza,de zavala,de zavala,0,6
+769,225 urban smoke,225 Urban Smoke,1015 rittiman rd ,1015 rittiman rd,225 urb smoke,225 urb smoke,rittiman,rittiman,0,0
+770,tacos el rey,Tacos El Rey,1821 castroville rd ,1821 castroville rd,tacos  rey,tacos  rey,castroville,castroville,0,0
+771,kabob land,Kabob Land,5713 evers rd ,5713 evers rd,kabob land,kabob land,evers,evers,0,0
+772,one sushee,One Sushee,14375 blanco rd ,14375 blanco rd,one sushee,one sushee,blanco,blanco,0,0
+773,whataburger #711,Whataburger,10011 san pedro av ,10011 san pedro,whataburger #711,whataburger,san pedro,san pedro,0,5
+774,freds fish fry #14 #,Fred's Fish Fry,1406 bandera rd ,1406 bandera rd,freds fish fry #14 #,freds fish fry,bandera,bandera,0,6
+775,shipley don-nuts,Shipley Do-Nuts,10918 wurzbach rd ,10918 wurzbach rd,shipley don-nuts,shipley donuts,wurzbach,wurzbach,0,2
+776,vietnam gardens,Vietnam Gardens,5433 blanco rd ,5433 blanco rd,vietnam gardens,vietnam gardens,blanco,blanco,0,0
+777,dick's last resort,Dick's Last Resort,223 losoya st ,223 losoya st,dick's last resort,dicks last resort,losoya,losoya,0,1
+778,tiff's treats,Tiff's Treats,1221 broadway ,1221 broadway st,tiff's treats,tiffs treats,broadway,broadway,0,1
+779,saltgrass steak house,Saltgrass Steak House,2885 cinema ridge ,2885 cinema ridge rd,saltgrass steak house,saltgrass steak house,cinema ridge,cinema ridge,0,0
+780,paraiso de mexico #2,El Paraiso de Mexico,7222 blanco rd ,7222 blanco rd,paraiso  mexico #2, paraiso  mexico,blanco,blanco,0,4
+781,dominos pizza #6711,Domino's Pizza,3022 thousand oaks ,3022 thousand oaks dr,dominos pizz #6711,dominos pizza,thousand oaks,thousand oaks,0,6
+782,regent hunan chinese restaurant,Regents Hunan Chinese Restaurant,5865 babcock rd ,5865 babcock rd,regent hun chinese restaurant,regents hun chinese restaurant,babcock,babcock,0,1
+783,the cheese cake factory,The Cheesecake Factory,7400 san pedro av ,7400 san pedro, cheese cake factory, cheesecake factory,san pedro,san pedro,0,1
+784,jack in the box #855,Jack in the Box,9330 wurzbach rd ,9330 wurzbach rd,jack   box #855,jack   box,wurzbach,wurzbach,0,5
+785,whataburger #699,Whataburger,6391 babcock rd ,6391 babcock rd,whataburger #699,whataburger,babcock,babcock,0,5
+786,bill miller bbq #10,Bill Miller Bar-B-Q,2112 blanco rd ,2112 blanco rd,bill miller bbq #10,bill miller barbq,blanco,blanco,0,6
+787,yogurt zone,Yogurt Zone,849 commerce st e ,849 commerce st,yogurt zone,yogurt zone,commerce,commerce,0,0
+788,delicious tamales to go #,Delicious Tamales To Go,5251 timberhill ,5251 timberhill,delicious tamales to go #,delicious tamales to go,timberhill,timberhill,0,2
+789,madhatters tea house & cafe,Madhatters Tea House & Cafe,320 beauregard st ,320 beauregard st,madhatters te house & cafe,madhatters te house  cafe,beauregard,beauregard,0,1
+790,el san luis mexican restaurant,San Luis Mexican Restaurant,4455 walzem rd ,4455 walzem rd, s luis mexic restaurant,s luis mexic restaurant,walzem,walzem,0,1
+791,soluna,Rush,7959 broadway ,7959 broadway,soluna,rush,broadway,broadway,0,5
+792,andrea's barbacoa & tacos,Andrea's Barbacoa & Tacos,6565 babcock rd ,6565 babcock rd,andrea's barbaco & tacos,andreas barbaco  tacos,babcock,babcock,0,2
+793,la tejanita #,La Tejanita,503 frio city rd ,503 frio city rd,l tejanit #,l tejanita,frio city,frio city,0,2
+794,saritas barbacoa,Sarah’s Barbacoa,6330 de zavala rd ,6330 de zavala rd,saritas barbacoa,sarah’s barbacoa,de zavala,de zavala,0,3
+795,adams pizza,Adam's Pizza,2711 hillcrest dr ,2711 hillcrest dr,adams pizza,adams pizza,hillcrest,hillcrest,0,0
+796,china bistro,China Bistro,6387 babcock rd ,6387 babcock rd,chin bistro,chin bistro,babcock,babcock,0,0
+797,pho bowl express,pho bo express,124 broadway ,124 broadway st,pho bowl express,pho bo express,broadway,broadway,0,2
+798,ihop 1415,IHOP,3820 broadway ,3820 broadway st,ihop 1415,ihop,broadway,broadway,0,5
+799,restaurant la morenita,Restaurante La Morenita,750 porter st ,750 porter st,restaurant l morenita,restaurante l morenita,porter,porter,0,1
+800,panchos and gringos,Panchos and Gringos,900 nolan st ,900 nolan st,panchos and gringos,panchos and gringos,nolan,nolan,0,0
+801,press coffee,PRESS Coffee,4035 broadway ,4035 broadway st,press coffee,press coffee,broadway,broadway,0,0
+802,taqueria el ranchero 2 llc,Taqueria El Ranchero,502 porter st ,502 porter,taqueri  ranchero 2 llc,taqueri  ranchero,porter,porter,0,6
+803,chipotle mexican grill #1910,Chipotle Mexican Grill,4727 medical dr ,4727 medical dr,chipotle mexic grill #1910,chipotle mexic grill,medical,medical,0,6
+804,asian buffet,Asian Buffet,1533 austin hwy ,1533 austin hwy,asi buffet,asi buffet,austin hwy,austin hwy,0,0
+805,tubbys tavern,Tubby's Tavern,1402 cupples rd ,1402 cupples rd,tubbys tavern,tubbys tavern,cupples,cupples,0,0
+806,tacos n salsa,Tacos n Salsa,11860 wurzbach rd ,11860 wurzbach rd,tacos n salsa,tacos n salsa,wurzbach,wurzbach,0,0
+807,los hermanos barbacoa,Los Hermanos Barbacoa,727 cupples rd ,727 cupples rd, hermanos barbacoa, hermanos barbacoa,cupples,cupples,0,0
+808,kolache donut,Kolache Donuts,6330 de zavala rd ,6330 de zavala rd,kolache donut,kolache donuts,de zavala,de zavala,0,1
+809,wok inn,Wok Inn,10919 culebra rd ,10919 culebra rd,wok inn,wok inn,culebra,culebra,0,0
+810,mi tierra cafe & bakery #,Mi Tierra Cafe & Bakery,218 produce row ,218 produce row,mi tierr cafe & bakery #,mi tierr cafe  bakery,produce row,produce row,0,3
+811,ichiban steak & asian fusion,Ichiban Steak & Asian Fusion,8601 huebner rd ,8601 huebner rd,ichib steak & asi fusion,ichib steak  asi fusion,huebner,huebner,0,1
+812,cafe martinez,Café Martinez,7302 louis pasteur ,7302 louis pasteur dr,cafe martinez,café martinez,louis pasteur,louis pasteur,0,1
+813,korean restaurant,Koreana Restaurant,2458 harry wurzbach ,2458 harry wurzbach rd,kore restaurant,korean restaurant,harryurzbach,harryurzbach,0,2
+814,la villita cafe,La Villita Cafe,418 villita st ,418 villita st,l villit cafe,l villit cafe,villita,villita,0,0
+815,el mirasol,El Mirasol,13489 blanco rd ,13489 blanco rd, mirasol, mirasol,blanco,blanco,0,0
+816,macho libre,Macho Libre,5834 babcock rd ,5834 babcock rd,macho libre,macho libre,babcock,babcock,0,0
+817,nadlers bakery & deli,Nadler's Bakery & Deli,1621 babcock rd ,1621 babcock rd,nadlers bakery & deli,nadlers bakery  deli,babcock,babcock,0,1
+818,pizza hut #,Pizza Hut,2597 jackson keller ,2597 jackson keller rd,pizz hut #,pizz hut,jackson keller,jackson keller,0,2
+819,oasis lounge,Oasis Lounge,502 embassy oaks ,502 embassy oaks,oasis lounge,oasis lounge,embassy oaks,embassy oaks,0,0
+820,riverwalk vista,Riverwalk Vista Inn,262 losoya ,262 losoya st,riverwalk vista,riverwalk vist inn,losoya,losoya,0,4
+821,shinko hibachi and boba,Shinko- Hibachi and Boba Tea,7531 bandera rd ,7531 bandera rd,shinko hibachi and boba,shinko hibachi and bob tea,bandera,bandera,0,3
+822,whataburger #784,Whataburger,8426 broadway ,8426 broadway st,whataburger #784,whataburger,broadway,broadway,0,5
+823,fruteria las gueras,Fruteria Las Gueras,4823 evers rd ,4823 evers rd,fruteri  gueras,fruteri  gueras,evers,evers,0,0
+824,thousand oaks cafe ii,Thousand Oak Cafe II,1271 austin hwy ,1271 austin hwy,thousand oaks cafe ii,thousand oak cafe ii,austin hwy,austin hwy,0,1
+825,pizza hut #43 #,Pizza Hut,6404 babcock rd ,6404 babcock rd,pizz hut #43 #,pizz hut,babcock,babcock,0,6
+826,rocky's taco house #1,Rocky's Taco House,1302 cupples rd ,1302 cupples rd,rocky's taco house #1,rockys taco house,cupples,cupples,0,4
+827,zara grocery,Zara Grocery,1634 babcock rd ,1634 babcock rd,zar grocery,zar grocery,babcock,babcock,0,0
+828,brew bros,Brews Brothers,7403 leslie rd ,7403 leslie rd,brew bros,brews brothers,leslie,leslie,0,5
+829,soundcheck,Soundcheck,6844 ingram rd ,6844 ingram rd,soundcheck,soundcheck,ingram,ingram,0,0
+830,artea,Artea,6362 de zavala rd ,6362 de zavala rd,artea,artea,de zavala,de zavala,0,0
+831,bill miller bbq #13,Bill Miller Bar-B-Q,2410 nacogdoches rd ,2410 nacogdoches,bill miller bbq #13,bill miller barbq,nacogdoches,nacogdoches,0,6
+832,whataburger #1052,Whataburger,1243 austin hwy ,1243 austin hwy,whataburger #1052,whataburger,austin hwy,austin hwy,0,6
+833,sandwich de paris,Sandwich De Paris,7220 louis pasteur ,7220 louis pasteur dr,sandwich  paris,sandwich  paris,louis pasteur,louis pasteur,0,0
+834,bubba gump shrimp co,Bubba Gump Shrimp Co.,406 navarro st ,406 navarro st,bubb gump shrimp co,bubb gump shrimp co.,navarro,navarro,0,1
+835,chocollazo,Chocollazo,4013 broadway ,4013 broadway st,chocollazo,chocollazo,broadway,broadway,0,0
+836,club sirius,Club Sirius,228 losoya ,228 losoya st,club sirius,club sirius,losoya,losoya,0,0
+837,poke planet,Poke Planet,7302 louis pasteur ,7302 louis pasteur dr,poke planet,poke planet,louis pasteur,louis pasteur,0,0
+838,dunkin donuts,Dunkin',7551 bandera rd ,7551 bandera rd,dunk donuts,dunkin,bandera,bandera,0,6
+839,taco cabana,Taco Cabana,15606 chase hill ,15606 chase hill blvd,taco cabana,taco cabana,chase hill,chase hill,0,0
+840,starbucks,Starbucks,7703 floyd curl ,7703 floyd curl dr,starbucks,starbucks,floyd curl,floyd curl,0,0
+841,vickys mexican restaurant,Vicky's Mexican Restaurant,2349 pinn rd ,2349 pinn rd,vickys mexic restaurant,vickys mexic restaurant,pinn,pinn,0,0
+842,bakery lorraine,Bakery Lorraine,7338 louis pasteur ,7338 louis pasteur dr,bakery lorraine,bakery lorraine,louis pasteur,louis pasteur,0,0
+843,cascabel restaurant,Cascabel Restaurant,37 loop 410 ne ,37 ne loop 410,cascab restaurant,cascab restaurant,ne loop 410,ne loop 410,0,0
+844,blanco bbq,Blanco BBQ,13259 blanco rd ,13259 blanco rd,blanco bbq,blanco bbq,blanco,blanco,0,0
+845,chuy's,Chuy's,15639 ih 10 w ,15639 ih 10 w,chuy's,chuys,ih 10,ih 10,0,1
+846,churchs fried chicken,Church's Chicken,1001 rittiman rd ,1001 rittiman,churchs fried chicken,churchs chicken,rittiman,rittiman,0,6
+847,indian fusion,Indian Fusion,5755 evers rd ,5755 evers rd,indi fusion,indi fusion,evers,evers,0,0
+848,bamboo biryani indian cuisine,Bamboo Biryani Indian Cuisine,10227 ironside dr ,10227 ironside dr,bamboo biryani indi cuisine,bamboo biryani indi cuisine,ironside,ironside,0,0
+849,walgreens #2458,Walgreens,7802 wurzbach rd ,7802 wurzbach rd,walgreens #2458,walgreens,wurzbach,wurzbach,0,6
+850,yellowfish sushi llc,Yellowfish Sushi,9102 wurzbach rd ,9102 wurzbach rd,yellowfish sushi llc,yellowfish sushi,wurzbach,wurzbach,0,4
+851,texas hamburger co,Texas Hamburger Company,9010 huebner rd ,9010 huebner rd,texas hamburger co,texas hamburger company,huebner,huebner,0,5
+852,walgreens #4551,Walgreens,11707 huebner rd ,11707 huebner rd,walgreens #4551,walgreens,huebner,huebner,0,6
+853,tony's tacos to go #2,Tony Tacos to Go,1402 castroville rd ,1402 castroville rd,tony's tacos to go #2,tony tacos to go,castroville,castroville,0,5
+854,las palapas #,Las Palapas,11860 blanco rd ,11860 blanco rd, palapas #, palapas,blanco,blanco,0,2
+855,el mariachi loco,El Mariachi Loco,610 isom rd ,610 isom rd, mariachi loco, mariachi loco,isom,isom,0,0
+856,pizza hut #,Pizza Hut,4500 de zavala rd ,4500 de zavala rd,pizz hut #,pizz hut,de zavala,de zavala,0,2
+857,st matthews catholic school,St Matthew's Catholic Church,10703 wurzbach rd ,10703 wurzbach rd,st matthews catholic school,st matthews catholic church,wurzbach,wurzbach,0,5
+858,backyard on broadway,Backyard on Broadway,2411 broadway ,2411 broadway st,backyard  broadway,backyard  broadway,broadway,broadway,0,0
+859,backyard on broadway,The Bar On Broadway,2411 broadway ,2411 broadway st,backyard  broadway, bar  broadway,broadway,broadway,0,6
+860,the texas t pub,Texas T Pub,121 broadway ,121 broadway st, texas t pub,texas t pub,broadway,broadway,0,1
+861,broadway daily bread,Broadway Daily Bread,5011 de zavala rd ,5011 de zavala rd,broadway daily bread,broadway daily bread,de zavala,de zavala,0,0
+862,chick-fil-a,Chick-fil-A,5189 de zavala rd ,5189 de zavala rd,chick-fil-a,chickfila,de zavala,de zavala,0,2
+863,dominos pizza #6701,Domino's Pizza,129 bandera rd ,129 bandera rd,dominos pizz #6701,dominos pizza,bandera,bandera,0,6
+864,emilianos mexican restaurant,Emiliano's Mexican Restaurant,1002 bandera rd ,1002 bandera rd,emilianos mexic restaurant,emilianos mexic restaurant,bandera,bandera,0,0
+865,korean market,Korean Market,6210 fairdale dr ,6210 fairdale dr,kore market,kore market,fairdale,fairdale,0,0
+866,tenorio's mexican restaurant,Tenorios's Mexican Restaurant,2296 bandera rd ,2296 bandera rd,tenorio's mexic restaurant,tenorioss mexic restaurant,bandera,bandera,0,1
+867,hanzo,Hanzo,7701 broadway ,7701 broadway st,hanzo,hanzo,broadway,broadway,0,0
+868,hacienda jalisco,Hacienda Jalisco's,1602 bandera rd ,1602 bandera rd,haciend jalisco,haciend jaliscos,bandera,bandera,0,1
+869,freebird world burrito,Freebirds World Burrito,11224 huebner rd ,11224 huebner rd,freebird world burrito,freebirds world burrito,huebner,huebner,0,1
+870,fredericks restaurant,Frederick's Restaurant,7701 broadway ,7701 broadway st,fredericks restaurant,fredericks restaurant,broadway,broadway,0,0
+871,taco cabana,Taco Cabana,1253 austin hwy ,1253 austin hwy,taco cabana,taco cabana,austin hwy,austin hwy,0,0
+872,luce ristorante e enoteca,Luce Ristorante e Enoteca,11255 huebner rd ,11255 huebner rd,luce ristorante e enoteca,luce ristorante e enoteca,huebner,huebner,0,0
+873,bill miller bbq #20,Bill Miller Bar-B-Q,1004 san pedro av ,1004 san pedro,bill miller bbq #20,bill miller barbq,san pedro,san pedro,0,6
+874,baskin robbins,Baskin Robbins,5238 de zavala rd ,5238 de zavala rd,bask robbins,bask robbins,de zavala,de zavala,0,0
+875,pizza patron #143,Pizza Patron,5835 culebra rd ,5835 culebra rd,pizz patr #143,pizz patron,culebra,culebra,0,5
+876,han il garden,Han Il Garden,4415 rittiman rd ,4415 rittiman rd,h il garden,h il garden,rittiman,rittiman,0,0
+877,donut palace 1,Donut palace,6511 ingram rd ,6511 ingram rd,donut palace 1,donut palace,ingram,ingram,0,2
+878,adelante restaurant,Adelante Restaurant,21 brees bv ,21 brees blvd,adelante restaurant,adelante restaurant,brees,brees,0,0
+879,jimmy johns,Jimmy John's,11224 huebner rd ,11224 huebner rd,jimmy johns,jimmy johns,huebner,huebner,0,0
+880,fahrenheit 32 sa,fahrenheit  32,1546 babcock rd ,1546 babcock rd,fahrenheit 32 sa,fahrenheit  32,babcock,babcock,0,4
+881,thai house restaurant,Thai House Restaurant,4114 rittiman rd ,4114 rittiman rd,thai house restaurant,thai house restaurant,rittiman,rittiman,0,0
+882,zoes kitchen,Zoes Kitchen,11225 huebner rd ,11225 huebner,zoes kitchen,zoes kitchen,huebner,huebner,0,0
+883,caballero bakery,Caballero Bakery,2342 pinn rd ,2342 pinn rd,caballero bakery,caballero bakery,pinn,pinn,0,0
+884,mertz sausage,Mertz Sausage,619 cupples rd ,619 cupples rd,mertz sausage,mertz sausage,cupples,cupples,0,0
+885,bakery lorraine,Bakery Lorraine,306 pearl pkwy ,306 pearl pkwy,bakery lorraine,bakery lorraine,pearl pkwy,pearl pkwy,0,0
+886,chuck e cheese #,Chuck E. Cheese,6874 ingram rd ,6874 ingram rd,chuck e cheese #,chuck e. cheese,ingram,ingram,0,3
+887,korona food mart,Korona Food Mart,7220 blanco rd ,7220 blanco rd,koron food mart,koron food mart,blanco,blanco,0,0
+888,jamaica jamaica cuisine,Jamaica Jamaica Cuisine,2026 austin hwy ,2026 austin hwy,jamaic jamaic cuisine,jamaic jamaic cuisine,austin hwy,austin hwy,0,0
+889,judys,Judys,108 soledad st ,108 soledad st,judys,judys,soledad,soledad,0,0
+890,wingstop #470,Wingstop,1464 austin hwy ,1464 austin hwy,wingstop #470,wingstop,austin hwy,austin hwy,0,5
+891,taqueria casa gallo,Taqueria Casa Gallo,3709 blanco rd ,3709 blanco rd,taqueri cas gallo,taqueri cas gallo,blanco,blanco,0,0
+892,the melting pot,The Melting Pot,14855 blanco rd ,14855 blanco rd, melting pot, melting pot,blanco,blanco,0,0
+893,viva villa,Viva Villa,905 dolorosa ,905 dolorosa,viv villa,viv villa,dolorosa,dolorosa,0,0
+894,golden wok,Golden Wok,8822 wurzbach rd ,8822 wurzbach rd,golden wok,golden wok,wurzbach,wurzbach,0,0
+895,kogi korean grill,Kogi Korean Grill,12651 vance jackson ,12651 vance jackson rd,kogi kore grill,kogi kore grill,vance jackson,vance jackson,0,0
+896,little caesars pizza #36 #,Little Caesars Pizza,5869 babcock rd ,5869 babcock rd,little caesars pizz #36 #,little caesars pizza,babcock,babcock,0,6
+897,wing zone,Wing Zone,7863 callaghan rd ,7863 callaghan rd,wing zone,wing zone,callaghan,callaghan,0,0
+898,wing stop #319,Wingstop,5222 de zavala rd ,5222 de zavala rd,wing stop #319,wingstop,de zavala,de zavala,0,6
+899,taqueria vallarta,Taqueria Vallarta,3219 blanco rd ,3219 blanco rd,taqueri vallarta,taqueri vallarta,blanco,blanco,0,0
+900,schakolad chocolate factory,Schakolad Chocolate Factory,112 broadway ,112 broadway st,schakolad chocolate factory,schakolad chocolate factory,broadway,broadway,0,0
+901,omni la mansion del rio,Omni La Mansion del Rio,112 college st ,112 college st,omni l mansi d rio,omni l mansi d rio,college,college,0,0
+902,mi helados aranda,Helados Aranda,12728 nacogdoches rd ,12728 nacogdoches rd,mi helados aranda,helados aranda,nacogdoches,nacogdoches,0,3
+903,el bucanero,El Bucanero,13802 embassy row ,13802 embassy row, bucanero, bucanero,embassy row,embassy row,0,0
+904,maverick whiskey,Maverick Whiskey,115 broadway ,115 broadway st,maverick whiskey,maverick whiskey,broadway,broadway,0,0
+905,los cocos fruteria y taqueria,Los Cocos Fruteria Y Taqueria,1502 bandera rd ,1502 bandera rd, cocos fruteri y taqueria, cocos fruteri y taqueria,bandera,bandera,0,0
+906,lennys sub shop,Lennys Subs,7863 callaghan rd ,7863 callaghan rd,lennys sub shop,lennys subs,callaghan,callaghan,0,4
+907,las minas cafe,Las Minas Cafe,3811 blanco rd ,3811 blanco rd, minas cafe, minas cafe,blanco,blanco,0,0
+908,arirang restaurant,Arirang Korean Restaurant,2154 austin hwy ,2154 austin hwy,arirang restaurant,arirang kore restaurant,austin hwy,austin hwy,0,5
+909,las carretas #2,Las Carretas,3975 perrin central ,3975 perrin central blvd, carretas #2, carretas,perrin central,perrin central,0,3
+910,taqueria el charro tapatio,Taqueria El Charro Tapatio,4600 blanco rd ,4600 blanco rd,taqueri  charro tapatio,taqueri  charro tapatio,blanco,blanco,0,0
+911,goomba's pizzeria,Goomba's Pizzeria,9825 ih 10 w ,9825 ih 10 w,goomba's pizzeria,goombas pizzeria,ih 10,ih 10,0,1
+912,il forno,Il Forno,122 nogalitos st ,122 nogalitos st,il forno,il forno,nogalitos,nogalitos,0,0
+913,fresh donuts,Fresh Donuts,1302 austin hwy ,1302 austin hwy,fresh donuts,fresh donuts,austin hwy,austin hwy,0,0
+914,lung fung chinese rest,Lung Fung Chinese Restaurant,4503 lakewood dr ,4503 lakewood dr,lung fung chinese rest,lung fung chinese restaurant,lakewood,lakewood,0,6
+915,streetfare sa,StreetFare SA,1916 austin hwy ,1916 austin hwy,streetfare sa,streetfare sa,austin hwy,austin hwy,0,0
+916,sabor de mexico,Sabor De Mexico,1367 austin hwy ,1367 austin hwy,sabor  mexico,sabor  mexico,austin hwy,austin hwy,0,0
+917,hometown burger,Hometown Burger,9390 huebner rd ,9390 huebner rd,hometown burger,hometown burger,huebner,huebner,0,0
+918,la crawfish,LA Crawfish,1518 austin hwy ,1518 austin hwy,l crawfish,l crawfish,austin hwy,austin hwy,0,0
+919,logan's roadhouse,Logan's Roadhouse,92 loop 410 ne ,92 ne loop 410,logan's roadhouse,logans roadhouse,ne loop 410,ne loop 410,0,1
+920,the safe house drinkery,Safe House Drinkery,5450 babcock rd ,5450 babcock rd, safe house drinkery,safe house drinkery,babcock,babcock,0,1
+921,brew's lee,Brew's Lee Tea,4009 broadway ,4009 broadway st,brew's lee,brews lee tea,broadway,broadway,0,5
+922,paramour,Paramour,102 9th st ,102 9th st,paramour,paramour,9th,9th,0,0
+923,tejanitas mexican restaurant,Tejanitas Mexican Restaurant,10704 perrin beitel ,10704 perrin beitel rd,tejanitas mexic restaurant,tejanitas mexic restaurant,perrin beitel,perrin beitel,0,0
+924,thai taste,Thai Taste,5520 evers rd ,5520 evers rd,thai taste,thai taste,evers,evers,0,0
+925,bond's 007 rock bar,Bond's 007 Rock Bar,450 soledad st ,450 soledad st,bond's 007 rock bar,bonds 007 rock bar,soledad,soledad,0,1
+926,victory gospel chapel,Victory Gospel Chapel,1603 montana ,1603 montana st,victory gosp chapel,victory gosp chapel,montana,montana,0,0
+927,cerroni's purple garlic,Cerroni's Purple Garlic,1017 austin hwy ,1017 austin hwy,cerroni's purple garlic,cerronis purple garlic,austin hwy,austin hwy,0,1
+928,culebra super meat market #30,Culebra Super Meat Market,1630 bandera rd ,1630 bandera rd,culebr super meat market #30,culebr super meat market,bandera,bandera,0,4
+929,evil olive,Evil Olive,2950 thousand oaks ,2950 thousand oaks,evil olive,evil olive,thousand oaks,thousand oaks,0,0
+930,wings waffles & more,Wing'z Waffles & More,1103 mason st ,1103 mason st,wings waffles & more,wingz waffles  more,mason,mason,0,2
+931,pho & chinese,Pho & Chinese,12311 nacogdoches rd ,12311 nacogdoches rd,pho & chinese,pho  chinese,nacogdoches,nacogdoches,0,1
+932,longhorn cafe,Longhorn Cafe,12311 nacogdoches rd ,12311 nacogdoches rd,longhorn cafe,longhorn cafe,nacogdoches,nacogdoches,0,0
+933,marthas mexican rest,Martha's Mexican Cafe,5822 babcock rd ,5822 babcock rd,marthas mexic rest,marthas mexic cafe,babcock,babcock,0,4
+934,la condesa bakery,La Condesa,604 bandera rd ,604 bandera rd,l condes bakery,l condesa,bandera,bandera,0,6
+935,snopioca,Snopioca,6423 babcock rd ,6423 babcock rd,snopioca,snopioca,babcock,babcock,0,0
+936,chick fil a,Chick-fil-A,1350 austin hwy ,1350 austin hwy,chick fil a,chickfila,austin hwy,austin hwy,0,2
+937,walgreens #6537,Walgreens,14882 blanco rd ,14882 blanco rd,walgreens #6537,walgreens,blanco,blanco,0,6
+938,whataburger #1061,Whataburger,12309 nacogdoches rd ,12309 nacogdoches rd,whataburger #1061,whataburger,nacogdoches,nacogdoches,0,6
+939,huhot mongolian grill,HuHot Mongolian Grill,12710 ih 10 w ,12710 ih 10 w,huhot mongoli grill,huhot mongoli grill,ih 10,ih 10,0,0
+940,thai bistro & sushi,Thai Bistro & Sushi,5999 de zavala rd ,5999 de zavala rd,thai bistro & sushi,thai bistro  sushi,de zavala,de zavala,0,1
+941,chick-fil-a,Chick-fil-A,1 utsa cir ,1 utsa cir,chick-fil-a,chickfila,utsa cir,utsa cir,0,2
+942,schlotzskys deli,Schlotzsky's,11803 blanco rd ,11803 blanco rd,schlotzskys deli,schlotzskys,blanco,blanco,0,5
+943,binge kitchen,Binge Kitchen,449 mccarty ,449 mccarty rd,binge kitchen,binge kitchen,mccarty,mccarty,0,0
+944,taste of malabar,Taste of India,5999 de zavala rd ,5999 de zavala rd,taste  malabar,taste  india,de zavala,de zavala,0,6
+945,54th street restaurant and drafthouse,54th Street Restaurant & Drafthouse,954 rector e ,954 rector st,54th street restaurant and drafthouse,54th street restaurant  drafthouse,rector,rector,0,3
+946,golfo de mexico,Golfo De Mexico,603 bandera rd ,603 bandera rd,golfo  mexico,golfo  mexico,bandera,bandera,0,0
+947,indy coffee,Indy Coffee,7114 utsa blvd ,7114 utsa blvd,indy coffee,indy coffee,utsa,utsa,0,0
+948,la michoacana meat market #10 #,La Michoacana Meat Market,6059 la cima ,6059 la cima,l michoacan meat market #10 #,l michoacan meat market,la cima,la cima,0,6
+949,la moreliana meat market,La Moreliana Meat Market No 1,1510 callaghan rd ,1510 callaghan rd,l morelian meat market,l morelian meat market no 1,callaghan,callaghan,0,5
+950,los barrios mexican rest,Los Barrios Mexican Restaurant,4223 blanco rd ,4223 blanco rd, barrios mexic rest, barrios mexic restaurant,blanco,blanco,0,6
+951,lisas mexican restaurant,Lisa's Mexican Restaurant,815 bandera rd ,815 bandera rd,lisas mexic restaurant,lisas mexic restaurant,bandera,bandera,0,0
+952,las palapas,Las Palapas,5530 babcock rd ,5530 babcock rd, palapas, palapas,babcock,babcock,0,0
+953,lees kitchen,Lee's Kitchen,11705 perrin beitel ,11705 perrin beitel rd,lees kitchen,lees kitchen,perrin beitel,perrin beitel,0,0
+954,starbucks - jpl,Starbucks,1 utsa cir ,1 utsa cir,starbucks - jpl,starbucks,utsa cir,utsa cir,0,6
+955,little caesars pizza #2,Little Caesar's Pizza,2802 thousand oaks ,2802 thousand oaks dr,little caesars pizz #2,little caesars pizza,thousand oaks,thousand oaks,0,3
+956,longhorn steakhouse #5381,LongHorn Steakhouse,7439 san pedro ave ,7439 san pedro ave,longhorn steakhouse #5381,longhorn steakhouse,san pedroe,san pedroe,0,6
+957,oblate cafe,Oblate Cafe,904 oblate dr ,904 oblate dr,oblate cafe,oblate cafe,oblate,oblate,0,0
+958,mings noodle bar,Ming's Noodle Bar,5253 mccullough ave ,5253 mccullough ave,mings noodle bar,mings noodle bar,mcculloughe,mcculloughe,0,0
+959,buffalo wild wings #637,Buffalo Wild Wings,5860 de zavala rd ,5860 de zavala rd,buffalo wild wings #637,buffalo wild wings,de zavala,de zavala,0,5
+960,bill miller bbq #7,Bill Miller Bar-B-Q,6950 military dr w ,6950 military dr w,bill miller bbq #7,bill miller barbq,military,military,0,5
+961,basement bar and lounge,Basement Bar & Lounge,244 losoya ,244 losoya st,basement bar and lounge,basement bar  lounge,losoya,losoya,0,3
+962,wildfire coffee roaster,Mildfire Coffee Roasters,15502 huebner rd ,15502 huebner rd,wildfire coffee roaster,mildfire coffee roasters,huebner,huebner,0,2
+963,thai vegan,Thai Vegan,15614 huebner rd ,15614 huebner rd,thai vegan,thai vegan,huebner,huebner,0,0
+964,aloha kitchen,The Aloha Kitchen,1151 harry wurzbach ,1151 harry wurzbach rd,aloh kitchen, aloh kitchen,harryurzbach,harryurzbach,0,1
+965,fruteria los trejo #4,Fruteria Los Trejo,10309 perrin beitel ,10309 perrin beitel rd,fruteri  trejo #4,fruteri  trejo,perrin beitel,perrin beitel,0,3
+966,taqueria el rodeo de jalisco,Taqueria El Rodeo De Jalisco 2,3721 colony dr ,3721 colony dr,taqueri  rodeo  jalisco,taqueri  rodeo  jalisco 2,colony,colony,0,2
+967,hearth stone bakery cafe,Hearthstone BakeryCafe,3920 harry wurzbach ,3920 harry wurzbach rd,hearth stone bakery cafe,hearthstone bakerycafe,harryurzbach,harryurzbach,0,2
+968,ventura,Ventura,1011 avenue b ,1011 avenue b,ventura,ventura,avenue b,avenue b,0,0
+969,rehoboth eritrean-ethiopian cuisine,Rehoboth Eritrean-Ethiopian Cuisine,1721 babcock rd ,1721 babcock rd,rehoboth eritrean-ethiopi cuisine,rehoboth eritreanethiopi cuisine,babcock,babcock,0,1
+970,sanchos,Sanchos,628 jackson st ,628 jackson st,sanchos,sanchos,jackson,jackson,0,0
+971,minnano japanese grocery,Minnano Japanese Grocery,7460 callaghan rd ,7460 callaghan rd,minnano japanese grocery,minnano japanese grocery,callaghan,callaghan,0,0
+972,luna's nutrition,Luna's Nutrition,6330 de zavala rd ,6330 de zavala rd,luna's nutrition,lunas nutrition,de zavala,de zavala,0,1
+973,slideliners grill,Sideliners Grill,15630 henderson pass ,15630 henderson pass,slideliners grill,sideliners grill,henderson pass,henderson pass,0,1
+974,lone star cafe #,Lone Star Cafe,237 losoya ,237 losoya st,lone star cafe #,lone star cafe,losoya,losoya,0,2
+975,maya cafe,Maya Cafe,6050 ingram rd ,6050 ingram rd,may cafe,may cafe,ingram,ingram,0,0
+976,ito ramen,Ito Ramen,14395 blanco rd ,14395 blanco rd,ito ramen,ito ramen,blanco,blanco,0,0
+977,asian star buffet,Asian Star Super Buffet,9919 colonial sq ,9919 colonial sq,asi star buffet,asi star super buffet,colonialq,colonialq,0,6
+978,taqueria la tapatia 7,Taqueria La Tapatia,2320 babcock rd ,2320 babcock rd,taqueri l tapati 7,taqueri l tapatia,babcock,babcock,0,2
+979,munch on and beyond,Munch On and Beyond,13469 wetmore rd ,13469 wetmore rd,munch  and beyond,munch  and beyond,wetmore,wetmore,0,0
+980,el comedor regio,El Comedor Regio,4310 blanco rd ,4310 blanco rd, comedor regio, comedor regio,blanco,blanco,0,0
+981,dj bakery #,D J Bakery,1714 blanco rd ,1714 blanco rd,dj bakery #,d j bakery,blanco,blanco,0,3
+982,brasa chicken,Brasa Chicken,8523 blanco rd ,8523 blanco rd,bras chicken,bras chicken,blanco,blanco,0,0
+983,birrieria y taqueria ay arandas,Birrieria y Taqueria Ay Arandas,2426 culebra rd ,2426 culebra rd,birrieri y taqueri ay arandas,birrieri y taqueri ay arandas,culebra,culebra,0,0
+984,caribbean mix,Caribbean Mix,8816 broadway ,8816 broadway st,caribbe mix,caribbe mix,broadway,broadway,0,0
+985,checos mexican & american grill,Checo's Mexican & American Grill,5999 de zavala rd ,5999 de zavala rd,checos mexic & americ grill,checos mexic  americ grill,de zavala,de zavala,0,1
+986,claude hoppers,Claude Hoppers,19178 blanco rd ,19178 blanco rd,clau hoppers,clau hoppers,blanco,blanco,0,0
+987,pepes barbacoa #4,Pepe's Barbacoa No 4,1727 bandera rd ,1727 bandera rd,pepes barbaco #4,pepes barbaco no 4,bandera,bandera,0,3
+988,royal inn oriental cuisine,Royal Inn Oriental Cuisine,5440 babcock rd ,5440 babcock rd,royal inn oriental cuisine,royal inn oriental cuisine,babcock,babcock,0,0
+989,mexican manhattan,Mexican Manhattan,110 soledad st ,110 soledad st,mexic manhattan,mexic manhattan,soledad,soledad,0,0
+990,longhorn cafe,Longhorn Cafe,1003 rittiman rd ,1003 rittiman rd,longhorn cafe,longhorn cafe,rittiman,rittiman,0,0
+991,jerusalem grill,Jerusalem Grill,9210 wurzbach rd ,9210 wurzbach rd,jerusalem grill,jerusalem grill,wurzbach,wurzbach,0,0
+992,bill miller bbq #27,Bill Miller Bar-B-Q,9202 wurzbach rd ,9202 wurzbach,bill miller bbq #27,bill miller barbq,wurzbach,wurzbach,0,6
+993,thousand oaks cafe,Thousand Oaks Café,4334 thousand oaks ,4334 thousand oaks dr,thousand oaks cafe,thousand oaks café,thousand oaks,thousand oaks,0,1
+994,twenty grand club,Twenty Grand,5943 bandera rd ,5943 bandera rd,twenty grand club,twenty grand,bandera,bandera,0,5
+995,mimosa restuarant and lounge,Mimosa Restaurant & Lounge,14415 blanco rd ,14415 blanco rd,mimos restuarant and lounge,mimos restaurant  lounge,blanco,blanco,0,5
+996,crazy j's sports bar,Crazy J'S Sports Bar,126 gembler rd ,126 gembler rd,crazy j's sports bar,crazy js sports bar,gembler,gembler,0,1
+997,myung ga won,Myung Ga Won,4400 rittiman rd ,4400 rittiman rd,myung g won,myung g won,rittiman,rittiman,0,0
+998,brenda's mexican restaurant,Brenda's Mexican Restaurant,11888 starcrest dr ,11888 starcrest dr,brenda's mexic restaurant,brendas mexic restaurant,starcrest,starcrest,0,1
+999,the ringer pub,The Ringer Pub,2826 thousand oaks ,2826 thousand oaks rd, ringer pub, ringer pub,thousand oaks,thousand oaks,0,0
+1000,bill miller bbq #24,Bill Miller Bar-B-Q,11842 perrin beitel ,11842 perrin beitel,bill miller bbq #24,bill miller barbq,perrin beitel,perrin beitel,0,6
+1001,bill miller bbq #39,Bill Miller Bar-B-Q,2911 thousand oaks ,2911 thousand oaks,bill miller bbq #39,bill miller barbq,thousand oaks,thousand oaks,0,6
+1002,braza brava pizzeria napoletana,Braza Brava Pizzeria Napoletana,7959 broadway ,7959 broadway st,braz brav pizzeri napoletana,braz brav pizzeri napoletana,broadway,broadway,0,0
+1003,cantina sports bar and grill,Cantina Sports Bar and Grill,6565 babcock rd ,6565 babcock rd,cantin sports bar and grill,cantin sports bar and grill,babcock,babcock,0,0
+1004,the bang bang bar,The Bang Bang Bar,119 el mio st ,119 el mio st, bang bang bar, bang bang bar,el mio,el mio,0,0
+1005,firehouse subs,Firehouse Subs,5887 babcock rd ,5887 babcock rd,firehouse subs,firehouse subs,babcock,babcock,0,0
+1006,fruteria la reyna,Fruteria la Reyna,700 porter st ,700 porter,fruteri l reyna,fruteri l reyna,porter,porter,0,0
+1007,sichuan house,Sichuan House,3505 wurzbach rd ,3505 wurzbach rd,sichu house,sichu house,wurzbach,wurzbach,0,0
+1008,oscar taco house #,Oscar's Taco House,705 barrett pl ,705 barrett pl,oscar taco house #,oscars taco house,barrett pl,barrett pl,0,3
+1009,the smokehouse,Bob's Smokehouse,3306 roland av ,3306 roland rd, smokehouse,bobs smokehouse,roland,roland,0,4
+1010,full house chinese restaurant,Full House Chinese Restaurant,2860 thousand oaks ,2860 thousand oaks dr,full house chinese restaurant,full house chinese restaurant,thousand oaks,thousand oaks,0,0
+1011,the smokehouse,The Smokehouse,3306 roland av ,3306 roland rd, smokehouse, smokehouse,roland,roland,0,0
+1012,taqueria los dos laredos #4,Taqueria Los Dos Laredos,1264 austin hwy ,1264 austin hwy,taqueri  dos laredos #4,taqueri  dos laredos,austin hwy,austin hwy,0,3
+1013,jack in the box #808,Jack in the Box,5423 evers rd ,5423 evers rd,jack   box #808,jack   box,evers,evers,0,5
+1014,sapporo,Sapporo,5638 hausman rd w ,5638 hausman rd,sapporo,sapporo,hausman,hausman,0,0
+1015,pizza hut #,Pizza Hut,9403 wurzbach rd ,9403 wurzbach rd,pizz hut #,pizz hut,wurzbach,wurzbach,0,2
+1016,pizza italia,Pizza Italia,3023 thousand oaks ,3023 thousand oaks dr,pizz italia,pizz italia,thousand oaks,thousand oaks,0,0
+1017,infusa cafe,Infusa Cafe,1250 loop 410 ne ,1250 ne loop 410,infus cafe,infus cafe,ne loop 410,ne loop 410,0,0
+1018,kenneys food store,Kenney's Food Store,342 merida st ,342 merida st,kenneys food store,kenneys food store,merida,merida,0,0
+1019,mi sierra jalisco,Mi Sierra Jalisco,1962 bandera rd ,1962 bandera rd,mi sierr jalisco,mi sierr jalisco,bandera,bandera,0,0
+1020,erick's mexican restaurant,Erick's Mexican Restaurant,12639 nacogdoches rd ,12639 nacogdoches rd,erick's mexic restaurant,ericks mexic restaurant,nacogdoches,nacogdoches,0,1
+1021,shisha cafe,Shisha Cafe,5500 babcock rd ,5500 babcock rd,shish cafe,shish cafe,babcock,babcock,0,0
+1022,thai dee,Thai Dee,5307 blanco rd ,5307 blanco rd,thai dee,thai dee,blanco,blanco,0,0
+1023,saltgrass steak house,Saltgrass Steak House,16910 us 281 n ,16910 us 281 n,saltgrass steak house,saltgrass steak house,us 281,us 281,0,0
+1024,las islas marias,Las Islas Marias,1527 hillcrest dr ,1527 hillcrest dr, is marias, is marias,hillcrest,hillcrest,0,0
+1025,frutas y algo mas,Frutas Y Algo Mas,1407 bandera rd ,1407 bandera rd,frutas y algo mas,frutas y algo mas,bandera,bandera,0,0
+1026,gin chinese restaurant,Gin Chinese Restaurant,5337 glen ridge dr ,5337 glen ridge dr,g chinese restaurant,g chinese restaurant,glen ridge,glen ridge,0,0
+1027,the crepe addiction,The Crepe Addiction,5222 de zavala rd ,5222 de zavala rd, crepe addiction, crepe addiction,de zavala,de zavala,0,0
+1028,panda express #,Panda Express,5707 stemmons dr ,5707 stemmons,pand express #,pand express,stemmons,stemmons,0,2
+1029,mcdonalds,McDonald's,6069 ingram rd ,6069 ingram rd,mcdonalds,mcdonalds,ingram,ingram,0,0
+1030,old san francisco steak house,Old San Francisco Steakhouse,10223 sahara dr ,10223 sahara st,old s francisco steak house,old s francisco steakhouse,sahara,sahara,0,1
+1031,the jerk shack,The Jerk Shack,117 matyear st ,117 matyear rd, jerk shack, jerk shack,matyear,matyear,0,0
+1032,matinee cafe,Matinee Cafe,1777 loop 410 ne ,1777 ne loop 410,matinee cafe,matinee cafe,ne loop 410,ne loop 410,0,0
+1033,sonic drive in,Sonic Drive-In,1435 austin hwy ,1435 austin hwy,sonic drive in,sonic drivein,austin hwy,austin hwy,0,1
+1034,hooters,Hooters,8527 wurzbach rd ,8527 wurzbach rd,hooters,hooters,wurzbach,wurzbach,0,0
+1035,sonias restaurante mexicano,Sonia's Restaurante Mexicano,10447 nacogdoches rd ,10447 nacogdoches rd,sonias restaurante mexicano,sonias restaurante mexicano,nacogdoches,nacogdoches,0,0
+1036,sapore's pizza,Sapore's Pizza,6422 babcock rd ,6422 babcock,sapore's pizza,sapores pizza,babcock,babcock,0,1
+1037,naara cafe,Naara Cafe,9329 wurzbach rd ,9329 wurzbach rd,naar cafe,naar cafe,wurzbach,wurzbach,0,0
+1038,noodle tree,Noodle Tree,7114 utsa blvd ,7114 utsa blvd,noodle tree,noodle tree,utsa,utsa,0,0
+1039,the south chicken and waffles,The South Chicken & Waffles,5739 callaghan rd ,5739 callaghan rd, south chicken and waffles, south chicken  waffles,callaghan,callaghan,0,3
+1040,tl orchid,Thai Lao Orchid,116 broadway ,116 broadway st,tl orchid,thai lao orchid,broadway,broadway,0,6
+1041,hotel san antonio,Hotel San Antonio,4800 woodstone ,4800 woodstone dr,hot s antonio,hot s antonio,woodstone,woodstone,0,0
+1042,freds fish fry #16 #,Fred's Fish Fry,1920 nogalitos st ,1920 nogalitos,freds fish fry #16 #,freds fish fry,nogalitos,nogalitos,0,6
+1043,dallah mediterranean cuisine,Dallah Mediterranean Cuisine,5450 babcock rd ,5450 babcock rd,dallah mediterrane cuisine,dallah mediterrane cuisine,babcock,babcock,0,0
+1044,bill miller bbq #26,Bill Miller Bar-B-Q,871 bitters rd ,871 bitters rd,bill miller bbq #26,bill miller barbq,bitters,bitters,0,6
+1045,ali baba international food market,Ali Baba International Food Market,9307 wurzbach rd ,9307 wurzbach rd,ali bab international food market,ali bab international food market,wurzbach,wurzbach,0,0
+1046,home plate bar & grill,Home Plate Sports Grill,2533 bandera rd ,2533 bandera rd,home plate bar & grill,home plate sports grill,bandera,bandera,0,5
+1047,boozehounds,Boozehounds,8531 perrin beitel ,8531 perrin beitel rd,boozehounds,boozehounds,perrin beitel,perrin beitel,0,0
+1048,bunny tunes ice cream,Bunny Tunes Ice Cream,500 culebra rd ,500 culebra rd,bunny tunes ice cream,bunny tunes ice cream,culebra,culebra,0,0
+1049,kung fu tea,Kung Fu Tea,7211 green glen ,7211 green glen dr,kung fu tea,kung fu tea,green glen,green glen,0,0
+1050,schlotzskys deli,Schlotzsky's,2514 nacogdoches rd ,2514 nacogdoches,schlotzskys deli,schlotzskys,nacogdoches,nacogdoches,0,5
+1051,bush's chicken,Bush's Chicken,3111 thousand oaks ,3111 thousand oaks dr,bush's chicken,bushs chicken,thousand oaks,thousand oaks,0,1
+1052,chongco thai rice and noodles,Chongco Thai Rice & Noodle,8503 broadway ,8503 broadway st,chongco thai rice and noodles,chongco thai rice  noodle,broadway,broadway,0,4
+1053,reggae bar,The Reggae Bar,826 san pedro av ,826 san pedro,reggae bar, reggae bar,san pedro,san pedro,0,1
+1054,tongs thai restaurant #,Tong's Thai Restaurant,1146 austin hwy ,1146 austin hwy,tongs thai restaurant #,tongs thai restaurant,austin hwy,austin hwy,0,2
+1055,la roca bar,La Roca Cantina,416 8th st ,416 8th st,l roc bar,l roc cantina,8th,8th,0,6
+1056,big john's pizza,Big John's Pizza,7806 callaghan rd ,7806 callaghan rd,big john's pizza,big johns pizza,callaghan,callaghan,0,1
+1057,pasha mediterranean grill,Pasha Mediterranean Grill,9339 wurzbach rd ,9339 wurzbach rd,pash mediterrane grill,pash mediterrane grill,wurzbach,wurzbach,0,0
+1058,senor mango ice cream & fruit,Senor Mango Ice Cream & Fruit,5112 west ave ,5112 west ave,senor mango ice cream & fruit,senor mango ice cream  fruit,weste,weste,0,1
+1059,taqueria huentitan jalisco,Taqueria Huentitan Jalisco,6502 babcock rd ,6502 babcock rd,taqueri huentit jalisco,taqueri huentit jalisco,babcock,babcock,0,0
+1060,rusty bucket bbq,Rusty Bucket BBQ,600 cupples rd ,600 cupples rd,rusty bucket bbq,rusty bucket bbq,cupples,cupples,0,0
+1061,taco betos,Tacos Betos,3715 culebra rd ,3715 culebra rd,taco betos,tacos betos,culebra,culebra,0,1
+1062,the medieval grille,The Medieval Grille,3695 culebra rd ,3695 culebra rd, medieval grille, medieval grille,culebra,culebra,0,0
+1063,ray's pizzaria,Ray's Pizzaria,7214 blanco rd ,7214 blanco rd,ray's pizzaria,rays pizzaria,blanco,blanco,0,1
+1064,shamu market,Harbor Market,10500 sea world dr ,10500 sea world dr,shamu market,harbor market,seaorld,seaorld,0,5
+1065,seoul garden,Seoul Food,2456 harry wurzbach ,2456 harry wurzbach rd,seoul garden,seoul food,harryurzbach,harryurzbach,0,5
+1066,r.j.'s snack shack,RJ'S SNACK SHACK,3644 culebra rd ,3644 culebra rd,r.j.'s snack shack,rjs snack shack,culebra,culebra,0,3
+1067,sea star market,Harbor Market,10500 sea world dr ,10500 sea world dr,se star market,harbor market,seaorld,seaorld,0,6
+1068,harbor market,Harbor Market,10500 sea world dr ,10500 sea world dr,harbor market,harbor market,seaorld,seaorld,0,0
+1069,hookah harem,Hookah Harem,6862 ingram rd ,6862 ingram rd,hookah harem,hookah harem,ingram,ingram,0,0
+1070,la popular bakery #3 #,La Popular Bakery,4235 culebra rd ,4235 culebra rd,l popular bakery #3 #,l popular bakery,culebra,culebra,0,5
+1071,mango market,Harbor Market,10500 sea world dr ,10500 sea world dr,mango market,harbor market,seaorld,seaorld,0,4
+1072,tonic,Tonic Bar,5500 babcock rd ,5500 babcock rd,tonic,tonic bar,babcock,babcock,0,4
+1073,fop market,Harbor Market,10500 sea world dr ,10500 sea world dr,fop market,harbor market,seaorld,seaorld,0,5
+1074,la chiquita paleteria y neveria,La Chiquita Paleteria Y Neveria,6726 san pedro ave ,6726 san pedro ave,l chiquit paleteri y neveria,l chiquit paleteri y neveria,san pedroe,san pedroe,0,0
+1075,corner store #3946,Corner Store,1119 vance jackson ,1119 vance jackson,corner store #3946,corner store,vance jackson,vance jackson,0,6
+1076,taqueria la tapatia,Taqueria La Tapatia,8814 perrin beitel ,8814 perrin beitel,taqueri l tapatia,taqueri l tapatia,perrin beitel,perrin beitel,0,0
+1077,the texan ii,The Texan II,114 jefferson st ,114 jefferson st, tex ii, tex ii,jefferson,jefferson,0,0
+1078,whataburger #363,Whataburger,4635 rittiman rd ,4635 rittiman rd,whataburger #363,whataburger,rittiman,rittiman,0,5
+1079,churchs chicken # 712,Church's Chicken,1615 bandera rd ,1615 bandera rd,churchs chicken # 712,churchs chicken,bandera,bandera,0,6
+1080,little caesars #45,Little Caesars Pizza,4319 callaghan rd ,4319 callaghan rd,little caesars #45,little caesars pizza,callaghan,callaghan,0,5
+1081,churchs chicken # 11,Church's Chicken,219 zarzamora s ,219 zarzamora st s,churchs chicken # 11,churchs chicken,zarzamora,zarzamora,0,5
+1082,starbucks,Starbucks,5422 babcock rd ,5422 babcock,starbucks,starbucks,babcock,babcock,0,0
+1083,super 8 motel,Super 8,302 roland av ,302 roland rd,super 8 motel,super 8,roland,roland,0,6
+1084,buffet city,Buffet City,2902 goliad rd ,2902 goliad rd,buffet city,buffet city,goliad,goliad,0,0
+1085,tru nutrition,Alamo Nutrition,7271 wurzbach rd ,7271 wurzbach rd,tru nutrition,alamo nutrition,wurzbach,wurzbach,0,5
+1086,julios taqueria,Julio's Taqueria,2031 bandera rd ,2031 bandera rd,julios taqueria,julios taqueria,bandera,bandera,0,0
+1087,marias pizza,Maria's Pizza,3529 oakgate dr ,3529 oakgate dr,marias pizza,marias pizza,oakgate,oakgate,0,0
+1088,ramona's cafe #2,Ramona's Cafe #2,1602 callaghan rd ,1602 callaghan rd,ramona's cafe #2,ramonas cafe 2,callaghan,callaghan,0,2
+1089,ringside sports bar,Ringside Sports Bar,1163 commerce st e ,1163 commerce st,ringsi sports bar,ringsi sports bar,commerce,commerce,0,0
+1090,pizza hut #,Pizza Hut,6418 callaghan rd ,6418 callaghan rd,pizz hut #,pizz hut,callaghan,callaghan,0,2
+1091,the grocery outlet,The Grocery Outlet,1568 austin hwy ,1568 austin hwy, grocery outlet, grocery outlet,austin hwy,austin hwy,0,0
+1092,the big bib,The Big Bib BBQ,104 lanark dr ,104 lanark dr, big bib, big bib bbq,lanark,lanark,0,4
+1093,wok inn,Wok Inn,5835 culebra rd ,5835 culebra rd,wok inn,wok inn,culebra,culebra,0,0
+1094,cafe rosa #2,Cafe Rosa 2,1304 gardina st ,1304 gardina,cafe ros #2,cafe ros 2,gardina,gardina,0,1
+1095,taqueria jimador,Taqueria Jimador,1106 vance jackson ,1106 vance jackson rd,taqueri jimador,taqueri jimador,vance jackson,vance jackson,0,0
+1096,bangkok 54 thai cuisine,Bangkok 54 Thai Cuisine,2515 nacogdoches rd ,2515 nacogdoches rd,bangkok 54 thai cuisine,bangkok 54 thai cuisine,nacogdoches,nacogdoches,0,0
+1097,empower nutrition,Empower Nutrition,8345 perrin beitel ,8345 perrin beitel rd,empower nutrition,empower nutrition,perrin beitel,perrin beitel,0,0
+1098,bill miller bbq #42,Bill Miller Bar-B-Q,1303 vance jackson ,1303 vance jackson,bill miller bbq #42,bill miller barbq,vance jackson,vance jackson,0,6
+1099,elizabeths restaurant,Elizabeth's Mexican Restaurant,5251 timberhill ,5251 timberhill,elizabeths restaurant,elizabeths mexic restaurant,timberhill,timberhill,0,6
+1100,pams patio kitchen,Pam's Patio Kitchen,11826 wurzbach rd ,11826 wurzbach rd,pams patio kitchen,pams patio kitchen,wurzbach,wurzbach,0,0
+1101,vans chinese seafood restaurant,Van's Chinese Seafood Restaurant,3214 broadway ,3214 broadway st,vans chinese seafood restaurant,vans chinese seafood restaurant,broadway,broadway,0,0
+1102,taco broadway,Taco Broadway,3610 broadway ,3610 broadway st,taco broadway,taco broadway,broadway,broadway,0,0
+1103,el taco de jalisco,El Taco De Jalisco,4407 vance jackson ,4407 vance jackson rd, taco  jalisco, taco  jalisco,vance jackson,vance jackson,0,0
+1104,culebra meat market #4,Culebra Meat Market No 4,2407 pinn rd ,2407 pinn rd,culebr meat market #4,culebr meat market no 4,pinn,pinn,0,3
+1105,coco beach,Coco Beach,12159 valliant dr ,12159 valliant st,coco beach,coco beach,valliant,valliant,0,0
+1106,milano on wurzbach,Milano On Wurzbach,11802 wurzbach rd ,11802 wurzbach rd,milano  wurzbach,milano  wurzbach,wurzbach,wurzbach,0,0
+1107,kim tran restaurant,Kim Tran Restaurant,1015 rittiman rd ,1015 rittiman rd,kim tr restaurant,kim tr restaurant,rittiman,rittiman,0,0
+1108,tink-a-tako #4,Tink-A-Tako,3299 wurzbach rd ,3299 wurzbach rd,tink-a-tako #4,tinkatako,wurzbach,wurzbach,0,5
+1109,thai esan & noodle house,Thai Esan & Noodle House,9820 huebner rd ,9820 huebner rd,thai es & noodle house,thai es  noodle house,huebner,huebner,0,1
+1110,the brown coffee company,Brown Coffee Company,1800 broadway ,1800 broadway st, brown coffee company,brown coffee company,broadway,broadway,0,1
+1111,halftime pizza,Halftime Pizza,7531 bandera rd ,7531 bandera rd,halftime pizza,halftime pizza,bandera,bandera,0,0
+1112,el puesto mexican restaurant #1,El Puesto Mexican Restaurant,1504 castroville rd ,1504 castroville rd, puesto mexic restaurant #1, puesto mexic restaurant,castroville,castroville,0,3
+1113,nassau food mart,Nassau Food Mart,110 nassau dr ,110 nassau dr,nassau food mart,nassau food mart,nassau,nassau,0,0
+1114,santos mexican cafe,Santos Mexican Cafe II,603 isom rd ,603 isom rd,santos mexic cafe,santos mexic cafe ii,isom,isom,0,3
+1115,cowboys dance hall,Cowboys Dancehall,3030 loop 410 ne ,3030 ne loop 410,cowboys dance hall,cowboys dancehall,ne loop 410,ne loop 410,0,1
+1116,k & p 1 food store,K & P 1 Food Store,4802 rittiman rd ,4802 rittiman rd,k & p 1 food store,k  p 1 food store,rittiman,rittiman,0,1
+1117,the rose bush,The Rose Bush,2301 san pedro ave ,2301 san pedro ave, rose bush, rose bush,san pedroe,san pedroe,0,0
+1118,el pilon sabor borricua,El Pilon Sabor Boricua,1127 harry wurzbach ,1127 harry wurzbach, pil sabor borricua, pil sabor boricua,harryurzbach,harryurzbach,0,1
+1119,el burrito tapatio,El Burrito Tapatio,3008 west ave ,3008 west ave, burrito tapatio, burrito tapatio,weste,weste,0,0
+1120,jasons deli,Jason's Deli,25 loop 410 ne ,25 ne loop 410,jasons deli,jasons deli,ne loop 410,ne loop 410,0,0
+1121,mango's,Mangos,747 isom rd ,747 isom rd,mango's,mangos,isom,isom,0,1
+1122,speedy fish,Speedy’s Fish,1359 kirk pl ,1359 kirk pl,speedy fish,speedy’s fish,kirk pl,kirk pl,0,2
+1123,bun & barrel,Bun 'N' Barrel,1150 austin hwy ,1150 austin hwy,bun & barrel,bun n barrel,austin hwy,austin hwy,0,1
+1124,taqueria cazadores,Taqueria Cazadores,927 rittiman rd ,927 rittiman rd,taqueri cazadores,taqueri cazadores,rittiman,rittiman,0,0
+1125,taqueria data point,Taqueria Datapoint,4063 medical dr ,4063 medical dr,taqueri dat point,taqueri datapoint,medical,medical,0,1
+1126,jack in the box #871,Jack in the Box,10683 huebner rd ,10683 huebner rd,jack   box #871,jack   box,huebner,huebner,0,5
+1127,golden dragon express,Golden Dragon Express,2249 lockhill selma ,2249 lockhill selma rd,golden drag express,golden drag express,lockhillelma,lockhillelma,0,0
+1128,taurinos mexican restaurant,Taurinos Mexican Restaurant,1300 callaghan rd ,1300 callaghan rd,taurinos mexic restaurant,taurinos mexic restaurant,callaghan,callaghan,0,0
+1129,willy b's pizza,Willy B's Pizza,100 villita st ,100 villita st,willy b's pizza,willy bs pizza,villita,villita,0,1
+1130,freds fish fry #,Fred's Fish Fry,3303 blanco rd ,3303 blanco rd,freds fish fry #,freds fish fry,blanco,blanco,0,2
+1131,jerusalem grill,Jerusalem Grill,3259 wurzbach rd ,3259 wurzbach rd,jerusalem grill,jerusalem grill,wurzbach,wurzbach,0,0
+1132,shipley donuts,Shipley Do-Nuts,1134 culebra rd ,1134 culebra rd,shipley donuts,shipley donuts,culebra,culebra,0,0
+1133,churchs chicken # 132,Church's Chicken,1302 castroville rd ,1302 castroville rd,churchs chicken # 132,churchs chicken,castroville,castroville,0,6
+1134,la michelada grill,La Michelada Grill,2623 rockgate st ,2623 rockgate dr,l michelad grill,l michelad grill,rockgate,rockgate,0,0
+1135,munchies..it's all good #1,Munchies its all good,5949 ingram rd ,5949 ingram rd,munchies..it's all good #1,munchies its all good,ingram,ingram,0,6
+1136,babe's old fashioned food,Babe's Old Fashioned Food,9207 huebner rd ,9207 huebner rd,babe's old fashioned food,babes old fashioned food,huebner,huebner,0,1
+1137,smittys pub,Smitty's Pub,4121 gardendale ,4121 gardendale st,smittys pub,smittys pub,gardendale,gardendale,0,0
+1138,jack in the box #936,Jack in the Box,903 probandt st ,903 probandt st,jack   box #936,jack   box,probandt,probandt,0,5
+1139,liquid monkey lounge,Liquid Monkey Lounge,248 losoya ,248 losoya st,liquid monkey lounge,liquid monkey lounge,losoya,losoya,0,0
+1140,bubble waffle bar,Bubble Waffle Bar,7755 eckhert rd ,7755 eckhert rd,bubble waffle bar,bubble waffle bar,eckhert,eckhert,0,0
+1141,la fonda alamo heights,La Fonda Alamo Heights,8633 crownhill bv ,8633 crownhill blvd,l fond alamo heights,l fond alamo heights,crownhill,crownhill,0,0
+1142,pizza hut #,Pizza Hut,1013 austin hwy ,1013 austin hwy,pizz hut #,pizz hut,austin hwy,austin hwy,0,2
+1143,make my day lounge,Make My Day Lounge,12114 nacogdoches rd ,12114 nacogdoches rd,make my day lounge,make my day lounge,nacogdoches,nacogdoches,0,0
+1144,crown plaza san antonio airport,Crowne Plaza San Antonio Airport,1111 loop 410 ne ,1111 ne loop 410,crown plaz s antonio airport,crowne plaz s antonio airport,ne loop 410,ne loop 410,0,1
+1145,goro's sushiinc,Goro's Sushi,2619 mossrock st ,2619 mossrock dr,goro's sushiinc,goros sushi,mossrock,mossrock,0,4
+1146,la torteria,La Torteria,2717 hillcrest dr ,2717 hillcrest dr,l torteria,l torteria,hillcrest,hillcrest,0,0
+1147,pho win,Pho Win,12830 silicon dr ,12830 silicon dr,pho win,pho win,silicon,silicon,0,0
+1148,plazas mexican restaurant,Plaza Mexican Restaurant,2898 blanco rd ,2898 blanco rd,plazas mexic restaurant,plaz mexic restaurant,blanco,blanco,0,2
+1149,4th quarter sports bar,4th Quarter Sports Bar,8779 wurzbach rd ,8779 wurzbach,4th quarter sports bar,4th quarter sports bar,wurzbach,wurzbach,0,0
+1150,sanchez ice house #,Sanchez Ice House 1,819 san saba st s ,819 s san saba,sanchez ice house #,sanchez ice house 1,sanaba,sanaba,0,1
+1151,pizza hut #25,Pizza Hut,4232 thousand oaks ,4232 thousand oaks dr,pizz hut #25,pizz hut,thousand oaks,thousand oaks,0,4
+1152,the barbecue station,Barbecue Station,1610 loop 410 ne ,1610 ne loop 410, barbecue station,barbecue station,ne loop 410,ne loop 410,0,1
+1153,budget lodge,Budgetel Inn,2635 loop 410 ne ,2635 ne loop 410,budget lodge,budget inn,ne loop 410,ne loop 410,0,5
+1154,danny's cocina mexicana,Danny's Cocina Mexicana,6031 callaghan rd ,6031 callaghan rd,danny's cocin mexicana,dannys cocin mexicana,callaghan,callaghan,0,1
+1155,jack in the box #926,Jack in the Box,2235 loop 410 ne ,2235 ne loop 410,jack   box #926,jack   box,ne loop 410,ne loop 410,0,5
+1156,the station cafe,The Station Cafe,108 king william ,108 king william, stati cafe, stati cafe,kingilliam,kingilliam,0,0
+1157,cardenas grocery inc,Cardenas Grocery,2103 castroville rd ,2103 castroville rd,cardenas grocery inc,cardenas grocery,castroville,castroville,0,4
+1158,fruteria cano,Fruteria Cano,102 produce row ,102 produce row,fruteri cano,fruteri cano,produce row,produce row,0,0
+1159,jack in the box #913,Jack in the Box,2100 culebra rd ,2100 culebra rd,jack   box #913,jack   box,culebra,culebra,0,5
+1160,marios bakery,Mario's Bakery,2231 castroville rd ,2231 castroville rd,marios bakery,marios bakery,castroville,castroville,0,0
+1161,romes pizza,Rome's Pizza,5999 de zavala rd ,5999 de zavala rd,romes pizza,romes pizza,de zavala,de zavala,0,0
+1162,chick-fil-a,Chick-fil-A,27 loop 410 ne ,27 ne loop 410,chick-fil-a,chickfila,ne loop 410,ne loop 410,0,2
+1163,home 2 suites by hilton san antonio airport,"Home2 Suites by Hilton San Antonio Airport, TX",94 loop 410 ne ,94 ne loop 410,home 2 suites  hilt s antonio airport,"home2 suites  hilt s antonio airport, tx",ne loop 410,ne loop 410,0,5
+1164,whataburger #734,Whataburger,3130 broadway ,3130 broadway st,whataburger #734,whataburger,broadway,broadway,0,5
+1165,sir winstons,Sir Winston's,2522 nacogdoches rd ,2522 nacogdoches rd,sir winstons,sir winstons,nacogdoches,nacogdoches,0,0
+1166,southtown 101,Southtown 101,101 pereida st ,101 pereida st,southtown 101,southtown 101,pereida,pereida,0,0
+1167,churchs chicken # 94,Church's Chicken,2856 culebra rd ,2856 culebra rd,churchs chicken # 94,churchs chicken,culebra,culebra,0,5
+1168,green beans coffee co.,Green Beans Coffee Company,9710 airport bv ,9710 airport blvd,green beans coffee co.,green beans coffee company,airport,airport,0,5
+1169,am stop,AM Stop,602 labor st ,602 labor st,am stop,am stop,labor,labor,0,0
+1170,vfw post #1533,VFW 1533,107 elmhurst ave ,107 elmhurst ave,vfw post #1533,vfw 1533,elmhurste,elmhurste,0,6
+1171,jimmy johns,Jimmy John's,2445 nacogdoches rd ,2445 nacogdoches rd,jimmy johns,jimmy johns,nacogdoches,nacogdoches,0,0
+1172,la amistad tortilleria,La Amistad Tortilleria,2754 culebra rd ,2754 culebra,l amistad tortilleria,l amistad tortilleria,culebra,culebra,0,0
+1173,pizza patron #76,Pizza Patron,8601 huebner rd ,8601 huebner rd,pizz patr #76,pizz patron,huebner,huebner,0,4
+1174,rosella at the garden,Rosella at the Garden,555 funston pl ,555 funston pl,rosell at  garden,rosell at  garden,funston pl,funston pl,0,0
+1175,la tuna (bar),La Tuna Grill,100 probandt st ,100 probandt st,l tun (bar),l tun grill,probandt,probandt,0,5
+1176,popeye's lousiana kitchen,Popeyes Louisiana Kitchen,1472 austin hwy ,1472 austin hwy,popeye's lousian kitchen,popeyes louisian kitchen,austin hwy,austin hwy,0,2
+1177,shipley do-nuts,Shipley Do-Nuts,823 lockhill selma ,823 lockhill selma rd,shipley do-nuts,shipley donuts,lockhillelma,lockhillelma,0,1
+1178,asadero de jalisco,El Asadero De Jalisco,2123 culebra rd ,2123 culebra rd,asadero  jalisco, asadero  jalisco,culebra,culebra,0,1
+1179,rebar,Rebar,8134 broadway ,8134 broadway st,rebar,rebar,broadway,broadway,0,0
+1180,the growler exchange,The Growler Exchange,4130 broadway ,4130 broadway st, growler exchange, growler exchange,broadway,broadway,0,0
+1181,thundercloud subs #,Thundercloud Subs,1901 nacogdoches rd ,1901 nacogdoches rd,thundercloud subs #,thundercloud subs,nacogdoches,nacogdoches,0,2
+1182,pizza hut #,Pizza Hut,6115 ingram rd ,6115 ingram rd,pizz hut #,pizz hut,ingram,ingram,0,2
+1183,el molcajete mexican restaurant,El Molcajete Mexican Restaurant,4404 walzem rd ,4404 walzem rd, molcajete mexic restaurant, molcajete mexic restaurant,walzem,walzem,0,0
+1184,walgreens #3368,Walgreens,1581 austin hwy ,1581 austin hwy,walgreens #3368,walgreens,austin hwy,austin hwy,0,6
+1185,fidelo's mexican restaurant,Fidelos Mexican Restaurant,10929 nacogdoches rd ,10929 nacogdoches,fidelo's mexic restaurant,fi mexic restaurant,nacogdoches,nacogdoches,0,6
+1186,jack in the box #941,Jack in the Box,8558 huebner rd ,8558 huebner rd,jack   box #941,jack   box,huebner,huebner,0,5
+1187,los regios fruiteria,Los Regios Fruteria,2431 austin hwy ,2431 austin hwy, regios fruiteria, regios fruteria,austin hwy,austin hwy,0,1
+1188,jack in the box_#856,Jack in the Box,1619 bandera rd ,1619 bandera rd,jack   box_#856,jack   box,bandera,bandera,0,5
+1189,taqueria jalisco # 15,Taqueria Jalisco,5527 babcock rd ,5527 babcock rd,taqueri jalisco # 15,taqueri jalisco,babcock,babcock,0,5
+1190,wiatrek's meat market,Wiatrek's Meat Market,8517 blanco rd ,8517 blanco rd,wiatrek's meat market,wiatreks meat market,blanco,blanco,0,1
+1191,congas restaurant,Congas Restaurant,11211 perrin beitel ,11211 perrin beitel rd,congas restaurant,congas restaurant,perrin beitel,perrin beitel,0,0
+1192,yaghi's pizzeria,Yaghi's Pizzeria,5910 babcock rd ,5910 babcock rd,yaghi's pizzeria,yaghis pizzeria,babcock,babcock,0,1
+1193,magic time machine #,Magic Time Machine,902 loop 410 ne ,902 ne loop 410,magic time machine #,magic time machine,ne loop 410,ne loop 410,0,2
+1194,teddy b's,Teddy B's,6392 babcock rd ,6392 babcock rd,teddy b's,teddy bs,babcock,babcock,0,1
+1195,j y ramen,JY Ramen,5500 babcock rd ,5500 babcock rd,j y ramen,jy ramen,babcock,babcock,0,1
+1196,the little taco house,The Little Taco House,741 isom rd ,741 isom rd, little taco house, little taco house,isom,isom,0,0
+1197,burger king #9721,Burger King,3400 fredsbg rd ,3400 fredricksburg,burger king #9721,burger king,fredricksburg,fredricksburg,0,6
+1198,el tropico,El Tropico,3534 fredsbg rd ,3534 fredricksburg rd, tropico, tropico,fredricksburg,fredricksburg,0,0
+1199,panda express #,Panda Express,1446 austin hwy ,1446 austin hwy,pand express #,pand express,austin hwy,austin hwy,0,2
+1200,bill miller bbq #8,Bill Miller Bar-B-Q,2823 commerce st w ,2823 commerce,bill miller bbq #8,bill miller barbq,commerce,commerce,0,5
+1201,andrew's heavenly ice,Andrew's Heavenly Ice,5251 timberhill ,5251 timberhill,andrew's heavenly ice,andrews heavenly ice,timberhill,timberhill,0,1
+1202,irish pub,The Irish Pub,9726 datapoint ,9726 datapoint dr,irish pub, irish pub,datapoint,datapoint,0,1
+1203,wienerschnitzel #,Wienerschnitzel,8530 perrin beitel ,8530 perrin beitel rd,wienerschnitz #,wienerschnitzel,perrin beitel,perrin beitel,0,2
+1204,firehouse subs #954,Firehouse Subs,9961 ih 10 w ,9961 ih 10 w,firehouse subs #954,firehouse subs,ih 10,ih 10,0,5
+1205,jack in the box #853,Jack in the Box,2465 babcock rd ,2465 babcock rd,jack   box #853,jack   box,babcock,babcock,0,5
+1206,laguna cafe,Laguna Cafe,8403 state hwy 151 ,8403 state hwy 151,lagun cafe,lagun cafe,state hwy 151,state hwy 151,0,0
+1207,panda express #,Panda Express,11220 huebner rd ,11220 huebner rd,pand express #,pand express,huebner,huebner,0,2
+1208,chipotle mexican grill #582,Chipotle Mexican Grill,3928 broadway ,3928 broadway st,chipotle mexic grill #582,chipotle mexic grill,broadway,broadway,0,5
+1209,vfw post #9174,VFW Post 9174,2410 pinn rd ,2410 pinn rd,vfw post #9174,vfw post 9174,pinn,pinn,0,1
+1210,chesters hamburgers #,Chester's Hamburgers,1006 loop 410 ne ,1006 ne loop 410,chesters hamburgers #,chesters hamburgers,ne loop 410,ne loop 410,0,2
+1211,miss chickpeas bakeshop,Miss Chickpea’s Bakeshop,8065 callaghan rd ,8065 callaghan rd,miss chickpeas bakeshop,miss chickpea’s bakeshop,callaghan,callaghan,0,1
+1212,1000 degree neapolitan pizza,1000 Degrees Neapolitan Pizzeria,11224 huebner rd ,11224 huebner rd,1000 degree neapolit pizza,1000 degrees neapolit pizzeria,huebner,huebner,0,4
+1213,la marginal,La Marginal,2447 nacogdoches rd ,2447 nacogdoches rd,l marginal,l marginal,nacogdoches,nacogdoches,0,0
+1214,cinderella bakery #2,Cinderella Bakery,1261 saltillo st ,1261 saltillo st,cinderell bakery #2,cinderell bakery,saltillo,saltillo,0,3
+1215,walgreens #3563,Walgreens,7103 marbach rd ,7103 marbach rd,walgreens #3563,walgreens,marbach,marbach,0,6
+1216,saveurs 209,Saveurs 209,209 broadway ,209 broadway st,saveurs 209,saveurs 209,broadway,broadway,0,0
+1217,dominos pizza #6702,Domino's Pizza,3255 harry wurzbach ,3255 harry wurzbach rd,dominos pizz #6702,dominos pizza,harryurzbach,harryurzbach,0,6
+1218,savor bistro llc,Savor Bistro,20122 stone oak pkwy ,20122 stone oak pkwy,savor bistro llc,savor bistro,stone oak pkwy,stone oak pkwy,0,4
+1219,yuyu's pinas,Yuyus pinas,2235 thousand oaks ,2235 thousand oaks,yuyu's pinas,yuyus pinas,thousand oaks,thousand oaks,0,1
+1220,la boulangerie,La Boulangerie,207 broadway ,207 broadway,l boulangerie,l boulangerie,broadway,broadway,0,0
+1221,ritas fiesta cafe llc,Rita's Fiesta Cafe,612 bandera rd ,612 bandera rd,ritas fiest cafe llc,ritas fiest cafe,bandera,bandera,0,4
+1222,the lords kitchen,Lord's Kitchen,118 seguin st ,118 seguin st, lords kitchen,lords kitchen,seguin,seguin,0,1
+1223,shake shack,Shake Shack,3003 broadway ,3003 broadway st,shake shack,shake shack,broadway,broadway,0,0
+1224,whataburger #200,Whataburger,14543 brook hollow ,14543 brook hollow blvd,whataburger #200,whataburger,brook hollow,brook hollow,0,5
+1225,marias cafe,Maria's Cafe,1105 nogalitos st ,1105 nogalitos,marias cafe,marias cafe,nogalitos,nogalitos,0,0
+1226,comfort suites alamo riverwalk,Comfort Suites Alamo/River walk,505 live oak st ,505 live oak st,comfort suites alamo riverwalk,comfort suites alamo/river walk,live oak,live oak,0,2
+1227,rotana cafe,Rotana,2250 thousand oaks ,2250 thousand oaks dr,rotan cafe,rotana,thousand oaks,thousand oaks,0,4
+1228,binh an golden phoenix seafood and pho,Binh An Golden Phoenix Seafood & Pho,9323 perrin beitel ,9323 perrin beitel rd,binh  golden phoenix seafood and pho,binh  golden phoenix seafood  pho,perrin beitel,perrin beitel,0,3
+1229,the s.a. country saloon,SA Country Saloon,10127 coachlight dr ,10127 coachlight, s.a. country saloon,s country saloon,coachlight,coachlight,0,4
+1230,zombies,Zombies,4202 thousand oaks ,4202 thousand oaks,zombies,zombies,thousand oaks,thousand oaks,0,0
+1231,burgerfi,BurgerFi,1907 nacogdoches rd ,1907 nacogdoches rd,burgerfi,burgerfi,nacogdoches,nacogdoches,0,0
+1232,capo's pizza,Capos Pizza,8522 broadway ,8522 broadway,capo's pizza,capos pizza,broadway,broadway,0,1
+1233,earth burger,Earth Burger,2501 nacogdoches rd ,2501 nacogdoches rd,earth burger,earth burger,nacogdoches,nacogdoches,0,0
+1234,alamo cafe #2 #,Alamo Cafe,10060 ih 10 w ,10060 ih 10 w,alamo cafe #2 #,alamo cafe,ih 10,ih 10,0,5
+1235,cured,Cured,306 pearl pkwy ,306 pearl pkwy,cured,cured,pearl pkwy,pearl pkwy,0,0
+1236,papa's quickdraw bbq,Papa's Quickdraw Bbq,12054 blanco rd ,12054 blanco rd,papa's quickdraw bbq,papas quickdraw bbq,blanco,blanco,0,1
+1237,juanitos mexican restaurant,Juanito's Restaurant,2502 culebra rd ,2502 culebra rd,juanitos mexic restaurant,juanitos restaurant,culebra,culebra,0,6
+1238,sohill cafe,SoHill Cafe,1719 blanco rd ,1719 blanco rd,sohill cafe,sohill cafe,blanco,blanco,0,0
+1239,donut palace,Donut Palace,1583 thousand oaks ,1583 thousand oaks dr,donut palace,donut palace,thousand oaks,thousand oaks,0,0
+1240,mi sierra jalisco,Mi Sierra Jalisco,1242 babcock rd ,1242 babcock rd,mi sierr jalisco,mi sierr jalisco,babcock,babcock,0,0
+1241,sat asian seafood restaurant & bar,SAT Asian Seafood Restaurant & Bar,6000 ih 35 n ,6000 ih 35,sat asi seafood restaurant & bar,sat asi seafood restaurant  bar,ih 35,ih 35,0,1
+1242,casa sol mexican restaurant,Casa Sol Mexican Restaurant,9938 san pedro ave ,9938 san pedro ave,cas sol mexic restaurant,cas sol mexic restaurant,san pedroe,san pedroe,0,0
+1243,charlie brown's neighborhood bar & grill,Charlie Brown's Neighborhood Bar & Grill,11888 starcrest dr ,11888 starcrest dr,charlie brown's neighborhood bar & grill,charlie browns neighborhood bar  grill,starcrest,starcrest,0,2
+1244,carmelitas mexican restaurant,Carmelitas Mexican Restaurant,2218 broadway ,2218 broadway st,carmelitas mexic restaurant,carmelitas mexic restaurant,broadway,broadway,0,0
+1245,thai restaurant,Thai Restaurant,1709 babcock rd ,1709 babcock rd,thai restaurant,thai restaurant,babcock,babcock,0,0
+1246,wingstop #6,Wingstop,502 embassy oaks ,502 embassy oaks,wingstop #6,wingstop,embassy oaks,embassy oaks,0,3
+1247,pizza hut #,Pizza Hut,5731 babcock rd ,5731 babcock rd,pizz hut #,pizz hut,babcock,babcock,0,2
+1248,baskin robbins,Baskin-Robbins,12442 nacogdoches rd ,12442 nacogdoches rd,bask robbins,baskinrobbins,nacogdoches,nacogdoches,0,2
+1249,new heights nutrition,New Heights Nutrition,1308 austin hwy ,1308 austin hwy,new heights nutrition,new heights nutrition,austin hwy,austin hwy,0,0
+1250,the magnolia pancake haus,The Magnolia Pancake Haus,606 embassy oaks ,606 embassy oaks, magnoli pancake haus, magnoli pancake haus,embassy oaks,embassy oaks,0,0
+1251,fiesta palebolis,Fiesta Palebolis,802 nogalitos st ,802 nogalitos,fiest palebolis,fiest palebolis,nogalitos,nogalitos,0,0
+1252,busted sandal brewing company,Busted Sandal Brewing Company,7114 oaklawn dr ,7114 oaklawn dr,busted sandal brewing company,busted sandal brewing company,oaklawn,oaklawn,0,0
+1253,royal pizza,Royal Pizza,4415 de zavala rd ,4415 de zavala rd,royal pizza,royal pizza,de zavala,de zavala,0,0
+1254,vietnam restaurant,Viet Nam Restaurant,3244 broadway ,3244 broadway st,vietnam restaurant,viet nam restaurant,broadway,broadway,0,1
+1255,walgreens #4934,Walgreens,6017 ingram rd ,6017 ingram rd,walgreens #4934,walgreens,ingram,ingram,0,6
+1256,bandera jalisco,Bandera Jalisco,1117 bandera rd ,1117 bandera rd,bander jalisco,bander jalisco,bandera,bandera,0,0
+1257,taqueria guadalajara #4,Taqueria Guadalajara 4,5818 culebra rd ,5818 culebra rd,taqueri guadalajar #4,taqueri guadalajar 4,culebra,culebra,0,1
+1258,brindles awesome ice cream,Brindles Awesome Ice Creams,11255 huebner rd ,11255 huebner rd,brindles awesome ice cream,brindles awesome ice creams,huebner,huebner,0,1
+1259,pho tommy # 1,Pho Tommy 1,3023 thousand oaks ,3023 thousand oaks,pho tommy # 1,pho tommy 1,thousand oaks,thousand oaks,0,2
+1260,the hanger,The Hangar,8203 broadway ,8203 broadway, hanger, hangar,broadway,broadway,0,1
+1261,the hanger,Hanger,8203 broadway ,8203 broadway st, hanger,hanger,broadway,broadway,0,1
+1262,wok this way,Wok This Way,2411 loop 410 ne ,2411 ne loop 410,wok this way,wok this way,ne loop 410,ne loop 410,0,0
+1263,arnold's butcher shop,Arnold's Butcher Shop,3965 thousand oaks ,3965 thousand oaks,arnold's butcher shop,arnolds butcher shop,thousand oaks,thousand oaks,0,1
+1264,infinity cakes and more,Infinity Cakes & More,5721 evers rd ,5721 evers rd,infinity cakes and more,infinity cakes  more,evers,evers,0,3
+1265,mcdonalds #3298,McDonald's,11482 perrin beitel ,11482 perrin beitel rd,mcdonalds #3298,mcdonalds,perrin beitel,perrin beitel,0,6
+1266,barflys,Barflys,8503 broadway ,8503 broadway st,barflys,barflys,broadway,broadway,0,0
+1267,juice and dough,Juice & Dough,5500 babcock rd ,5500 babcock rd,juice and dough,juice  dough,babcock,babcock,0,3
+1268,social spot,Social Spot,930 broadway ,930 broadway st,social spot,social spot,broadway,broadway,0,0
+1269,baby taco garage llc,Baby Taco Garage,8343 broadway ,8343 broadway st,ba taco garage llc,ba taco garage,broadway,broadway,0,4
+1270,babcock social pub,Babcock Social Pub,5891 babcock rd ,5891 babcock rd,babcock social pub,babcock social pub,babcock,babcock,0,0
+1271,kremlins,Kremlin,212 college st ,212 college st,kremlins,kremlin,college,college,0,1
+1272,rosas tacos to go,Rosa's Tacos To Go,1721 nogalitos st ,1721 nogalitos st,rosas tacos to go,rosas tacos to go,nogalitos,nogalitos,0,0
+1273,la panaderia,La Panaderia,8305 broadway ,8305 broadway,l panaderia,l panaderia,broadway,broadway,0,0
+1274,chelitas mexican restaurant,Chelita's Mexican Restaurant,550 old hwy 90 w ,550 old hwy 90 w,chelitas mexic restaurant,chelitas mexic restaurant,old hwy 90,old hwy 90,0,0
+1275,el sol de jalisco,El Sol de Jalisco,1743 bandera rd ,1743 bandera rd, sol  jalisco, sol  jalisco,bandera,bandera,0,0
+1276,gypsy cafe,Gypsy Cafe,2813 thousand oaks ,2813 thousand oaks dr,gypsy cafe,gypsy cafe,thousand oaks,thousand oaks,0,0
+1277,ramis pizza,Ramis Pizza,4189 naco perrin bv ,4189 naco perrin blvd,ramis pizza,ramis pizza,naco perrin,naco perrin,0,0
+1278,papa john's pizza,Papa John's Pizza,1573 bandera rd ,1573 bandera rd,pap john's pizza,pap johns pizza,bandera,bandera,0,1
+1279,st anthony of padua parrish,St Anthony of Padua Church,102 lorenz rd ,102 lorenz rd,st anthony  padu parrish,st anthony  padu church,lorenz,lorenz,0,5
+1280,dunkin dounts,Dunkin',12311 nacogdoches rd ,12311 nacogdoches rd,dunk dounts,dunkin,nacogdoches,nacogdoches,0,6
+1281,whataburger #315,Whataburger,3202 wurzbach rd ,3202 wurzbach rd,whataburger #315,whataburger,wurzbach,wurzbach,0,5
+1282,las americas latin market,Las Americas Latin Market,6623 san pedro ave ,6623 san pedro ave, americas lat market, americas lat market,san pedroe,san pedroe,0,0
+1283,sam's snack stand,Sam's Snack Stand,4410 callaghan rd ,4410 callaghan rd,sam's snack stand,sams snack stand,callaghan,callaghan,0,1
+1284,the hollow,The Hollow,14532 brook hollow ,14532 brook hollow blvd, hollow, hollow,brook hollow,brook hollow,0,0
+1285,weathered souls brewery co,Weathered Souls Brewing,606 embassy oaks ,606 embassy oaks,weathered souls brewery co,weathered souls brewing,embassy oaks,embassy oaks,0,6
+1286,taqueria puro jalisco,Taqueria Puro Jalisco,3663 fredsbg rd ,3663 fredricksburg rd,taqueri puro jalisco,taqueri puro jalisco,fredricksburg,fredricksburg,0,0
+1287,juicessential,JUICEssential,17803 la cantera ter ,17803 la cantera ter,juicessential,juicessential,la cantera ter,la cantera ter,0,0
+1288,the trophy room inc,The Trophy Room,214 broadway ,214 broadway st, trophy room inc, trophy room,broadway,broadway,0,4
+1289,bill miller bbq #5,Bill Miller Bar-B-Q,2703 culebra rd ,2703 culebra rd,bill miller bbq #5,bill miller barbq,culebra,culebra,0,5
+1290,taqueria el rodeo de jalisco #,Taqueria El Rodeo De Jalisco,4044 culebra rd ,4044 culebra rd,taqueri  rodeo  jalisco #,taqueri  rodeo  jalisco,culebra,culebra,0,2
+1291,jersey mike's subs,Jersey Mike's Subs,7970 fredsbg rd ,7970 fredricksburg rd,jersey mike's subs,jersey mikes subs,fredricksburg,fredricksburg,0,1
+1292,wetmore city limits,Wetmore City Limits,12329 wetmore rd ,12329 wetmore rd,wetmore city limits,wetmore city limits,wetmore,wetmore,0,0
+1293,blossom food mart,Blossom Food Mart,11902 starcrest dr ,11902 starcrest dr,blossom food mart,blossom food mart,starcrest,starcrest,0,0
+1294,las palmas bakery,Las Palmas Bakery,528 iowa st ,528 iowa st, palmas bakery, palmas bakery,iowa,iowa,0,0
+1295,senor snow,Señor Snow,6563 babcock rd ,6563 babcock rd,senor snow,señor snow,babcock,babcock,0,1
+1296,speedy mart,Speedy Mart,9200 broadway ,9200 broadway st,speedy mart,speedy mart,broadway,broadway,0,0
