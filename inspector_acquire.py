@@ -15,7 +15,8 @@ def driver_init_chrome(headless = True):
     return webdriver.Chrome(executable_path = r'/Users/garrettwilliford/Downloads/chromedriver-2', options = fop)
 
 def driver_init():
-    return webdriver.PhantomJS(executable_path = r'/Users/mattsantos/Downloads/phantomjs-2.1.1-macosx/bin/phantomjs')
+    return webdriver.PhantomJS(executable_path = r'/Users/garrettwilliford/Downloads/phantomjs-2.1.1-macosx/bin/phantomjs')
+
 
 def hyperlink_append(final, link):
     data = pd.DataFrame()
@@ -58,11 +59,15 @@ def dataframe_webscraper(data, driver = False):
                 final['Violations'].append(violations)
                 final['Address'].append(address)
                 final['Inspector'].append(inspector)
-                print(str(iteration) + '/' + str(len(data)))
+                print('<<<<<<<<<<(' + str(iteration) + '/' + str(len(data)) + ')>>>>>>>>>>')
+                print(inspector)
+                print(address)
+                print(violations)
+                pickle.dump(final, open('df_merge_static.p', 'wb'))
                 iteration += 1
                 break
             except:
-                print('DRIVER_FAILED')
+                print('<<!|DRIVER_FAILED|!>>')
     if not driver:
         driver.quit()      
     return pd.DataFrame(final)
