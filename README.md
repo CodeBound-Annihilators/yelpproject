@@ -30,7 +30,10 @@ json
         The choice of Selenium over Beautiful Soup boiled down to personal preference and did not come at the cost of efficiency. The decision to use the Phantom JS driver was made because it provided better speed using the request method. **make sure to allow phantomjs in your secuirty preferences**
     - Using the available API from the Yelp website to get the information we needed to predict our target variable: Health inspector code. Yelp would only allow use to acquire 1,000 per inquiry, but by doing seperate inquires by type of reastaurant. By pulling each type of restaurant we are able to get the information needed (about 3,000 of the establishments in San Antonio)
 
-      - ##### The amount of health establishments vs the aquisistion of yelp is uneven due to the fact that health inspections apply to any place that will sell food including such estbaliushments that may just have a vending machine. We will be discarding these establiushments for this model.
+      - ##### The amount of health establishments vs the aquisistion of yelp is uneven due to the fact that health inspections apply to any place that will sell food including such establishments that may just have a vending machine. We will be discarding these establiushments for this model.
+
+      The results from the webscraping were appended to the manually procured health inspection data into a file titled: health_inspector_combined.csv
+
 
 #### The Joys of using the Yelp Fusion API ####
 
@@ -50,22 +53,66 @@ The Yelp API has a basic search based on what they call “Endpoints”. Those o
 BE PREPARED FOR THIS LOOP TO RUN FOR A LITTLE BIT
 
 CAVEAT: We are unfamiliar with how the request process works under the hood, so we cannot guarantee that the results you will obtain will be the results we obtained. We suspect that the results will be the same, if not very similar.
+ 
+ The results were stored in a file named 'yelp.csv'
 
-
-Working with the API Data From JSON
+#### Working with the API Data From JSON ####
 
 Imports: JSON, numpy, pandas
 
 From the JSON library we imported the JSON from the Yelp API. We created an empty data frame with defined columns to provide an easier path for the JSON data to be created. Having the defined columns prior to attempting to extract the information would make for easier data compiling. We extracted the file using a loop to extract the data. 
 
-In order to extract the different categories that the restaurants belonged to, it was necessary to create an empty dictionary and list. Using a series of embedded for loops, we extracted each category name, placed them into a list, and put it in a new column in the data frame. From that column, we created a loop that extracted
+In order to extract the different categories that the restaurants belonged to, it was necessary to create an empty dictionary and list. Using a series of embedded for loops, we extracted each category name, placed them into a list, and put it in a new column in the data frame. From that column, we created a loop that extracted each category and placed it within a list.
 
 
 
 
 2. Prep
-    ### Joining the Data
-    Using the address as primary key to join between the dataframes
-    - 
-    -
+
+### Preparing the dataframes to join on one another
+
+### Installs ###
+
+pip install Levenshtein
+
+A decision was made to join the data using by comaring the Levenshtein distance of certain words in the name and address of each location. More about Levenshtein distance can be found here:
+   
     Levenshtein distance (https://www.python-course.eu/levenshtein_distance.php)
+
+Steps involved in prepping and cleaning the data:
+1) Extracting Yelp API fusion data from the JSON file into a working data frame
+2) Cleaning particular rows using a combination of string methods and regex.
+3) Breaking down the heatlh department addresses and Yelp API addresses into seperate components. 
+    i.e. 1600/Pennsylvania/Ave  We chose to eliminate city/state because it only added noise to the model.
+4) Standardizing all columns that contained string objects (all lower case, stripping necessary white space, etc)
+5) Stemming and Lemmatizing restaurant names and addresses. This included eliminating articles such as A/An/The, popular filler words like of/on/in as well as eliminating their Spanish counterparts given the influence of Spanish/Mexican culture in San Antonio. For addresses, it was imperative to examine the data and find common misspellings (hyw instead of hwy) and correct them as well as eliminating suffixes like ct, blvd, st, bvd and ave/av
+
+These cleaning steps allowed us to successfully merge the information by using the levenshtein function. Short explanation of it: It's like a Rubix cube computation for changing from one word to another. ALso called an edit distance, the ideal distance in a merge like this would be zero. However, this wasn't the case for us, so we had to cycle between cleaning and rerunning the data through the Levenshtein function. Additionally, we ran multiple columns through the function. Specifically, we used the restaurant name and address columns from each dataframe to increase the chances of getting matches. This distance for the name column ended up as anything less than 7 and the address distance was everything less than a distance of 4. 
+
+### ANOTHER WESBITE THAT EXPLAINS HOW THE LEVENSHTEIN FUNCTION WORKS ###
+https://medium.com/@ethannam/understanding-the-levenshtein-distance-equation-for-beginners-c4285a5604f0
+
+Post merge you will see that the number of rows in your merged dataframe will have grown significantly. This is a normal output of using the Levenshtein function. The next step is to drop the non matching columns and duplicates in the dataframe to have a fully merged dataframe. 
+
+### MODELING ###
+
+BINNING SCORES TO RUN ANALYSIS
+
+To use a classification model, we knew that we'd have to bin our scores. What we initially could not decided upon was the appropriate number of bins to use. Our first thought was to bin each individual number from 100 - 90, and a final bin of 89 and below. But we couldn't really justify the reason for doing so. Instead, we decided to use KMeans clustering and the elbow method to examine what the best number of bins would be for our data. The result led to our decision to use 5 bins. The resulting cluster ranges and total data coutns for each were:
+
+98-100 : 723
+
+94-97 : 755
+
+89-93 : 608
+
+82-88 : 241
+
+56-81 : 82
+
+BASELINE MODEL: We created a baseline model by taking the bin with the highest number of entries and divided that number by the total number of data points : 755/2409 == .3134. We used this percentage as our baseline.
+
+We used a decision tree model with a RANDOM STATE of 42. The hyper parameters passed included a max depth of 5, min_samples_leaf=1, min_samples_split=2. 
+
+The fit on the training data resulted in .66 accuracy and the testing data was .63.
+
