@@ -5,6 +5,7 @@ from selenium.webdriver.chrome.options import Options
 from bs4 import BeautifulSoup as bsoup
 import re
 import json
+import time
 
 def driver_init_chrome(headless = True):
     if not headless:
@@ -64,6 +65,7 @@ def dataframe_webscraper(data, driver = False):
                 print(address)
                 print(violations)
                 pickle.dump(final, open('df_merge_static.p', 'wb'))
+                time.sleep()
                 iteration += 1
                 break
             except:
@@ -96,5 +98,6 @@ def driver_check():
     t = driver.find_elements_by_tag_name('media__link')
     for tt in t:
         print(tt.get_attribute('innerHTML'))
+
 
 
