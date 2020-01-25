@@ -2,7 +2,15 @@
 
 ### Goal: To predict the health inspection scores of restaurants in San Antonio, TX using yelp data
 
-*3,200 restaurants in San Antonio*
+### PIP INSTALLS THAT YOU MIGHT NEED TO MAKE:
+
+geopandas
+descartes
+shapely
+folium
+Levenshtein
+
+
 #### Prerequisites:
 
 #### Getting started:
@@ -87,7 +95,7 @@ Steps involved in prepping and cleaning the data:
 4) Standardizing all columns that contained string objects (all lower case, stripping necessary white space, etc)
 5) Stemming and Lemmatizing restaurant names and addresses. This included eliminating articles such as A/An/The, popular filler words like of/on/in as well as eliminating their Spanish counterparts given the influence of Spanish/Mexican culture in San Antonio. For addresses, it was imperative to examine the data and find common misspellings (hyw instead of hwy) and correct them as well as eliminating suffixes like ct, blvd, st, bvd and ave/av
 
-These cleaning steps allowed us to successfully merge the information by using the levenshtein function. Short explanation of it: It's like a Rubix cube computation for changing from one word to another. ALso called an edit distance, the ideal distance in a merge like this would be zero. However, this wasn't the case for us, so we had to cycle between cleaning and rerunning the data through the Levenshtein function. Additionally, we ran multiple columns through the function. Specifically, we used the restaurant name and address columns from each dataframe to increase the chances of getting matches. This distance for the name column ended up as anything less than 7 and the address distance was everything less than a distance of 4. 
+These cleaning steps allowed us to successfully merge the information by using the Levenshtein distance. Short explanation of it: It's like a Rubix cube computation for changing from one word to another. ALso called an edit distance, the ideal distance in a merge like this would be zero. However, this wasn't the case for us, so we had to cycle between cleaning and rerunning the data through the Levenshtein function. Additionally, we ran multiple columns through the function. Specifically, we used the restaurant name and address columns from each dataframe to increase the chances of getting matches. This distance for the name column ended up as anything less than 7 and the address distance was everything less than a distance of 4. 
 
 ### ANOTHER WESBITE THAT EXPLAINS HOW THE LEVENSHTEIN FUNCTION WORKS ###
 https://medium.com/@ethannam/understanding-the-levenshtein-distance-equation-for-beginners-c4285a5604f0
@@ -96,23 +104,28 @@ Post merge you will see that the number of rows in your merged dataframe will ha
 
 ### MODELING ###
 
-BINNING SCORES TO RUN ANALYSIS
+### BINNING SCORES TO RUN ANALYSIS
 
-To use a classification model, we knew that we'd have to bin our scores. What we initially could not decided upon was the appropriate number of bins to use. Our first thought was to bin each individual number from 100 - 90, and a final bin of 89 and below. But we couldn't really justify the reason for doing so. Instead, we decided to use KMeans clustering and the elbow method to examine what the best number of bins would be for our data. The result led to our decision to use 5 bins. The resulting cluster ranges and total data coutns for each were:
+To use a classification model, we knew that we'd have to bin our scores. What we initially could not decided upon was the appropriate number of bins to use. Our first thought was to bin each individual number from 100 - 90, and a final bin of 89 and below. However, results of that produce a model that would not beat the baseline. We noted the importance of the scoring of 100 and from there created three additional bins by way of trail and error to create consistency in the value counts. We ended up with the following bins and counts:
 
-98-100 : 723
+100 : 447
 
-94-97 : 755
+96-99 : 697
 
-89-93 : 608
+92-95 : 608
 
-82-88 : 241
-
-56-81 : 82
+<92 : 657
 
 BASELINE MODEL: We created a baseline model by taking the bin with the highest number of entries and divided that number by the total number of data points : 755/2409 == .3134. We used this percentage as our baseline.
 
-We used a decision tree model with a RANDOM STATE of 42. The hyper parameters passed included a max depth of 5, min_samples_leaf=1, min_samples_split=2. 
 
-The fit on the training data resulted in .66 accuracy and the testing data was .63.
+MODEL ONE: Using Yelp Data
+
+We used a decision tree model first with a RANDOM STATE of 42. The hyper parameters passed included a max depth of 5, min_samples_leaf=1, min_samples_split=2. 
+
+This produced a model with an accuracy of .36. An improvement over the baseline model but having discovered that the relationship between the inspector and the scores they give was significant, we decided to create a feature that took into account the likelihood of an inspector assigning a score in a bin and used those features in the same classification model. This resulted in a accuracy score on the test data of .41.
+
+### Limitations of the Model
+
+We were unable to find a coherent method to classify the food categories of each restaurant. Using relative geographic data from the health department files did not improve the model to a greater extent than the inspector score probabilities did. 
 
