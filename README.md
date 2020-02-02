@@ -4,11 +4,11 @@
 
 ### PIP INSTALLS THAT YOU MIGHT NEED TO MAKE:
 
-geopandas
-descartes
-shapely
-folium
-Levenshtein
+geopandas,
+descartes,
+shapely,
+folium,
+Levenshtein.
 
 
 #### Quick Run Through (Uses our aggregated datasets instesad of creating them from scratch):
