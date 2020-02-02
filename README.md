@@ -21,7 +21,7 @@ Levenshtein
  - 5_exploration.ipynb
 
 
-
+### Creating datasets from scratch (scraping inspector name from links in CSV and getting Yelp data from Fusion API)
 #### Getting started:
 1. Acquire Data
 
