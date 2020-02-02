@@ -11,7 +11,16 @@ folium
 Levenshtein
 
 
-#### Prerequisites:
+#### Quick Run Through (Uses our aggregated datasets instesad of creating them from scratch):
+##### Run these jupyter notebooks in the order below.
+
+ - 1_create_health_and_inspector_dataframe.ipynb
+ - 2_create_yelp_dataframe.ipynb	
+ - 3_levenshtein_merge_yelp_and_health_data.ipynb
+ - 4_Master_Model.ipynb
+ - 5_exploration.ipynb
+
+
 
 #### Getting started:
 1. Acquire Data
