@@ -12,7 +12,7 @@ Levenshtein.
 
 
 #### Quick Run Through (Uses our aggregated datasets instesad of creating them from scratch):
-##### For a Quick Run Through, Run these jupyter notebooks in the order below.
+##### For a quick run through fork our repo and run these jupyter notebooks in the order below.
 
  - 1_create_health_and_inspector_dataframe.ipynb
  - 2_create_yelp_dataframe.ipynb	
